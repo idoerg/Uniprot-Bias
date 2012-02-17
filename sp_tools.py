@@ -9,6 +9,7 @@ import collections
 
 # edits: AMS Jan 4, 2012
 
+#edit IF 2/17/2012
 # Set of GO experimental evidence codes
 EEC = set(['EXP','IDA','IPI','IMP','IGI','IEP'])
 
