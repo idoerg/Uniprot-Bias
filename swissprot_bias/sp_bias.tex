@@ -1,0 +1,484 @@
+%% BioMed_Central_Tex_Template_v1.05
+%%                                      %
+%  bmc_article.tex            ver: 1.05 %
+%                                       %
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                     %%
+%%  LaTeX template for BioMed Central  %%
+%%     journal article submissions     %%
+%%                                     %%
+%%         <27 January 2006>           %%
+%%                                     %%
+%%                                     %%
+%% Uses:                               %%
+%% cite.sty, url.sty, bmc_article.cls  %%
+%% ifthen.sty. multicol.sty		       %%
+%%									   %%
+%%                                     %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                 %%	
+%% For instructions on how to fill out this Tex template           %%
+%% document please refer to Readme.pdf and the instructions for    %%
+%% authors page on the biomed central website                      %%
+%% http://www.biomedcentral.com/info/authors/                      %%
+%%                                                                 %%
+%% Please do not use \input{...} to include other tex files.       %%
+%% Submit your LaTeX manuscript as one .tex document.              %%
+%%                                                                 %%
+%% All additional figures and files should be attached             %%
+%% separately and not embedded in the \TeX\ document itself.       %%
+%%                                                                 %%
+%% BioMed Central currently use the MikTex distribution of         %%
+%% TeX for Windows) of TeX and LaTeX.  This is available from      %%
+%% http://www.miktex.org                                           %%
+%%                                                                 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\NeedsTeXFormat{LaTeX2e}[1995/12/01]
+\documentclass[10pt]{bmc_article}    
+
+
+
+% Load packages
+\usepackage{cite} % Make references as [1-4], not [1,2,3,4]
+\usepackage{url}  % Formatting web addresses  
+\usepackage{ifthen}  % Conditional 
+\usepackage{multicol}   %Columns
+\usepackage[utf8]{inputenc} %unicode support
+%\usepackage[applemac]{inputenc} %applemac support if unicode package fails
+%\usepackage[latin1]{inputenc} %UNIX support if unicode package fails
+\urlstyle{rm}
+ 
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
+%%                                             %%
+%%  If you wish to display your graphics for   %%
+%%  your own use using includegraphic or       %%
+%%  includegraphics, then comment out the      %%
+%%  following two lines of code.               %%   
+%%  NB: These line *must* be included when     %%
+%%  submitting to BMC.                         %% 
+%%  All figure files must be submitted as      %%
+%%  separate graphics through the BMC          %%
+%%  submission process, not included in the    %% 
+%%  submitted article.                         %% 
+%%                                             %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                     
+
+
+\def\includegraphic{}
+\def\includegraphics{}
+
+
+
+\setlength{\topmargin}{0.0cm}
+\setlength{\textheight}{21.5cm}
+\setlength{\oddsidemargin}{0cm} 
+\setlength{\textwidth}{16.5cm}
+\setlength{\columnsep}{0.6cm}
+
+\newboolean{publ}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                              %%
+%% You may change the following style settings  %%
+%% Should you wish to format your article       %%
+%% in a publication style for printing out and  %%
+%% sharing with colleagues, but ensure that     %%
+%% before submitting to BMC that the style is   %%
+%% returned to the Review style setting.        %%
+%%                                              %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+
+%Review style settings
+\newenvironment{bmcformat}{\begin{raggedright}\baselineskip20pt\sloppy\setboolean{publ}{false}}{\end{raggedright}\baselineskip20pt\sloppy}
+
+%Publication style settings
+%\newenvironment{bmcformat}{\fussy\setboolean{publ}{true}}{\fussy}
+
+
+
+% Begin ...
+\begin{document}
+\begin{bmcformat}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% Enter the title of your article here     %%
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Source of Functional Annotations in UniProtKB and implications for
+Function Prediction}
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% Enter the authors here                   %%
+%%                                          %%
+%% Ensure \and is entered between all but   %%
+%% the last two authors. This will be       %%
+%% replaced by a comma in the final article %%
+%%                                          %%
+%% Ensure there are no trailing spaces at   %% 
+%% the ends of the lines                    %%     	
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\author{Charles A Darwin\correspondingauthor$^{1,2}$%
+       \email{Charles A Darwin\correspondingauthor - charles@londonzoo.co.uk}%
+      \and
+         Jane E Doe\correspondingauthor$^2$%
+         \email{Jane E Doe\correspondingauthor - jane.e.doe@cambridge.co.uk}
+       and 
+         John RS Smith$^3$%
+         \email{John RS Smith - john.RS.Smith@cambridge.co.uk}%
+      }
+      
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% Enter the authors' addresses here        %%
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\address{%
+    \iid(1)Life Sciences Department, Kings College London, Cornwall House,%
+        Waterloo Road, London, UK\\
+    \iid(2)Department of Zoology, Cambridge, Waterloo Road, London, UK\\
+    \iid(3)Marine Ecology Department, Institute of Marine Sciences Kiel, %
+        D\"{u}sternbrooker Weg 20, 24105 Kiel, Germany
+}%
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% The Abstract begins here                 %%
+%%                                          %%
+%% The Section headings here are those for  %%
+%% a Research article submitted to a        %%
+%% BMC-Series journal.                      %%  
+%%                                          %%
+%% If your article is not of this type,     %%
+%% then refer to the Instructions for       %%
+%% authors on http://www.biomedcentral.com  %%
+%% and change the section headings          %%
+%% accordingly.                             %%   
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{abstract}
+        % Do not use inserted blank lines (ie \\) until main body of text.
+        \paragraph*{Background:} Computational protein function
+prediction programs rely upon well-annotated databases for training
+their algorithms. These databases, in turn, rely upon the work of curators
+applying experimental findings from scientific literature to protein
+sequence data. However, with the advent of various high-throughput experimental
+assays, there are a few papers that dominate the protein annotation
+field. Here we investigate just how prevalent is the ``few papers --
+many proteins'' bias. We discuss how this bias affects our view of the
+protein function universe, and consequently our ability to predict
+protein function.
+      
+        \paragraph*{Results:} We examine the annotation of
+UniProtKB by the Gene Ontology Annotation project (GOA), and show that
+the distribution of proteins per paper is a log-odd, with X papers
+dominating X\% of the annotations. Since each of the dominant papers
+describes the use of an assay that can find only one function or a small
+group of functions, this leads to a substantial bias in what we know
+about the function of many proteins.
+
+        \paragraph*{Conclusions:} Given the experimental techniques
+available, the protein function annotation bias is unavoidable. Knowing
+that this bias exists and understanding its extent is important for
+database curators, developers of function annotation programs, and
+anyone who uses protein function annotation data to plan experiments.
+
+\end{abstract}
+
+
+
+\ifthenelse{\boolean{publ}}{\begin{multicols}{2}}{}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                          %%
+%% The Main Body begins here                %%
+%%                                          %%
+%% The Section headings here are those for  %%
+%% a Research article submitted to a        %%
+%% BMC-Series journal.                      %%  
+%%                                          %%
+%% If your article is not of this type,     %%
+%% then refer to the instructions for       %%
+%% authors on:                              %%
+%% http://www.biomedcentral.com/info/authors%%
+%% and change the section headings          %%
+%% accordingly.                             %% 
+%%                                          %%
+%% See the Results and Discussion section   %%
+%% for details on how to create sub-sections%%
+%%                                          %%
+%% use \cite{...} to cite references        %%
+%%  \cite{koon} and                         %%
+%%  \cite{oreg,khar,zvai,xjon,schn,pond}    %%
+%%  \nocite{smith,marg,hunn,advi,koha,mouse}%%
+%%                                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%%%%%%%
+%% Background %%
+%%
+\section*{Background}
+ Text for this section.
+
+Functional annotation of proteins is a cardinal challenge in molecular biology today. It has
+been said that while we may soon reach the \$1,000 genome (and for some prokaryotes, indeed
+we have), we will still need to pay \$20,000 analysis bill. There are and estimated XXX
+non-redundant open reading frame sequences, but less than 40\% are functionally annotated.
+Moreover, the majority of functional annotations 
+
+
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Results and Discussion %%
+%%
+\section*{Results and Discussion}
+  \subsection*{Papers and proteins}
+
+    As described in the Background section, with the advent of
+high-throughput experiments it has become possible to conduct
+large-scale interrogations of protein functions. Some papers therefore
+reveal one or more functional aspects of a large amount of proteins
+which respond to the particular type of interrogation conducted. To
+understand how prevalent this phenomenon is, we looked at the UniprotKB
+gene ontology annotation files, or UniProt GOA. UniProtKB is annotated
+by GO terms both manually and automatically using an exacting procedure
+described in \cite{UniprotKB-GOA}. Briefly, there is a six-step
+procedure which includes sequence curation, sequence motif analyses,
+literature-based curation, reciprocal BLAST\cite{BLAST} searches,
+attribution of all resources leading to the included findings, and a
+quality assurance phase. If the source is a research article, the
+attribution includes a PubMed ID.  For each GO term associated with a
+protein, there is also an \textit{evidence code} with which is used to
+explain how the association between the protein and the GO term was
+made. Experimental evidence codes include such terms as: Inferred by
+Direct Assay (IDA) which indicates that ``a direct assay was carried out
+to determine the function, process, or component indicated by the GO
+term'' or \textit{Inferred from Physical Interaction} (IPI) which ``Covers
+physical interactions between the gene product of interest and another
+molecule.'' (Quotes are from the GO site, geneontology.org). The
+computational analysis evidence codes are generally considered less
+reliable than the experimental ones, and include terms such as
+\textit{Inferred from Sequence or Structural Similarity} (ISS) and
+\textit{Inferred from Sequence Orthology} (ISO). However, these are still
+assigned by a curator. There are also
+non-computational and non-experimental evidence codes, the most
+prevalent being \textit{Inferred from Electronic Annotation} (IEA) ``Used
+for annotations that depend directly on computation or automated
+transfer of annotations from a database''. IEA evidence means that the
+annotation was not made by a curator, and is not checked manually. 
+
+Different degrees of reliability are associated with the  evidence codes, with
+experimental codes considered to be of higher reliability than non-experimental
+codes. However, due to an ongoing increase in high-throughput experimental
+methods, we suspected that high-throughput experiments may dominate the protein
+annotation landscape. 
+
+To test our hypothesis, we first examined assignments with two degrees of reliability:
+experimental evidence codes (EXP, IDA, IPI, IMP, IGI, IEP), and all others. The
+reason for this partition into two groups is that we wanted to know which, if
+any, high throughput experiments dominate the protein function annotation
+landscape. This we compared with a baseline of annotations of all types of
+evidence, and with those which are non-experimental. The results are shown in
+Figure\ref{fig:papers-prots}.
+
+As can be seen in Figure\ref{fig:papers-prots}, the distribution of proteins
+annotated per paper follows a log-odds ZZZcheckthis ratio.  Many proteins are annotated by a
+few papers. (ZZZNeed to look at the percentage of proteins annotated by the top
+10, top 20 papers.) We therefore conclude that there is indeed a bias in
+experimental annotations, in which there are few papers that annotate a large
+number of proteins.
+
+Our next question was how much annotation bias these papers introduce. We decided
+to look who are the top contributing papers to protein annotation in
+UniProtKB-GOA, and what type of GO terms they contribute.  The results to the
+first question are summarized in Table\ref{table:top-papers}.  As can be seen,
+almost all of the papers are specific to a single species (typically a model
+organism) and assay that is used to annotate the proteins in that organism. Since
+a single assay was used, then typically only one ontology (MF, BP or CC) was
+annotated. 
+ 
+\subsection*{Annotation bias in model organisms}
+To see how much a single species-- and method-- specific large-scale assay
+affects the entire annotation of a species, we examined the relative contribution
+of each paper to the entire corpus of experimentally annotated protein in that species.
+All the species we examined were model organisms, as all the top annotation-contributing papers
+dealt with model organisms. 
+The results are summarized in Figure\ref{fig:rel-contrib}.
+
+\subsection*{Annotation quality}
+One reflection on annotation coverage is the number of GO terms assigned to
+any given protein. Ostensibly, the larger the number of GO terms that are assigned to a
+protein, the more comprehensive its annotation, provided that these terms are non-redundant, i.e.
+not direct parents of each other. 
+
+The median number of annotations per protein was 1.09, which means that most of the top-50
+papers do not provide more than a single GO-term per annotation. Also, the mean number of
+annotations per protein was 1.59. The difference between the mean and median reflects that
+most papers have an annotations-per-protein ration which is close to 1, whereas few have a
+higher annotation ratio. As shown in Figure~\ref{fig:annotation-ratio}, that is essentially
+the case. Seven papers had an annotations per proteins ratio which is above 2. Those
+were paper numbers 1, 4, 10, 23, 34 and 43 on the list. We decided to examine these papers
+to see whether these studies did indeed provide better coverage, and what distinguished them
+from the other high throughput studies. 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%
+\section*{Conclusions}
+  Text for this section \ldots
+
+
+  
+%%%%%%%%%%%%%%%%%%
+\section*{Methods}
+  \subsection*{Databases used}
+    Text for this sub-section \ldots
+
+  \subsection*{Another methods sub-heading for this section}
+    Text for this sub-section \ldots
+
+  \subsection*{Yet another sub-heading for this section}
+    Text for this sub-section \ldots
+
+
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Authors contributions}
+    Text for this section \ldots
+
+    
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Acknowledgements}
+  \ifthenelse{\boolean{publ}}{\small}{}
+  Text for this section \ldots
+
+
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                  The Bibliography                       %%
+%%                                                         %%              
+%%  Bmc_article.bst  will be used to                       %%
+%%  create a .BBL file for submission, which includes      %%
+%%  XML structured for BMC.                                %%
+%%                                                         %%
+%%                                                         %%
+%%  Note that the displayed Bibliography will not          %% 
+%%  necessarily be rendered by Latex exactly as specified  %%
+%%  in the online Instructions for Authors.                %% 
+%%                                                         %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+{\ifthenelse{\boolean{publ}}{\footnotesize}{\small}
+ \bibliographystyle{bmc_article}  % Style BST file
+  \bibliography{bmc_article} }     % Bibliography file (usually '*.bib' ) 
+
+%%%%%%%%%%%
+
+\ifthenelse{\boolean{publ}}{\end{multicols}}{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                               %%
+%% Figures                       %%
+%%                               %%
+%% NB: this is for captions and  %%
+%% Titles. All graphics must be  %%
+%% submitted separately and NOT  %%
+%% included in the Tex document  %%
+%%                               %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%
+%% Do not use \listoffigures as most will included as separate files
+
+\section*{Figures}
+  \subsection*{Figure 1 - Sample figure title}
+      A short description of the figure content
+      should go here.
+
+  \subsection*{Figure 2 - Sample figure title}
+      Figure legend text.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                               %%
+%% Tables                        %%
+%%                               %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Use of \listoftables is discouraged.
+%%
+\section*{Tables}
+  \subsection*{Table 1 - Sample table title}
+    Here is an example of a \emph{small} table in \LaTeX\ using  
+    \verb|\tabular{...}|. This is where the description of the table 
+    should go. \par \mbox{}
+    \par
+    \mbox{
+      \begin{tabular}{|c|c|c|}
+        \hline \multicolumn{3}{|c|}{My Table}\\ \hline
+        A1 & B2  & C3 \\ \hline
+        A2 & ... & .. \\ \hline
+        A3 & ..  & .  \\ \hline
+      \end{tabular}
+      }
+  \subsection*{Table 2 - Sample table title}
+    Large tables are attached as separate files but should
+    still be described here.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                               %%
+%% Additional Files              %%
+%%                               %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Additional Files}
+  \subsection*{Additional file 1 --- Sample additional file title}
+    Additional file descriptions text (including details of how to
+    view the file, if it is in a non-standard format or the file extension).  This might
+    refer to a multi-page table or a figure.
+
+  \subsection*{Additional file 2 --- Sample additional file title}
+    Additional file descriptions text.
+
+
+\end{bmcformat}
+\end{document}
+
+
+
+
+
+
+
