@@ -185,9 +185,9 @@ Function Prediction}
 prediction programs rely upon well-annotated databases for training
 their algorithms. These databases, in turn, rely upon the work of curators
 applying experimental findings from scientific literature to protein
-sequence data. However, with the advent of various high-throughput experimental
-assays, there are a few papers that dominate the protein annotation
-field. Here we investigate just how prevalent is the ``few papers --
+sequence data. However, due to various high-throughput experimental
+assays, there are a few papers that dominate the protein annotations.
+Here we investigate just how prevalent is the ``few papers --
 many proteins'' bias. We discuss how this bias affects our view of the
 protein function universe, and consequently our ability to predict
 protein function.
@@ -275,7 +275,7 @@ described in \cite{UniprotKB-GOA}. Briefly, there is a six-step
 procedure which includes sequence curation, sequence motif analyses,
 literature-based curation, reciprocal BLAST\cite{BLAST} searches,
 attribution of all resources leading to the included findings, and a
-quality assurance phase. If the source is a research article, the
+quality assurance phase. If the annotation source is a research article, the
 attribution includes a PubMed ID.  For each GO term associated with a
 protein, there is also an \textit{evidence code} with which is used to
 explain how the association between the protein and the GO term was
@@ -335,10 +335,11 @@ dealt with model organisms.
 The results are summarized in Figure\ref{fig:rel-contrib}.
 
 \subsection*{Annotation quality}
-One reflection on annotation coverage is the number of GO terms assigned to
-any given protein. Ostensibly, the larger the number of GO terms that are assigned to a
-protein, the more comprehensive its annotation, provided that these terms are non-redundant, i.e.
-not direct parents of each other. 
+
+One reflection on annotation coverage is the number of GO terms assigned to any
+given protein. Ostensibly, the larger the number of GO terms that are assigned to a
+protein, the more comprehensive its annotation, provided that these terms are
+non-redundant, i.e.  not direct parents of each other. 
 
 The median number of annotations per protein was 1.09, which means that most of the top-50
 papers do not provide more than a single GO-term per annotation. Also, the mean number of
@@ -348,7 +349,21 @@ higher annotation ratio. As shown in Figure~\ref{fig:annotation-ratio}, that is 
 the case. Seven papers had an annotations per proteins ratio which is above 2. Those
 were paper numbers 1, 4, 10, 23, 34 and 43 on the list. We decided to examine these papers
 to see whether these studies did indeed provide better coverage, and what distinguished them
-from the other high throughput studies. 
+from the other high throughput studies. To follow are brief summaries of the
+methodologies used in these papers.
+
+\textbf{Toward a confocal subcellular atlas of the human proteome.}
+
+In this microscopy-based study, the authors used specific staining techniques and
+confocal microscopy to describe the subcellular localization of 4937 proteins, which
+were each assigned to one or more of ten different subcellular compartments. Since
+proteins may be assigned to more than a single compartment, there is a mean of 2.23
+GO annotations per protein. The most frequent term was GO:0016235
+\textit{centrosome} which is defined as ``an inclusion body formed by
+dynein-dependent retrograde transport of an aggregated protein on
+microtubules''\cite{PMID:11121744}. 
+
+
 
 
 
