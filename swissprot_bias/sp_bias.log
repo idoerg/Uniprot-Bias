@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.2.9)  17 FEB 2012 12:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.2.9)  27 FEB 2012 17:20
 entering extended mode
  %&-line parsing enabled.
 **sp_bias
@@ -367,9 +367,13 @@ LaTeX Warning: Reference `fig:rel-contrib' on page 3 undefined on input line 33
 
 
 LaTeX Warning: Reference `fig:annotation-ratio' on page 3 undefined on input li
-ne 347.
+ne 348.
 
-[3] (./sp_bias.bbl
+[3]
+
+LaTeX Warning: Citation `PMID:11121744' on page 4 undefined on input line 364.
+
+(./sp_bias.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 7.
 
@@ -379,12 +383,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 806 strings out of 493849
- 8977 string characters out of 1152847
- 61679 words of memory out of 3000000
- 4114 multiletter control sequences out of 15000+50000
+ 807 strings out of 493849
+ 8992 string characters out of 1152847
+ 60679 words of memory out of 3000000
+ 4115 multiletter control sequences out of 15000+50000
  10506 words of font info for 37 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  29i,8n,21p,161b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sp_bias.dvi (5 pages, 12804 bytes).
+Output written on sp_bias.dvi (5 pages, 13596 bytes).

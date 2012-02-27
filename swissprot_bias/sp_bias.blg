@@ -5,9 +5,10 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: bmc_article.bib
 Warning--I didn't find a database entry for "UniprotKB-GOA"
 Warning--I didn't find a database entry for "BLAST"
+Warning--I didn't find a database entry for "PMID:11121744"
 You've used 0 entries,
             3603 wiz_defined-function locations,
-            696 strings with 5074 characters,
+            698 strings with 5100 characters,
 and the built_in function-call counts, 40 in all, are:
 = -- 0
 > -- 0
@@ -46,4 +47,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 10
-(There were 2 warnings)
+(There were 3 warnings)
