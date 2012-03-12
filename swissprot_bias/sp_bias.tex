@@ -192,13 +192,12 @@ many proteins'' bias. We discuss how this bias affects our view of the
 protein function universe, and consequently our ability to predict
 protein function.
       
-        \paragraph*{Results:} We examine the annotation of
-UniProtKB by the Gene Ontology Annotation project (GOA), and show that
-the distribution of proteins per paper is a log-odd, with X papers
-dominating X\% of the annotations. Since each of the dominant papers
-describes the use of an assay that can find only one function or a small
-group of functions, this leads to a substantial bias in what we know
-about the function of many proteins.
+        \paragraph*{Results:} We examine the annotation of UniProtKB by the Gene
+Ontology Annotation project (GOA), and show that the distribution of proteins
+annotated per paper follows a scale-free distribution, with X papers dominating X\%
+of the annotations. Since each of the dominant papers describes the use of an assay
+that can find only one function or a small group of functions, this leads to a
+substantial bias in what we know about the function of many proteins.
 
         \paragraph*{Conclusions:} Given the experimental techniques
 available, the protein function annotation bias is unavoidable. Knowing
@@ -311,7 +310,7 @@ evidence, and with those which are non-experimental. The results are shown in
 Figure\ref{fig:papers-prots}.
 
 As can be seen in Figure\ref{fig:papers-prots}, the distribution of proteins
-annotated per paper follows a log-odds ZZZcheckthis ratio.  Many proteins are annotated by a
+annotated per paper follows a scale-free distribution.  Many proteins are annotated by a
 few papers. (ZZZNeed to look at the percentage of proteins annotated by the top
 10, top 20 papers.) We therefore conclude that there is indeed a bias in
 experimental annotations, in which there are few papers that annotate a large
@@ -321,30 +320,31 @@ Our next question was how much annotation bias these papers introduce. We decide
 to look who are the top contributing papers to protein annotation in
 UniProtKB-GOA, and what type of GO terms they contribute.  The results to the
 first question are summarized in Table\ref{table:top-papers}.  As can be seen,
-almost all of the papers are specific to a single species (typically a model
+each paper is specific to a single species (typically a model
 organism) and assay that is used to annotate the proteins in that organism. Since
 a single assay was used, then typically only one ontology (MF, BP or CC) was
 annotated. 
  
 \subsection*{Annotation bias in model organisms}
-To see how much a single species-- and method-- specific large-scale assay
-affects the entire annotation of a species, we examined the relative contribution
-of each paper to the entire corpus of experimentally annotated protein in that species.
-All the species we examined were model organisms, as all the top annotation-contributing papers
-dealt with model organisms. 
-The results are summarized in Figure\ref{fig:rel-contrib}.
+
+To see how much a single species-- and method-- specific large-scale assay affects
+the entire annotation of a species, we examined the relative contribution of each
+paper to the entire corpus of experimentally annotated protein in that species.  All
+the species we examined were model organisms, as all the top annotation-contributing
+papers dealt with model organisms.  The results are summarized in
+Figure\ref{fig:rel-contrib}.
 
 \subsection*{Annotation quality}
 
 One reflection on annotation coverage is the number of GO terms assigned to any
 given protein. Ostensibly, the larger the number of GO terms that are assigned to a
 protein, the more comprehensive its annotation, provided that these terms are
-non-redundant, i.e.  not direct parents of each other. 
+non-redundant, i.e. not direct parents of each other. 
 
 The median number of annotations per protein was 1.09, which means that most of the top-50
 papers do not provide more than a single GO-term per annotation. Also, the mean number of
 annotations per protein was 1.59. The difference between the mean and median reflects that
-most papers have an annotations-per-protein ration which is close to 1, whereas few have a
+most papers have an annotations-per-protein ratio which is close to 1, whereas few have a
 higher annotation ratio. As shown in Figure~\ref{fig:annotation-ratio}, that is essentially
 the case. Seven papers had an annotations per proteins ratio which is above 2. Those
 were paper numbers 1, 4, 10, 23, 34 and 43 on the list. We decided to examine these papers
@@ -358,12 +358,11 @@ In this microscopy-based study, the authors used specific staining techniques an
 confocal microscopy to describe the subcellular localization of 4937 proteins, which
 were each assigned to one or more of ten different subcellular compartments. Since
 proteins may be assigned to more than a single compartment, there is a mean of 2.23
-GO annotations per protein. The most frequent term was GO:0016235
-\textit{centrosome} which is defined as ``an inclusion body formed by
-dynein-dependent retrograde transport of an aggregated protein on
-microtubules''\cite{PMID:11121744}. 
+GO annotations per protein. 
+\cite{PMID:11121744}. 
 
 
+It appears that most of the high-annotating papers are 
 
 
 
