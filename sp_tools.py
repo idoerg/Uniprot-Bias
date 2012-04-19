@@ -595,6 +595,45 @@ def get_papers(sp_rec):
                 refs[refid[1]] = ref.title
     return refs
     
+from sets import Set
+def redundant_annotations(go_papers_dict):
+    go_con, go_cur = gu.open_go()
+    ancestors_found = {}
+    to_remove = {}
+    gpd_leaves_only = {}
+    for pmid in go_papers_dict.keys(): #[:1000]:
+        if len(go_papers_dict[pmid]) < 2:
+            continue
+        for i in range(len(go_papers_dict[pmid])):
+            for j in range(len(go_papers_dict[pmid])):
+                if j >= i: continue
+                go_id_1 = go_papers_dict[pmid][i]['go_id']
+                go_id_2 = go_papers_dict[pmid][j]['go_id']
+                if go_id_1 == go_id_2: continue
+                sp_id_1 = go_papers_dict[pmid][i]['sp_id']
+                sp_id_2 = go_papers_dict[pmid][j]['sp_id']
+                if sp_id_1 != sp_id_2: continue
+                if gu.is_ancestor(go_id_1, go_id_2, go_cur):
+                    ancestors_found[(pmid,go_id_1,go_id_2)] = \
+                        ancestors_found.get((pmid,go_id_1,go_id_2),0) + 1
+                    to_remove.setdefault(pmid,Set([])).add(j)
+                    #ancestors_found.setdefault(pmid,[]).append(go_id_1,go_id_2)
+                elif gu.is_ancestor(go_id_2, go_id_1, go_cur):
+                    ancestors_found[(pmid,go_id_2,go_id_1)] = \
+                        ancestors_found.get((pmid,go_id_2,go_id_1),0) + 1
+                    to_remove.setdefault(pmid,Set([])).add(i)
+                    #ancestors_found.setdefault(pmid,[]).append(go_id_2,go_id_1)
+    go_con.close()
+    for pmid in go_papers_dict:
+        if pmid not in to_remove:
+            gpd_leaves_only[pmid] = go_papers_dict[pmid]
+            continue
+        else:
+            gpd_leaves_only[pmid] = []
+            for i in range(len(go_papers_dict[pmid])):
+                if i not in to_remove[pmid]:
+                    gpd_leaves_only[pmid].append(go_papers_dict[pmid][i])
+            
+            
 
-
-
+    return ancestors_found, to_remove,gpd_leaves_only
