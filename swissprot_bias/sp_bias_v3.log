@@ -1,17 +1,22 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.3.22)  15 APR 2012 15:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.2.9)  25 APR 2012 13:37
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **sp_bias_v3
 (./sp_bias_v3.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
 (./bmc_article.cls
 Document Class: bmc_article 2003/09/01 v1.01 BioMed Central article class
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -29,19 +34,19 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \c@bmc@correspondingauthor=\count87
 \c@bmc@emailcounter=\count88
 )
-(/usr/share/texmf-dist/tex/latex/cite/cite.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 373.
-Package: cite 2010/09/10  v 5.3
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 285.
+LaTeX Info: Redefining \nocite on input line 356.
+Package: cite 2009/08/29  v 5.2
 )
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
 Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \c@tracingmulticols=\count89
 \mult@box=\box26
@@ -88,19 +93,19 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
 )
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/share/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -250,7 +255,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -281,7 +286,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -304,8 +309,7 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-))
-No file sp_bias_v3.aux.
+)) (./sp_bias_v3.aux)
 \openout1 = `sp_bias_v3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
@@ -379,30 +383,41 @@ LaTeX Warning: Reference `table:top-papers' on page 4 undefined on input line 3
 56.
 
 
-LaTeX Warning: Reference `fig:rel-contrib' on page 4 undefined on input line 36
-8.
+LaTeX Warning: Reference `fig:rel-contrib' on page 4 undefined on input line 37
+0.
 
 
-LaTeX Warning: Reference `fig:annotation-ratio' on page 4 undefined on input li
-ne 381.
+LaTeX Warning: Reference `tab:prop-bias' on page 4 undefined on input line 383.
+
+
+
+LaTeX Warning: Citation `lord-semsim' on page 4 undefined on input line 395.
 
 [4]
 
-LaTeX Warning: Citation `PMID:11121744' on page 5 undefined on input line 397.
+LaTeX Warning: Reference `fig:annotation-ratio' on page 5 undefined on input li
+ne 412.
+
+
+LaTeX Warning: Citation `PMID:11121744' on page 5 undefined on input line 427.
+
+[5]
+
+LaTeX Warning: Citation `PMID:17417969' on page 6 undefined on input line 432.
 
 No file sp_bias_v3.bbl.
-[5] [6] (./sp_bias_v3.aux)
+[6] [7] (./sp_bias_v3.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 810 strings out of 495071
- 8999 string characters out of 3182827
- 59172 words of memory out of 3000000
- 4023 multiletter control sequences out of 15000+200000
- 10506 words of font info for 37 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 814 strings out of 493849
+ 9137 string characters out of 1152847
+ 61679 words of memory out of 3000000
+ 4123 multiletter control sequences out of 15000+50000
+ 10865 words of font info for 38 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
  29i,8n,21p,164b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sp_bias_v3.dvi (6 pages, 16864 bytes).
+Output written on sp_bias_v3.dvi (7 pages, 20280 bytes).

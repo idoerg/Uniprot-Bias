@@ -15,7 +15,7 @@ go_ec_count = sp_tools.go_terms_with_ec_per_paper(papersExp_dict, top=top) # thi
 allEvCodes_dict = sp_tools.ev_codes_all_papers(papersExp_dict)
 sortedProtsPerPaper_tuple = sp_tools.sort_papers_prots(papers_protsExp_dict)
 sp_tools.print_paper_per_prots_go(papers_annots2_dict, all_tt_count, go_ec_count, allEvCodes_dict, 
-                         sortedProtsPerPaper_tuple, "allExpPaperInfoTop50.txt", top=top)
+                         sortedProtsPerPaper_tuple, "FOOallExpPaperInfoTop50.txt", top=top)
 
 # Not experimental
 """papersNoExp_handle = open('goa-pickles/goa_not_exp_papers.pik', 'rb')
@@ -48,7 +48,7 @@ go_ec_count_all = sp_tools.go_terms_with_ec_per_paper(papersAllExp_dict, top=top
 allEvCodes_dict_all = sp_tools.ev_codes_all_papers(papersAllExp_dict)
 sortedProtsPerPaper_tuple_all = sp_tools.sort_papers_prots(papers_protsAllExp_dict)
 sp_tools.print_paper_per_prots_go(papers_anallts2_dict_all, all_tt_count_all, go_ec_count_all, allEvCodes_dict_all, 
-                         sortedProtsPerPaper_tuple_all, "allAllExpPaperInfoTop50.txt", top=top)
+                         sortedProtsPerPaper_tuple_all, "FOOallAllExpPaperInfoTop50.txt", top=top)
 
 
 

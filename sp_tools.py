@@ -10,11 +10,14 @@ import collections
 # edits: AMS Jan 4, 2012
 
 #edit IF 2/17/2012
+#edit IF 2-APR-2012 changed the efetch call 
+# instead of id=idlist in you fetch line with id=",".join(idlist).
+
 # Set of GO experimental evidence codes
 EEC = set(['EXP','IDA','IPI','IMP','IGI','IEP'])
 
 #Email address used for NCBI efetch tools
-MY_EMAIL = 'schnoes@gmail.com'
+MY_EMAIL = 'idoerg@gmail.com'
 
 #cPickle
 #When using the pickeled data...
@@ -29,8 +32,10 @@ MY_EMAIL = 'schnoes@gmail.com'
 ###########################################################
 def mysqlConnect():
     """This is where you set all the mysql login, db info"""
-    return MySQLdb.connect(host="mysql-dev.cgl.ucsf.edu", user="schnoes",
-                   passwd="schnoes", db="GeneOntology", port=13308)
+#    return MySQLdb.connect(host="mysql-dev.cgl.ucsf.edu", user="schnoes",
+#                   passwd="schnoes", db="GeneOntology", port=13308)
+    return MySQLdb.connect(host="localhost", user="idoerg",
+                   passwd="mingus", db="MyGO")
 
 
 def exp_in_papers(papers,papers_prots):
@@ -273,7 +278,11 @@ def print_paper_per_prots_go(papers_annots2_dict, all_tt_count, go_ec_count,
         out_list.append(str(sortedPaper.numProts)) #[0]
         out_list.append(str(sortedPaper.PMID)) # will be [2]
         # get paper info
-        out_list.extend(papers_annots2_dict[sortedPaper.PMID][1:]) #add title, year & journal [3, 4, 5]
+        try:
+            out_list.extend(papers_annots2_dict[sortedPaper.PMID][1:]) #add title, year & journal [3, 4, 5]
+        except KeyError:
+            print "problem with", sortedPaper.PMID
+            continue
         out_list.insert(1, str(papers_annots2_dict[sortedPaper.PMID][0])) # add number of annotations, [1]
         # get GO type info, [6, 7, 8]
         for t in type_list:
@@ -351,8 +360,9 @@ def top_ontology(papers,outpath=None,top=20):
         go_con.close()
     return top_go
  
+
 def top_papers(papers,outpath=None,delim="\t", top=20):
-    """This function fetches all the relevent PubMed info for each PMID in 'papers' and 
+    """This function fetches all the relevant PubMed info for each PMID in 'papers' and 
     1) puts it into a list and 2) outputs it to a file named in outpath."""
     #
     # Can be used with SP & GOA data
@@ -362,8 +372,8 @@ def top_papers(papers,outpath=None,delim="\t", top=20):
         
     papers_annots.sort()
     idlist = [p[1] for p in papers_annots[-top:]]
-    Entrez.email = MY_EMAIL
-    h = Entrez.efetch(db="pubmed", id=idlist, 
+    Entrez.email = "idoerg@gmail.com"
+    h = Entrez.efetch(db="pubmed", id=",".join(idlist), 
                           rettype="medline", retmode="text")
     medrecs = list(Medline.parse(h))
     titles = [medrec.get("TI","?") for medrec in medrecs]
@@ -389,7 +399,8 @@ def top_papers_dict(papers, papers_prots, outpath=None,delim="\t", top=None):
     #
     # Can be used with SP & GOA data
     
-    papers_annots = [(len(papers_prots[p]), p) for p in papers_prots]
+#    papers_annots = [(len(papers_prots[p]), p) for p in papers_prots]
+    papers_annots = [(len(papers[p]), p) for p in papers]
     papers_annots2_dict = {}
         
     papers_annots.sort()
@@ -399,7 +410,7 @@ def top_papers_dict(papers, papers_prots, outpath=None,delim="\t", top=None):
         negTop = -top
     idlist = [p[1] for p in papers_annots[negTop:]]
     Entrez.email = MY_EMAIL
-    h = Entrez.efetch(db="pubmed", id=idlist, 
+    h = Entrez.efetch(db="pubmed", id=",".join(idlist), 
                           rettype="medline", retmode="text")
     medrecs = list(Medline.parse(h))
     titles = [medrec.get("TI","?") for medrec in medrecs]
@@ -466,7 +477,11 @@ def term_types_in_paper(paper):
     go_cursor = go_con.cursor()
     for prec in paper:
         go_id = prec['go_id']
-        term_type = gu.go_acc_to_term_type(go_id, go_cursor)
+        try:
+            term_type = gu.go_acc_to_term_type(go_id, go_cursor)
+        except IndexError:
+            print go_id,"may be deprecated"
+            continue
         # tt_count[term_type] = count of that term
         tt_count[term_type] = tt_count.get(term_type,0) + 1
     go_con.close()

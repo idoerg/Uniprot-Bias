@@ -275,7 +275,7 @@ It is important, therefore, to understand the some of trends and biases
 encapsulated by the UniProt-GOA database as it impacts well-used sister
 databases and function prediction algorithm development and training. One
 concern surrounding the capture of functional data from papers is the
-propensity of high-throughput experimental work to become a large proportion of
+propensity for high-throughput experimental work to become a large fraction of
 the data in UniProt-GOA. While high-throughput experimentation has
 revolutionized our ability to examine function on a large scale, typically the
 read-outs from these experiments are only very general function descriptions
@@ -296,38 +296,29 @@ information papers.
 \section*{Results and Discussion}
   \subsection*{Papers and proteins}
 
-With the advent of
-high-throughput experiments it has become possible to conduct
-large-scale interrogations of protein functions. Consequently, some papers 
-reveal one or more functional aspects of a large amount of proteins
-as a result of the particular type of interrogation conducted. To 
-understand how prevalent this phenomenon is, we looked at the UniprotKB
-gene ontology annotation files, or UniProt GOA. UniProtKB is annotated
-by GO terms both manually and automatically using an exacting procedure
-described in \cite{UniprotKB-GOA}. Briefly, there is a six-step
-procedure which includes sequence curation, sequence motif analyses,
-literature-based curation, reciprocal BLAST\cite{BLAST} searches,
-attribution of all resources leading to the included findings, and a
-quality assurance phase. If the annotation source is a research article, the
-attribution includes a PubMed ID.  For each GO term associated with a
-protein, there is also an \textit{evidence code} which is used to
-explain how the association between the protein and the GO term was
-made. Experimental evidence codes include such terms as: Inferred by
-Direct Assay (IDA) which indicates that ``a direct assay was carried out
-to determine the function, process, or component indicated by the GO
-term'' or \textit{Inferred from Physical Interaction} (IPI) which ``Covers
-physical interactions between the gene product of interest and another
-molecule.'' (Quotes are from the GO site, geneontology.org). The
-computational analysis evidence codes are generally considered less
-reliable than the experimental ones, and include terms such as
-\textit{Inferred from Sequence or Structural Similarity} (ISS) and
-\textit{Inferred from Sequence Orthology} (ISO). However, these are still
-assigned by a curator. There are also
-non-computational and non-experimental evidence codes, the most
-prevalent being \textit{Inferred from Electronic Annotation} (IEA) ``Used
-for annotations that depend directly on computation or automated
-transfer of annotations from a database''. IEA evidence means that the
-annotation was not made by a curator, and is not checked by a person.
+With the advent of high-throughput experiments it has become possible to conduct large-scale studies of protein
+functions. Consequently, some studies reveal very specific functional aspects of a large amount of proteins as
+a result of the particular type of assay or assays used. Although adding to the general pool of knowledge is
+positive, it is important to understand that only specific functional aspects are being revealed. This, in
+turn, may affect our understanding of protein function, due to the bias inherent in using only a relatively
+small number of assays to annotate a large number of proteins.To understand the impact of large-scale studies on the
+corpus of experimentally annotated proteins, we looked at the UniprotKB Gene Ontology annotation files, or
+UniProt GOA. UniProtKB is annotated by GO terms both manually and automatically using an exacting procedure
+described in \cite{UniprotKB-GOA}. Briefly, there is a six-step procedure which includes sequence curation,
+sequence motif analyses, literature-based curation, reciprocal BLAST\cite{BLAST} searches, attribution of all
+resources leading to the included findings, and a quality assurance phase. If the annotation source is a
+research article, the attribution includes its PubMed ID.  For each GO term associated with a protein, there is
+also an \textit{evidence code} which is used to explain how the association between the protein and the GO term
+was made. Experimental evidence codes include such terms as: Inferred by Direct Assay (IDA) which indicates
+that ``a direct assay was carried out to determine the function, process, or component indicated by the GO
+term'' or Inferred from Physical Interaction (IPI) which ``Covers physical interactions between the gene
+product of interest and another molecule.'' (Quotes are from the GO site, geneontology.org). The computational
+analysis evidence codes are generally considered less reliable than the experimental ones, and include terms
+such as \textit{Inferred from Sequence or Structural Similarity} (ISS) and \textit{Inferred from Sequence
+Orthology} (ISO). However, these are still assigned by a curator. There are also non-computational and
+non-experimental evidence codes, the most prevalent being \textit{Inferred from Electronic Annotation} (IEA)
+``Used for annotations that depend directly on computation or automated transfer of annotations from a
+database''. IEA evidence means that the annotation was not made by a curator, and is not checked by a person.
 
 Different degrees of reliability are associated with the  evidence codes, with
 experimental codes generally considered to be of higher reliability than non-experimental
@@ -357,11 +348,11 @@ first question are summarized in Table\ref{table:top-papers}.  As can be seen,
 almost all of the papers are specific to a single species (typically a model
 organism) and assay that is used to annotate the proteins in that organism.
 Since a single assay was used, then typically only one ontology (MF, BP or CC)
-was used for annotation. Therefore, the bias we are checking is a per-species
-and per-ontology one.  This means that it may be that only a single functional
+was used for annotation. Therefore, the bias we are checking is almost always per-species
+and per-ontology.  This means that it may be that only a single functional
 aspect of a species will be dominated by a single experiment.
  
-\subsection*{Annotation bias in model organisms}
+\subsection*{Different types of annotation bias}
 To see how much a single species-- and method-- specific large-scale assay
 affects the entire annotation of a species, we examined the relative contribution
 of each paper to the entire corpus of experimentally annotated protein in that species.
@@ -369,12 +360,43 @@ All the species we examined were model organisms, as all the top annotation-cont
 dealt with model organisms. 
 The results are summarized in Figure\ref{fig:rel-contrib}.
 
+
+Another type of annotation bias may result due to annotation redundancy: the annotation of
+a single term using a given GO-term and one or more of its parents. However, this type of
+annotation may not necessarily be wholly redundant. For example, a protein may localize to
+the nucleolus and the nucleus itself. In the Cellular Compartment ontology, ``nucleus'' is
+a parent term for ``nucleolus''. In the case of this hypothetical protein, annotating with
+``nucleolus'' and ``nucleus'' is not an error. However, if the protein was found to
+localize to the nucleolus only, then annotating with both terms is a redundancy. We termed
+such a redundancy \textit{propagation bias}. We examined all proteins for possible propagation
+bias. If a protein was annotated with a GO term and one or more parent terms, the parent
+terms were removed. We found possible propagation biases in 17 of the 50 papers. The results
+are summarized in Table\ref{tab:prop-bias}. 
+
+\subsection*{Annotation specificity}
+
+How specific are the annotations provided by high throughput experiments? For example,
+``enzyme activity'' would be less specific than ``dehalogenase'' and the latter will be
+less specific than ``haloalkane dehalogenase''. Here we counted edges from the ontology
+root term to the GO-term to determine specificity. The larger the number of edges, the
+more specific the annotation. In cases where several paths lead from the root to the
+examined GO-term, we used the minimal path. It should be noted that the logarithm of
+the GO term frequency in the corpus is generally accepted as a standard measure of GO-term
+information content, and is considered to be the common proxy for term
+specificity\cite{lord-semsim}. Here,
+however, due to the bias that is introduced by the top-50 papers, we decided to rely on GO
+term level as a proxy for specificity. Due to the different topologies of the CCO, MFO and
+BPO DAGs, the GO-level measure is not comparable across different ontologies.
+
+To see whether annotation specificity is correlated with the number of 
+
+
 \subsection*{Annotation quality}
 
 One reflection on annotation coverage is the number of GO terms assigned to any
 given protein. Ostensibly, the larger the number of GO terms that are assigned to a
 protein, the more comprehensive its annotation, provided that these terms are
-non-redundant, i.e.  not direct parents of each other. 
+non-redundant, i.e. not direct parents of each other. 
 
 The median number of annotations per protein was 1.09, which means that most of the top-50
 papers do not provide more than a single GO-term per protein. Also, the mean number of
@@ -414,7 +436,11 @@ The three other studies were also RNAi-based using \textit{C. elegans}.
 
 %%%%%%%%%%%%%%%%%%%%%%
 \section*{Conclusions}
-  Text for this section \ldots
+This study shows that a substantial biases exist in the functional annotation of Human, Mouse,
+Yeast and C. elegans. These biases are due to the contribution made by high
+throughput experiments to functional annotation. We have observed several types of biases: the predictions from
+high throughout experiments tend to be less specific than the general corpus of experimental predictions. 
+One, the level bias. On the whole, high throughput experiments annotate the 
 
 
   
