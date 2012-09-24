@@ -1,0 +1,66 @@
+singleton_papers_go_depth.txt
+*************
+bp n, frac 12592 0.632223728473
+bp mean 5.5042884371
+bp stdv 1.52316318298
+mf n, frac 3923 0.196967414771
+mf mean 5.56181493755
+mf stdv 1.5827711091
+cc n, frac 3402 0.170808856756
+cc mean 4.64609053498
+cc stdv 1.10393090114
+very_lo_papers_go_depth.txt
+*************
+bp n, frac 103588 0.54288274785
+bp mean 5.74900567633
+bp stdv 1.62323193439
+mf n, frac 51134 0.267982453842
+mf mean 4.8042985098
+mf stdv 1.81303636376
+cc n, frac 36089 0.189134798308
+cc mean 4.60220565823
+cc stdv 0.997840007397
+lo_papers_go_depth.txt
+*************
+bp n, frac 132970 0.542028950061
+bp mean 5.64514552155
+bp stdv 1.62738464211
+mf n, frac 57784 0.235546370236
+mf mean 4.21360584245
+mf stdv 1.67744803496
+cc n, frac 54565 0.222424679703
+cc mean 4.60769724182
+cc stdv 1.02243115919
+top_papers_go_depth.txt
+*************
+bp n, frac 25814 0.390181230067
+bp mean 3.66944293794
+bp stdv 1.33902739591
+mf n, frac 2597 0.0392539185901
+mf mean 3.0927993839
+mf stdv 0.406263697547
+cc n, frac 37748 0.570564851343
+cc mean 4.73582706369
+cc stdv 0.724568242799
+tot fracs
+singleton_papers_go_depth.txt
+BP fraction 0.0457950859022
+MF fraction 0.0339836102497
+CC fraction 0.0258110527753
+*******************
+very_lo_papers_go_depth.txt
+BP fraction 0.376732954132
+MF fraction 0.442956392176
+CC fraction 0.273808078662
+*******************
+lo_papers_go_depth.txt
+BP fraction 0.48359057913
+MF fraction 0.500563072818
+CC fraction 0.413985918485
+*******************
+top_papers_go_depth.txt
+BP fraction 0.0938813808353
+MF fraction 0.0224969247561
+CC fraction 0.286394950077
+*******************
+

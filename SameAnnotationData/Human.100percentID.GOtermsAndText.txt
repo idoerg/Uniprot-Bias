@@ -1,0 +1,1004 @@
+#
+18029348	E5RFZ0	CCO	GO:0005737	cytoplasm
+18029348	E5RFZ0	CCO	GO:0005794	Golgi apparatus
+11256614	Q8N3C0	CCO	GO:0005622	intracellular
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P98175	CCO	GO:0005634	nucleus
+18029348	P98175	CCO	GO:0005730	nucleolus
+11256614	P98175	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8TCG1	CCO	GO:0005737	cytoplasm
+18029348	Q8TCG1	CCO	GO:0005886	plasma membrane
+11256614	Q8TCG1	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8NI77	CCO	GO:0005737	cytoplasm
+18029348	Q8NI77	CCO	GO:0015630	microtubule cytoskeleton
+11256614	Q8NI77	CCO	GO:0015630	microtubule cytoskeleton
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NWF9	CCO	GO:0005634	nucleus
+18029348	Q9NWF9	CCO	GO:0005737	cytoplasm
+18029348	Q9NWF9	CCO	GO:0005730	nucleolus
+11256614	Q9NWF9	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	F5GYL3	CCO	GO:0005730	nucleolus
+18029348	F5GYL3	CCO	GO:0005737	cytoplasm
+11256614	Q9GZR7	CCO	GO:0005730	nucleolus
+18029348	Q9GZR7	CCO	GO:0005730	nucleolus
+18029348	Q9GZR7	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9Y4R8	CCO	GO:0005634	nucleus
+18029348	Q9Y4R8	CCO	GO:0005737	cytoplasm
+11256614	Q9Y4R8	CCO	GO:0005622	intracellular
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P30260	CCO	GO:0005634	nucleus
+18029348	P30260	CCO	GO:0005730	nucleolus
+11256614	P30260	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8WYQ5	CCO	GO:0005634	nucleus
+18029348	Q8WYQ5	CCO	GO:0005737	cytoplasm
+18029348	Q8WYQ5	CCO	GO:0015630	microtubule cytoskeleton
+18029348	Q8WYQ5	CCO	GO:0005730	nucleolus
+11256614	Q8WYQ5	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UHB6	CCO	GO:0005737	cytoplasm
+18029348	Q9UHB6	CCO	GO:0005886	plasma membrane
+18029348	Q9UHB6	CCO	GO:0005925	focal adhesion
+18029348	Q9UHB6	CCO	GO:0015629	actin cytoskeleton
+11256614	Q9UHB6	CCO	GO:0015629	actin cytoskeleton
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9Y3T9	CCO	GO:0005730	nucleolus
+11256614	Q9Y3T9	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9ULW0	CCO	GO:0015630	microtubule cytoskeleton
+18029348	Q9ULW0	CCO	GO:0005634	nucleus
+18029348	Q9ULW0	CCO	GO:0005730	nucleolus
+18029348	Q643R0	CCO	GO:0005634	nucleus
+18029348	Q643R0	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q7L0J3	CCO	GO:0005737	cytoplasm
+11256614	Q7L0J3	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UNA4	CCO	GO:0005634	nucleus
+18029348	Q9UNA4	CCO	GO:0043231	intracellular membrane-bounded organelle
+11256614	Q9UNA4	CCO	GO:0005622	intracellular
+16189514	Q9UNA4	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H2G4	CCO	GO:0005634	nucleus
+18029348	Q9H2G4	CCO	GO:0005737	cytoplasm
+18029348	Q9H2G4	CCO	GO:0005813	centrosome
+18029348	Q9H2G4	CCO	GO:0005886	plasma membrane
+18029348	Q9H2G4	CCO	GO:0005730	nucleolus
+11256614	Q9H2G4	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9P1Z2	CCO	GO:0005737	cytoplasm
+18029348	Q9P1Z2	CCO	GO:0043231	intracellular membrane-bounded organelle
+11256614	Q9P1Z2	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O00571	CCO	GO:0005737	cytoplasm
+11256614	O00571	CCO	GO:0005737	cytoplasm
+18029348	Q59GX6	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q9H089	CCO	GO:0005634	nucleus
+18029348	Q9H089	CCO	GO:0005737	cytoplasm
+11256614	Q9H089	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P35240	CCO	GO:0005737	cytoplasm
+18029348	P35240	CCO	GO:0005886	plasma membrane
+11256614	P35240	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O00499	CCO	GO:0005737	cytoplasm
+11256614	O00499	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	B7Z4N7	CCO	GO:0005634	nucleus
+18029348	B7Z4N7	CCO	GO:0005737	cytoplasm
+18029348	B7Z4N7	CCO	GO:0005886	plasma membrane
+18029348	B7Z4N7	CCO	GO:0005730	nucleolus
+18029348	B7Z3P9	CCO	GO:0005634	nucleus
+18029348	B7Z3P9	CCO	GO:0005737	cytoplasm
+18029348	B7Z3P9	CCO	GO:0005886	plasma membrane
+18029348	B7Z3P9	CCO	GO:0005730	nucleolus
+11256614	Q8IXQ5	CCO	GO:0005730	nucleolus
+18029348	Q8IXQ5	CCO	GO:0005634	nucleus
+18029348	Q8IXQ5	CCO	GO:0005737	cytoplasm
+18029348	Q8IXQ5	CCO	GO:0005886	plasma membrane
+18029348	Q8IXQ5	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8WX92	CCO	GO:0005634	nucleus
+18029348	Q8WX92	CCO	GO:0005730	nucleolus
+11256614	Q8WX92	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NPJ1	CCO	GO:0005813	centrosome
+11256614	Q9NPJ1	CCO	GO:0005622	intracellular
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H6Z4	CCO	GO:0005634	nucleus
+18029348	Q9H6Z4	CCO	GO:0005737	cytoplasm
+11256614	Q9H6Z4	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NUL7	CCO	GO:0005634	nucleus
+18029348	Q9NUL7	CCO	GO:0005730	nucleolus
+18029348	Q9NUL7	CCO	GO:0005737	cytoplasm
+18029348	Q9NUL7	CCO	GO:0005739	mitochondrion
+11256614	Q9NUL7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P14618	CCO	GO:0005737	cytoplasm
+18029348	P14618	CCO	GO:0005886	plasma membrane
+11256614	P14618	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O75886	CCO	GO:0005634	nucleus
+18029348	O75886	CCO	GO:0005737	cytoplasm
+18029348	O75886	CCO	GO:0043231	intracellular membrane-bounded organelle
+18029348	O75886	CCO	GO:0005730	nucleolus
+11256614	O75886	CCO	GO:0005737	cytoplasm
+16189514	O75886	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q10713	CCO	GO:0005739	mitochondrion
+11256614	Q10713	CCO	GO:0005739	mitochondrion
+18029348	Q5SXM9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	P37198	CCO	GO:0031965	nuclear membrane
+18029348	P37198	CCO	GO:0043231	intracellular membrane-bounded organelle
+11256614	P37198	CCO	GO:0005635	nuclear envelope
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P11413	CCO	GO:0005737	cytoplasm
+18029348	P11413	CCO	GO:0005737	cytoplasm
+18029348	P11413	CCO	GO:0005813	centrosome
+18029348	P11413	CCO	GO:0043231	intracellular membrane-bounded organelle
+18029348	E9PD92	CCO	GO:0005737	cytoplasm
+18029348	E9PD92	CCO	GO:0005813	centrosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O60832	CCO	GO:0005634	nucleus
+18029348	O60832	CCO	GO:0005730	nucleolus
+18029348	O60832	CCO	GO:0005730	nucleolus
+11256614	O60832	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q86WB0	CCO	GO:0031965	nuclear membrane
+11256614	Q86WB0	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P51608	CCO	GO:0005634	nucleus
+18029348	P51608	CCO	GO:0005634	nucleus
+18029348	D3YJ43	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	E9PP83	CCO	GO:0005634	nucleus
+18029348	E9PP83	CCO	GO:0005730	nucleolus
+18029348	E9PP83	CCO	GO:0005737	cytoplasm
+18029348	E9PP83	CCO	GO:0005794	Golgi apparatus
+11256614	Q6AZZ1	CCO	GO:0005737	cytoplasm
+18029348	Q6AZZ1	CCO	GO:0005634	nucleus
+18029348	Q6AZZ1	CCO	GO:0005730	nucleolus
+18029348	Q6AZZ1	CCO	GO:0005737	cytoplasm
+18029348	Q6AZZ1	CCO	GO:0005794	Golgi apparatus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NWU1	CCO	GO:0005737	cytoplasm
+18029348	Q9NWU1	CCO	GO:0005739	mitochondrion
+11256614	Q9NWU1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H0S4	CCO	GO:0005730	nucleolus
+11256614	Q9H0S4	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q9Y4P8	CCO	GO:0005634	nucleus
+18029348	Q9Y4P8	CCO	GO:0005737	cytoplasm
+18029348	Q9Y4P8	CCO	GO:0005730	nucleolus
+11256614	Q9Y4P8	CCO	GO:0043234	protein complex
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P23771	CCO	GO:0005634	nucleus
+18029348	P23771	CCO	GO:0005730	nucleolus
+18029348	P23771	CCO	GO:0005730	nucleolus
+11256614	P23771	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q96Q11	CCO	GO:0005739	mitochondrion
+18029348	Q96Q11	CCO	GO:0005813	centrosome
+11256614	Q96Q11	CCO	GO:0005622	intracellular
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O75528	CCO	GO:0005634	nucleus
+18029348	O75528	CCO	GO:0005730	nucleolus
+11256614	O75528	CCO	GO:0005622	intracellular
+16189514	O75528	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P11310	CCO	GO:0005739	mitochondrion
+11256614	P11310	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q9NW64	CCO	GO:0005634	nucleus
+18029348	Q9NW64	CCO	GO:0005730	nucleolus
+11256614	Q9NW64	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q13148	CCO	GO:0005634	nucleus
+18029348	Q13148	CCO	GO:0005730	nucleolus
+11256614	Q13148	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	B4DGM3	CCO	GO:0005634	nucleus
+18029348	B4DGM3	CCO	GO:0005730	nucleolus
+18029348	B4DFR4	CCO	GO:0005634	nucleus
+18029348	B4DFR4	CCO	GO:0005730	nucleolus
+11256614	Q969G3	CCO	GO:0005634	nucleus
+18029348	Q969G3	CCO	GO:0005634	nucleus
+18029348	Q969G3	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9GZZ9	CCO	GO:0005737	cytoplasm
+18029348	Q9GZZ9	CCO	GO:0005737	cytoplasm
+18029348	Q9GZZ9	CCO	GO:0016235	aggresome
+18029348	Q9GZZ9	CCO	GO:0043231	intracellular membrane-bounded organelle
+16189514	Q9GZZ9	MFO	GO:0005515	protein binding
+18029348	E7EQ61	CCO	GO:0005737	cytoplasm
+18029348	E7EQ61	CCO	GO:0016235	aggresome
+18029348	E7EQ61	CCO	GO:0043231	intracellular membrane-bounded organelle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O75521	CCO	GO:0043231	intracellular membrane-bounded organelle
+11256614	O75521	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q86X24	CCO	GO:0005634	nucleus
+18029348	Q86X24	CCO	GO:0045111	intermediate filament cytoskeleton
+11256614	Q86X24	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P51553	CCO	GO:0005739	mitochondrion
+18029348	P51553	CCO	GO:0005634	nucleus
+18029348	P51553	CCO	GO:0005730	nucleolus
+18029348	P51553	CCO	GO:0005739	mitochondrion
+18029348	P51553	CCO	GO:0005730	nucleolus
+18029348	E7EQB8	CCO	GO:0005730	nucleolus
+18029348	E7EQB8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q16543	CCO	GO:0005737	cytoplasm
+11256614	Q16543	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q8NEW0	CCO	GO:0005794	Golgi apparatus
+11256614	Q8NEW0	CCO	GO:0005794	Golgi apparatus
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	C9JDR0	CCO	GO:0005783	endoplasmic reticulum
+18029348	C9JDR0	CCO	GO:0043231	intracellular membrane-bounded organelle
+11256614	Q15738	CCO	GO:0005783	endoplasmic reticulum
+18029348	Q15738	CCO	GO:0005783	endoplasmic reticulum
+18029348	Q15738	CCO	GO:0043231	intracellular membrane-bounded organelle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UN36	CCO	GO:0005634	nucleus
+18029348	Q9UN36	CCO	GO:0005737	cytoplasm
+18029348	Q9UN36	CCO	GO:0005813	centrosome
+18029348	Q9UN36	CCO	GO:0005730	nucleolus
+11256614	Q9UN36	CCO	GO:0005794	Golgi apparatus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q969V5	CCO	GO:0005634	nucleus
+18029348	Q969V5	CCO	GO:0005737	cytoplasm
+18029348	Q969V5	CCO	GO:0005739	mitochondrion
+18029348	Q969V5	CCO	GO:0005730	nucleolus
+11256614	Q969V5	CCO	GO:0005739	mitochondrion
+16189514	Q969V5	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q99933	CCO	GO:0045111	intermediate filament cytoskeleton
+11256614	Q99933	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	O94905	CCO	GO:0005783	endoplasmic reticulum
+18029348	O94905	CCO	GO:0005737	cytoplasm
+18029348	O94905	CCO	GO:0005783	endoplasmic reticulum
+18029348	O94905	CCO	GO:0005886	plasma membrane
+18029348	E5RHW4	CCO	GO:0005737	cytoplasm
+18029348	E5RHW4	CCO	GO:0005783	endoplasmic reticulum
+18029348	E5RHW4	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9Y266	CCO	GO:0005737	cytoplasm
+11256614	Q9Y266	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+11256614	O75190	CCO	GO:0005634	nucleus
+18029348	O75190	CCO	GO:0005634	nucleus
+18029348	O75190	CCO	GO:0005737	cytoplasm
+18029348	O75190	CCO	GO:0005730	nucleolus
+18029348	C9J2C4	CCO	GO:0005634	nucleus
+18029348	C9J2C4	CCO	GO:0005737	cytoplasm
+18029348	C9J2C4	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H0C2	CCO	GO:0005739	mitochondrion
+11256614	Q9H0C2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q16836	CCO	GO:0005634	nucleus
+18029348	Q16836	CCO	GO:0005739	mitochondrion
+18029348	Q16836	CCO	GO:0005730	nucleolus
+11256614	Q16836	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NXA8	CCO	GO:0005739	mitochondrion
+11256614	Q9NXA8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q63HQ0	CCO	GO:0005730	nucleolus
+18029348	Q63HQ0	CCO	GO:0005737	cytoplasm
+18029348	Q63HQ0	CCO	GO:0005794	Golgi apparatus
+11256614	Q63HQ0	CCO	GO:0030133	transport vesicle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9BVW5	CCO	GO:0005634	nucleus
+18029348	Q9BVW5	CCO	GO:0005737	cytoplasm
+18029348	Q9BVW5	CCO	GO:0005794	Golgi apparatus
+18029348	Q9BVW5	CCO	GO:0043231	intracellular membrane-bounded organelle
+18029348	Q9BVW5	CCO	GO:0005730	nucleolus
+11256614	Q9BVW5	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q6IBK2	CCO	GO:0005737	cytoplasm
+18029348	P50053	CCO	GO:0005737	cytoplasm
+11256614	P50053	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q9UL40	CCO	GO:0005634	nucleus
+11256614	Q9UL40	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	A8K401	CCO	GO:0005739	mitochondrion
+18029348	C9JW96	CCO	GO:0005739	mitochondrion
+11256614	P35232	CCO	GO:0005739	mitochondrion
+18029348	P35232	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18029348	Q8TAX0	CCO	GO:0005730	nucleolus
+11256614	Q8TAX0	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O95571	CCO	GO:0005634	nucleus
+18029348	O95571	CCO	GO:0005739	mitochondrion
+18029348	O95571	CCO	GO:0005730	nucleolus
+11256614	O95571	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P50402	CCO	GO:0005783	endoplasmic reticulum
+18029348	P50402	CCO	GO:0031965	nuclear membrane
+11256614	P50402	CCO	GO:0005635	nuclear envelope
+18029348	Q6FI02	CCO	GO:0005783	endoplasmic reticulum
+18029348	Q6FI02	CCO	GO:0031965	nuclear membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9GZT6	CCO	GO:0005739	mitochondrion
+18029348	Q9GZT6	CCO	GO:0005739	mitochondrion
+18029348	B3KP87	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+11256614	Q9Y696	CCO	GO:0005622	intracellular
+18029348	Q9Y696	CCO	GO:0005737	cytoplasm
+18029348	Q6FIC5	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9Y3B8	CCO	GO:0005634	nucleus
+18029348	Q9Y3B8	CCO	GO:0005730	nucleolus
+18029348	Q9Y3B8	CCO	GO:0005739	mitochondrion
+18029348	Q9Y3B8	CCO	GO:0005886	plasma membrane
+18029348	B2R532	CCO	GO:0005730	nucleolus
+18029348	B2R532	CCO	GO:0005739	mitochondrion
+18029348	B2R532	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NX09	CCO	GO:0005737	cytoplasm
+11256614	Q9NX09	CCO	GO:0005622	intracellular
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q6FII1	CCO	GO:0043231	intracellular membrane-bounded organelle
+11256614	Q9Y2Q3	CCO	GO:0005622	intracellular
+18029348	Q9Y2Q3	CCO	GO:0043231	intracellular membrane-bounded organelle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P27635	CCO	GO:0005737	cytoplasm
+11256614	P27635	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q96L21	CCO	GO:0005737	cytoplasm
+11256614	Q96L21	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9UQN3	CCO	GO:0005622	intracellular
+18029348	Q9UQN3	CCO	GO:0005634	nucleus
+18029348	Q9UQN3	CCO	GO:0005737	cytoplasm
+18029348	Q9UQN3	CCO	GO:0005739	mitochondrion
+18029348	B2RE76	CCO	GO:0005634	nucleus
+18029348	B2RE76	CCO	GO:0005737	cytoplasm
+18029348	B2RE76	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q96DA2	CCO	GO:0005737	cytoplasm
+11256614	Q96DA2	CCO	GO:0005622	intracellular
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q5W145	CCO	GO:0005739	mitochondrion
+18029348	O95169	CCO	GO:0005739	mitochondrion
+11256614	O95169	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	C9JUJ0	CCO	GO:0005634	nucleus
+18029348	C9JUJ0	CCO	GO:0005730	nucleolus
+11256614	Q9UFW8	CCO	GO:0005634	nucleus
+18029348	Q9UFW8	CCO	GO:0005634	nucleus
+18029348	Q9UFW8	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O15392	CCO	GO:0005634	nucleus
+18029348	O15392	CCO	GO:0005737	cytoplasm
+18029348	O15392	CCO	GO:0005730	nucleolus
+11256614	O15392	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8N5K1	CCO	GO:0005783	endoplasmic reticulum
+11256614	Q8N5K1	CCO	GO:0043234	protein complex
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q549M5	CCO	GO:0005739	mitochondrion
+18029348	O95298	CCO	GO:0005739	mitochondrion
+11256614	O95298	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9Y5U9	CCO	GO:0005783	endoplasmic reticulum
+18029348	Q9Y5U9	CCO	GO:0005794	Golgi apparatus
+11256614	Q9Y5U9	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NRA8	CCO	GO:0043231	intracellular membrane-bounded organelle
+16189514	Q9NRA8	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q7L590	CCO	GO:0005634	nucleus
+18029348	Q7L590	CCO	GO:0005730	nucleolus
+18029348	Q7L590	CCO	GO:0005737	cytoplasm
+16189514	Q7L590	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q14566	CCO	GO:0005634	nucleus
+18029348	Q14566	CCO	GO:0005730	nucleolus
+16189514	Q14566	MFO	GO:0005515	protein binding
+16189514	Q14566	MFO	GO:0005515	protein binding
+16189514	Q14566	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	Q96CN9	MFO	GO:0005515	protein binding
+18029348	Q96CN9	CCO	GO:0005737	cytoplasm
+18029348	Q96CN9	CCO	GO:0005794	Golgi apparatus
+18029348	Q96CN9	CCO	GO:0005886	plasma membrane
+18029348	A4D0Z4	CCO	GO:0005737	cytoplasm
+18029348	A4D0Z4	CCO	GO:0005794	Golgi apparatus
+18029348	A4D0Z4	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q14872	CCO	GO:0005634	nucleus
+18029348	Q14872	CCO	GO:0005730	nucleolus
+16189514	Q14872	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q96AQ6	CCO	GO:0005737	cytoplasm
+18029348	Q96AQ6	CCO	GO:0043231	intracellular membrane-bounded organelle
+16189514	Q96AQ6	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q3YEC7	CCO	GO:0005737	cytoplasm
+18029348	Q3YEC7	CCO	GO:0005813	centrosome
+16189514	Q3YEC7	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8IYI6	CCO	GO:0005634	nucleus
+18029348	Q8IYI6	CCO	GO:0005737	cytoplasm
+16189514	Q8IYI6	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O43395	CCO	GO:0005634	nucleus
+18029348	O43395	CCO	GO:0005737	cytoplasm
+18029348	O43395	CCO	GO:0005730	nucleolus
+16189514	O43395	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9BQ70	CCO	GO:0005737	cytoplasm
+18029348	Q9BQ70	CCO	GO:0005739	mitochondrion
+16189514	Q9BQ70	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P51116	CCO	GO:0005737	cytoplasm
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+16189514	P51116	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	Q15025	MFO	GO:0005515	protein binding
+18029348	Q15025	CCO	GO:0005737	cytoplasm
+18029348	E7EW68	CCO	GO:0005737	cytoplasm
+18029348	A4F1W8	CCO	GO:0005737	cytoplasm
+18029348	E7EWG2	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	O43663	CCO	GO:0005634	nucleus
+18029348	O43663	CCO	GO:0005737	cytoplasm
+18029348	O43663	CCO	GO:0005886	plasma membrane
+18029348	O43663	CCO	GO:0015630	microtubule cytoskeleton
+18029348	O43663	CCO	GO:0005730	nucleolus
+16189514	O43663	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8NHQ1	CCO	GO:0005634	nucleus
+18029348	Q8NHQ1	CCO	GO:0005737	cytoplasm
+18029348	Q8NHQ1	CCO	GO:0031965	nuclear membrane
+18029348	Q8NHQ1	CCO	GO:0005730	nucleolus
+16189514	Q8NHQ1	MFO	GO:0005515	protein binding
+16189514	Q8NHQ1	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UHX1	CCO	GO:0005634	nucleus
+18029348	Q9UHX1	CCO	GO:0005730	nucleolus
+16189514	Q9UHX1	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9BYG6	CCO	GO:0005634	nucleus
+18029348	Q9BYG6	CCO	GO:0005737	cytoplasm
+18029348	Q9BYG6	CCO	GO:0005813	centrosome
+18029348	Q9BYG6	CCO	GO:0005730	nucleolus
+18029348	Q13485	CCO	GO:0005634	nucleus
+18029348	Q13485	CCO	GO:0005737	cytoplasm
+18029348	Q13485	CCO	GO:0005813	centrosome
+18029348	Q13485	CCO	GO:0005730	nucleolus
+16189514	Q13485	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UQB8	CCO	GO:0005634	nucleus
+18029348	Q9UQB8	CCO	GO:0005737	cytoplasm
+18029348	Q9UQB8	CCO	GO:0005886	plasma membrane
+18029348	Q9UQB8	CCO	GO:0030054	cell junction
+18029348	Q9UQB8	CCO	GO:0005730	nucleolus
+16189514	Q9UQB8	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q16630	CCO	GO:0005634	nucleus
+18029348	Q16630	CCO	GO:0005730	nucleolus
+16189514	Q16630	MFO	GO:0005515	protein binding
+16189514	Q16630	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H4D5	CCO	GO:0005737	cytoplasm
+16189514	Q9H4D5	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q96I34	CCO	GO:0005886	plasma membrane
+16189514	Q96I34	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8IVS8	CCO	GO:0005737	cytoplasm
+18029348	Q8IVS8	CCO	GO:0005794	Golgi apparatus
+16189514	Q8IVS8	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	Q12933	MFO	GO:0042802	identical protein binding
+18029348	Q12933	CCO	GO:0005737	cytoplasm
+18029348	B1AMX8	CCO	GO:0005737	cytoplasm
+18029348	B1AMX7	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UMX1	CCO	GO:0005634	nucleus
+18029348	Q9UMX1	CCO	GO:0005730	nucleolus
+16189514	Q9UMX1	MFO	GO:0005515	protein binding
+16189514	Q9UMX1	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P08670	CCO	GO:0045111	intermediate filament cytoskeleton
+16189514	P08670	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P61978	CCO	GO:0005634	nucleus
+18029348	P61978	CCO	GO:0005730	nucleolus
+16189514	P61978	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H788	CCO	GO:0005634	nucleus
+18029348	Q9H788	CCO	GO:0005737	cytoplasm
+18029348	Q9H788	CCO	GO:0005730	nucleolus
+16189514	Q9H788	MFO	GO:0005515	protein binding
+16189514	Q9H788	MFO	GO:0005515	protein binding
+16189514	Q9H788	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	P62191	MFO	GO:0005515	protein binding
+18029348	P62191	CCO	GO:0005634	nucleus
+18029348	P62191	CCO	GO:0005737	cytoplasm
+18029348	P62191	CCO	GO:0005730	nucleolus
+18029348	Q53XL8	CCO	GO:0005634	nucleus
+18029348	Q53XL8	CCO	GO:0005737	cytoplasm
+18029348	Q53XL8	CCO	GO:0005730	nucleolus
+18029348	B4DR63	CCO	GO:0005634	nucleus
+18029348	B4DR63	CCO	GO:0005737	cytoplasm
+18029348	B4DR63	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q07960	CCO	GO:0043231	intracellular membrane-bounded organelle
+16189514	Q07960	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	P35998	MFO	GO:0005515	protein binding
+18029348	P35998	CCO	GO:0005634	nucleus
+18029348	P35998	CCO	GO:0005737	cytoplasm
+18029348	P35998	CCO	GO:0005739	mitochondrion
+18029348	P35998	CCO	GO:0005730	nucleolus
+18029348	C9JLS9	CCO	GO:0005634	nucleus
+18029348	C9JLS9	CCO	GO:0005737	cytoplasm
+18029348	C9JLS9	CCO	GO:0005739	mitochondrion
+18029348	C9JLS9	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q04695	CCO	GO:0005737	cytoplasm
+18029348	Q04695	CCO	GO:0045111	intermediate filament cytoskeleton
+16189514	Q04695	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P43364	CCO	GO:0005634	nucleus
+18029348	P43364	CCO	GO:0005737	cytoplasm
+16189514	P43364	MFO	GO:0005515	protein binding
+16189514	P43364	MFO	GO:0005515	protein binding
+16189514	P43364	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	O95630	MFO	GO:0005515	protein binding
+18029348	O95630	CCO	GO:0005634	nucleus
+18029348	O95630	CCO	GO:0005737	cytoplasm
+18029348	O95630	CCO	GO:0005886	plasma membrane
+18029348	O95630	CCO	GO:0005730	nucleolus
+18029348	C9JK83	CCO	GO:0005634	nucleus
+18029348	C9JK83	CCO	GO:0005737	cytoplasm
+18029348	C9JK83	CCO	GO:0005886	plasma membrane
+18029348	C9JK83	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	P43686	MFO	GO:0005515	protein binding
+18029348	P43686	CCO	GO:0005634	nucleus
+18029348	P43686	CCO	GO:0005737	cytoplasm
+18029348	P43686	CCO	GO:0005739	mitochondrion
+18029348	P43686	CCO	GO:0005730	nucleolus
+18029348	A8K2M0	CCO	GO:0005634	nucleus
+18029348	A8K2M0	CCO	GO:0005737	cytoplasm
+18029348	A8K2M0	CCO	GO:0005739	mitochondrion
+18029348	A8K2M0	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	A8K3Z3	CCO	GO:0005634	nucleus
+18029348	A8K3Z3	CCO	GO:0005737	cytoplasm
+18029348	A8K3Z3	CCO	GO:0005730	nucleolus
+16189514	P62195	MFO	GO:0005515	protein binding
+18029348	P62195	CCO	GO:0005634	nucleus
+18029348	P62195	CCO	GO:0005737	cytoplasm
+18029348	P62195	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q06587	CCO	GO:0005634	nucleus
+18029348	Q06587	CCO	GO:0005737	cytoplasm
+18029348	Q06587	CCO	GO:0005730	nucleolus
+16189514	Q06587	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9BT78	CCO	GO:0005634	nucleus
+16189514	Q9BT78	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q8WV24	CCO	GO:0005634	nucleus
+18029348	Q8WV24	CCO	GO:0005886	plasma membrane
+18029348	Q8WV24	CCO	GO:0005730	nucleolus
+16189514	Q8WV24	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	C9J038	CCO	GO:0005634	nucleus
+18029348	C9J038	CCO	GO:0005737	cytoplasm
+18029348	C9J038	CCO	GO:0005730	nucleolus
+16189514	Q9GZV5	MFO	GO:0005515	protein binding
+18029348	Q9GZV5	CCO	GO:0005634	nucleus
+18029348	Q9GZV5	CCO	GO:0005737	cytoplasm
+18029348	Q9GZV5	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	B7Z1C2	CCO	GO:0005737	cytoplasm
+18029348	B2RDU6	CCO	GO:0005737	cytoplasm
+16189514	Q03426	MFO	GO:0042802	identical protein binding
+18029348	Q03426	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q99816	CCO	GO:0005730	nucleolus
+18029348	Q99816	CCO	GO:0005737	cytoplasm
+18029348	Q99816	CCO	GO:0005886	plasma membrane
+16189514	Q99816	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	C9J2G0	CCO	GO:0005737	cytoplasm
+16189514	Q9NXR7	MFO	GO:0005515	protein binding
+18029348	Q9NXR7	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NVD7	CCO	GO:0005737	cytoplasm
+18029348	Q9NVD7	CCO	GO:0005925	focal adhesion
+18029348	Q9NVD7	CCO	GO:0015629	actin cytoskeleton
+16189514	Q9NVD7	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P17028	CCO	GO:0005634	nucleus
+16189514	P17028	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	Q99961	MFO	GO:0005515	protein binding
+18029348	Q99961	CCO	GO:0005737	cytoplasm
+18029348	Q6FGM0	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9Y295	CCO	GO:0005634	nucleus
+18029348	Q9Y295	CCO	GO:0005737	cytoplasm
+18029348	Q9Y295	CCO	GO:0045111	intermediate filament cytoskeleton
+16189514	Q9Y295	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	O15372	MFO	GO:0005515	protein binding
+18029348	O15372	CCO	GO:0005737	cytoplasm
+18029348	Q6IB98	CCO	GO:0005737	cytoplasm
+18029348	B3KS98	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	Q15019	MFO	GO:0005515	protein binding
+18029348	Q15019	CCO	GO:0005634	nucleus
+18029348	Q15019	CCO	GO:0005730	nucleolus
+18029348	Q15019	CCO	GO:0005737	cytoplasm
+18029348	Q15019	CCO	GO:0015629	actin cytoskeleton
+18029348	B5MCX3	CCO	GO:0005634	nucleus
+18029348	B5MCX3	CCO	GO:0005730	nucleolus
+18029348	B5MCX3	CCO	GO:0005737	cytoplasm
+18029348	B5MCX3	CCO	GO:0015629	actin cytoskeleton
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9H9L3	CCO	GO:0005634	nucleus
+18029348	Q9H9L3	CCO	GO:0043231	intracellular membrane-bounded organelle
+16189514	Q9H9L3	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NP66	CCO	GO:0005634	nucleus
+18029348	Q9NP66	CCO	GO:0005730	nucleolus
+16189514	Q9NP66	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9NS73	CCO	GO:0005730	nucleolus
+18029348	Q9NS73	CCO	GO:0005737	cytoplasm
+16189514	Q9NS73	MFO	GO:0005515	protein binding
+16189514	Q9NS73	MFO	GO:0005515	protein binding
+16189514	Q9NS73	MFO	GO:0005515	protein binding
+16189514	Q9NS73	MFO	GO:0005515	protein binding
+16189514	Q9NS73	MFO	GO:0005515	protein binding
+16189514	Q9NS73	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q96PU8	CCO	GO:0005634	nucleus
+18029348	Q96PU8	CCO	GO:0005886	plasma membrane
+18029348	Q96PU8	CCO	GO:0005730	nucleolus
+16189514	Q96PU8	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q7L523	CCO	GO:0005794	Golgi apparatus
+18029348	Q7L523	CCO	GO:0043231	intracellular membrane-bounded organelle
+16189514	Q7L523	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9UHR5	CCO	GO:0005634	nucleus
+18029348	Q9UHR5	CCO	GO:0045111	intermediate filament cytoskeleton
+18029348	Q9UHR5	CCO	GO:0005730	nucleolus
+16189514	Q9UHR5	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q13287	CCO	GO:0005634	nucleus
+18029348	Q13287	CCO	GO:0005737	cytoplasm
+18029348	Q13287	CCO	GO:0005730	nucleolus
+16189514	Q13287	MFO	GO:0005515	protein binding
+16189514	Q13287	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q12846	CCO	GO:0005886	plasma membrane
+16189514	Q12846	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q14749	CCO	GO:0005737	cytoplasm
+16189514	Q14749	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q15475	CCO	GO:0005634	nucleus
+18029348	Q15475	CCO	GO:0005730	nucleolus
+16189514	Q15475	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9BPX1	CCO	GO:0005737	cytoplasm
+18029348	Q9BPX1	CCO	GO:0005813	centrosome
+16189514	Q9BPX1	MFO	GO:0005515	protein binding
+16189514	Q9BPX1	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P17482	CCO	GO:0005634	nucleus
+18029348	P17482	CCO	GO:0005739	mitochondrion
+18029348	P17482	CCO	GO:0005730	nucleolus
+16189514	P17482	MFO	GO:0005515	protein binding
+16189514	P17482	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P31947	CCO	GO:0005737	cytoplasm
+16189514	P31947	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	B4DHJ7	CCO	GO:0005634	nucleus
+18029348	B4DHJ7	CCO	GO:0005739	mitochondrion
+16189514	Q12983	MFO	GO:0005515	protein binding
+16189514	Q12983	MFO	GO:0005515	protein binding
+16189514	Q12983	MFO	GO:0042802	identical protein binding
+18029348	Q12983	CCO	GO:0005634	nucleus
+18029348	Q12983	CCO	GO:0005739	mitochondrion
+18029348	Q66K24	CCO	GO:0005634	nucleus
+18029348	Q66K24	CCO	GO:0005739	mitochondrion
+18029348	Q6NVY4	CCO	GO:0005634	nucleus
+18029348	Q6NVY4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	A4D1N4	CCO	GO:0005739	mitochondrion
+16189514	Q9NX63	MFO	GO:0005515	protein binding
+18029348	Q9NX63	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P00492	CCO	GO:0005737	cytoplasm
+16189514	P00492	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16189514	O00161	MFO	GO:0005515	protein binding
+18029348	O00161	CCO	GO:0005634	nucleus
+18029348	O00161	CCO	GO:0005794	Golgi apparatus
+18029348	O00161	CCO	GO:0005886	plasma membrane
+18029348	O00161	CCO	GO:0005730	nucleolus
+18029348	A8K287	CCO	GO:0005634	nucleus
+18029348	A8K287	CCO	GO:0005794	Golgi apparatus
+18029348	A8K287	CCO	GO:0005886	plasma membrane
+18029348	A8K287	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q969X0	CCO	GO:0005737	cytoplasm
+18029348	Q969X0	CCO	GO:0005886	plasma membrane
+16189514	Q969X0	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	F5GY14	CCO	GO:0005783	endoplasmic reticulum
+18029348	F5GXP4	CCO	GO:0005783	endoplasmic reticulum
+16189514	Q15041	MFO	GO:0005515	protein binding
+18029348	Q15041	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9HAF1	CCO	GO:0005634	nucleus
+18029348	Q9HAF1	CCO	GO:0005737	cytoplasm
+18029348	Q9HAF1	CCO	GO:0005813	centrosome
+18029348	Q9HAF1	CCO	GO:0005730	nucleolus
+16189514	Q9HAF1	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P15531	CCO	GO:0005737	cytoplasm
+16189514	P15531	MFO	GO:0005515	protein binding
+16189514	P15531	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q5T7Y6	CCO	GO:0005737	cytoplasm
+16189514	P23297	MFO	GO:0005515	protein binding
+16189514	P23297	MFO	GO:0005515	protein binding
+18029348	P23297	CCO	GO:0005737	cytoplasm
+18029348	B2R5D9	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P61457	CCO	GO:0005634	nucleus
+18029348	P61457	CCO	GO:0005737	cytoplasm
+18029348	P61457	CCO	GO:0005730	nucleolus
+16189514	P61457	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	Q9C005	CCO	GO:0005634	nucleus
+18029348	Q9C005	CCO	GO:0005730	nucleolus
+16189514	Q9C005	MFO	GO:0005515	protein binding
+16189514	Q9C005	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18029348	P25815	CCO	GO:0005737	cytoplasm
+16189514	P25815	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q7Z3B3	CCO	GO:0005634	nucleus
+16189514	Q7Z3B3	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	O75800	CCO	GO:0005737	cytoplasm
+16189514	O75800	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P10644	CCO	GO:0043234	protein complex
+16189514	P10644	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9P2A4	CCO	GO:0005737	cytoplasm
+16189514	Q9P2A4	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9H0W9	CCO	GO:0005634	nucleus
+16189514	Q9H0W9	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P31269	CCO	GO:0005634	nucleus
+16189514	P31269	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9H8W4	CCO	GO:0030133	transport vesicle
+16189514	Q9H8W4	MFO	GO:0005515	protein binding
+16189514	Q9H8W4	MFO	GO:0005515	protein binding
+16189514	Q9H8W4	MFO	GO:0005515	protein binding
+16189514	Q9H8W4	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9UJY1	CCO	GO:0005622	intracellular
+16189514	Q9UJY1	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P21673	CCO	GO:0005622	intracellular
+16189514	P21673	MFO	GO:0005515	protein binding
+16189514	P21673	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q03393	CCO	GO:0005737	cytoplasm
+11256614	Q03393	CCO	GO:0005739	mitochondrion
+16189514	Q03393	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	P60520	CCO	GO:0005622	intracellular
+16189514	P60520	MFO	GO:0005515	protein binding
+16189514	P60520	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+11256614	Q9H0R8	CCO	GO:0005622	intracellular
+16189514	Q9H0R8	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#

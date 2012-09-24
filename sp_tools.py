@@ -4,7 +4,8 @@ from Bio import Entrez, Medline
 import matplotlib.pyplot as pyplot
 from GO import go_utils as gu
 import MySQLdb
-import collections
+from collections import *
+from SQL.mysql_utils import mysql_query, mysql_query_noreturn
 
 
 # edits: AMS Jan 4, 2012
@@ -317,7 +318,7 @@ def sort_papers_prots(papers_prots):
     """Sort the dictionary papers_prots according to the number of proteins annotated by 
     a particular paper (PMID). Return the sorted tuple (sorted highest to lowest) as a 
     named tuple."""
-    ProtsPerPaper_collect = collections.namedtuple('ProtsPerPaper_collect', 'numProts PMID')
+    ProtsPerPaper_collect = namedtuple('ProtsPerPaper_collect', 'numProts PMID')
     #creates a tuple of (numProts, PMID) sorted on numProts highest to lowest
     sortedProtsPerPaper_tuple = sorted([ProtsPerPaper_collect(len(value), key) for (key, value) in papers_prots.items()],
                                        reverse=True)
@@ -393,7 +394,7 @@ def top_papers(papers,outpath=None,delim="\t", top=20):
 ###########################################################
 # top_papers_dict
 ###########################################################
-def top_papers_dict(papers, papers_prots, outpath=None,delim="\t", top=None):
+def top_papers_dict(papers, outpath=None,delim="\t", top=None):
     """This function fetches all the relevent PubMed info for each PMID in 'papers' 
     (at the limit supplied in 'top') and 1) puts it into a dict."""
     #
@@ -428,6 +429,325 @@ def top_papers_dict(papers, papers_prots, outpath=None,delim="\t", top=None):
     """
     return papers_annots2_dict
 
+def go_terms_hi_v_lo(papers,top=50):
+    my_singleton_papers = {}
+    my_very_lo_papers = {}
+    my_lo_papers = {}
+    my_top_papers = {}
+    top_papers_list = top_papers_dict(papers,top=top)
+    top_papers_pubids = top_papers_list.keys()
+    for pubid in papers:
+        if pubid in top_papers_pubids:
+            my_top_papers[pubid] = papers[pubid]
+        elif len(papers[pubid]) == 1:
+            my_singleton_papers[pubid] = papers[pubid]
+        elif len(papers[pubid]) <= 10:
+            my_very_lo_papers[pubid] = papers[pubid]
+        else:
+            my_lo_papers[pubid] = papers[pubid]
+    # very low: up to 10 annotations
+    top_papers_go = open("top_papers_go.txt","w")
+    lo_papers_go = open("lo_papers_go.txt","w")
+    very_lo_papers_go = open("very_lo_papers_go.txt","w")
+    singleton_papers_go = open("singleton_papers_go.txt","w")
+    for hi_id in my_top_papers:
+        for l in my_top_papers[hi_id]:
+            print >> top_papers_go, "%s\t%s\t%s" % (hi_id,l['go_ec'], l['go_id'])
+    for lo_id in my_lo_papers:
+        for l in my_lo_papers[lo_id]:
+            print >> lo_papers_go, "%s\t%s\t%s" % (lo_id,l['go_ec'], l['go_id'])
+    for v_lo_id in my_very_lo_papers:
+        for l in my_very_lo_papers[v_lo_id]:
+            print >> very_lo_papers_go, "%s\t%s\t%s" % (v_lo_id,l['go_ec'], l['go_id'])
+    for s_id in my_singleton_papers:
+        for l in my_singleton_papers[s_id]:
+            print >> singleton_papers_go, "%s\t%s\t%s" % (s_id,l['go_ec'], l['go_id'])
+    top_papers_go.close()
+    lo_papers_go.close()
+    very_lo_papers_go.close()
+    singleton_papers_go.close()
+
+def countprot(pubid,paper_rec):
+	prot_count = {}
+	for annot_rec in paper_rec:
+		prot_count[(pubid,annot_rec['sp_id'])] = None
+	return len(prot_count)
+		
+def go_terms_hi_v_lo_withprots(papers,top=50):
+    my_singleton_papers = {}
+    my_very_lo_papers = {}
+    my_lo_papers = {}
+    my_hi_papers = {}
+    my_top_papers = {}
+    top_papers_list = top_papers_dict(papers,top=top)
+    top_papers_pubids = top_papers_list.keys()
+    for pubid in papers:
+        protein_count = countprot(pubid,papers[pubid])
+        if pubid in top_papers_pubids:
+            my_top_papers[pubid] = papers[pubid]
+        if protein_count == 1:
+            my_singleton_papers[pubid] = papers[pubid]
+        elif protein_count <= 10 and protein_count > 1:
+            my_very_lo_papers[pubid] = papers[pubid]
+        elif protein_count <= 100 and protein_count > 10:
+            my_lo_papers[pubid] = papers[pubid]
+        elif protein_count > 100:
+            my_hi_papers[pubid] = papers[pubid]
+	# singleton: 1 annotation
+    # very low: 2 to 10 annotations
+	# low: 11-100 annotations
+	# high > 100 annotations
+	# top: top 50
+    top_papers_go = open("top_papers_go_pp.txt","w")
+    hi_papers_go = open("hi_papers_go_pp.txt","w")
+    lo_papers_go = open("lo_papers_go_pp.txt","w")
+    very_lo_papers_go = open("very_lo_papers_go_pp.txt","w")
+    singleton_papers_go = open("singleton_papers_go_pp.txt","w")
+    for top_id in my_top_papers:
+        for l in my_top_papers[top_id]:
+            print >> top_papers_go, "%s\t%s\t%s\t%s" % (top_id,l['go_ec'],
+                                                    l['go_id'], l['sp_id'])
+    for hi_id in my_hi_papers:
+        for l in my_hi_papers[hi_id]:
+            print >> hi_papers_go, "%s\t%s\t%s\t%s" % (hi_id,l['go_ec'],
+                                                    l['go_id'], l['sp_id'])
+
+    for lo_id in my_lo_papers:
+        for l in my_lo_papers[lo_id]:
+            print >> lo_papers_go, "%s\t%s\t%s\t%s" % (lo_id,l['go_ec'],
+                                                    l['go_id'], l['sp_id'])
+    for v_lo_id in my_very_lo_papers:
+        for l in my_very_lo_papers[v_lo_id]:
+            print >> very_lo_papers_go, "%s\t%s\t%s\t%s" % (v_lo_id,l['go_ec'],
+                                                    l['go_id'], l['sp_id'])
+    for s_id in my_singleton_papers:
+        for l in my_singleton_papers[s_id]:
+            print >> singleton_papers_go, "%s\t%s\t%s\t%s" % (s_id,l['go_ec'],
+                                                    l['go_id'], l['sp_id'])
+    top_papers_go.close()
+    hi_papers_go.close()
+    lo_papers_go.close()
+    very_lo_papers_go.close()
+    singleton_papers_go.close()
+from scipy import stats
+import numpy as np
+
+def go_info_content_stats_all(inpath_list):
+    fignum=  0
+    colors = ('b','g','r','c','m','o')
+    titles = []
+    tot_bp = []
+    tot_mf = []
+    tot_cc = []
+    go_ic = {} # dictionary of information content
+    # Deal with information content
+    for inline in file(inpath_list[0]):
+        go_id, ic, term_type = inline.split()
+        go_ic[go_id] =  (float(ic), term_type)
+    bp_ic_list, mf_ic_list, cc_ic_list = go_ic_stats(go_ic)
+    for inpath in inpath_list[1:]:
+        titles.append(inpath)
+        mf_ic_list = []
+        bp_ic_list = []
+        cc_ic_list = []
+        for inline in file(inpath):
+            go_id, term_type, depth, prot_id = inline.split()
+            if go_id not in go_ic:
+                print "can't find ", go_id
+                continue
+
+            ic = go_ic[go_id][0]
+            
+            if term_type == 'molecular_function':
+                mf_ic_list.append(ic)
+            elif term_type == 'biological_process':
+                bp_ic_list.append(ic)
+            elif term_type == 'cellular_component':
+                cc_ic_list.append(ic)
+        tot_mf.append(mf_ic_list)
+        tot_bp.append(bp_ic_list)
+        tot_cc.append(cc_ic_list)
+        
+    uvec, pval_vec = ontology_vector_stats(tot_mf)
+    print "MF Uvals", uvec
+    print "MF pvals", pval_vec
+    uvec, pval_vec = ontology_vector_stats(tot_bp)
+    print "BP Uvals", uvec
+    print "BP pvals", pval_vec
+    uvec, pval_vec = ontology_vector_stats(tot_cc)
+    print "CC Uvals", uvec
+    print "CC pvals", pval_vec
+    locs = ('MF','BP','CC', '   ',
+            'MF','BP','CC', '   ',
+            'MF','BP','CC', '   ',
+            'MF','BP','CC', '   ',
+            'MF','BP','CC')
+    locs2 = ('MF=1','<10','<100', '>100','   ',
+             'BP=1','<10','<100', '>100','   ',
+             'CC=1','<10','<100', '>100')
+    pyplot.title('Information Content Statstics')
+    distros_to_plot = (tot_mf, tot_bp, tot_cc)
+    for i in range(3):
+        bp = pyplot.boxplot(distros_to_plot[i],
+                 positions=range(5*i+1,5*i+5))
+        pyplot.setp(bp['boxes'],color=colors[i])
+        pyplot.setp(bp['medians'],color='black')
+        pyplot.setp(bp['fliers'],color=colors[i])
+        pyplot.setp(bp['whiskers'],color=colors[i])
+        pyplot.setp(bp['caps'],color=colors[i])
+
+#    for i in range(len(tot_bp)):
+#        bp=pyplot.boxplot( (tot_mf[i],tot_bp[i],tot_cc[i]), bootstrap=5000,
+#                        positions=range(4*i+1,4*i+4),notch=False )
+#        pyplot.setp(bp['boxes'],color=colors[i])
+#        pyplot.setp(bp['medians'],color='black')
+#        pyplot.setp(bp['fliers'],color=colors[i])
+#        pyplot.setp(bp['whiskers'],color=colors[i])
+#        pyplot.setp(bp['caps'],color=colors[i])
+#                        #positions=pos+(np.ones(4)*delta_pos[i]) )
+#    pyplot.xticks(range(1,20),locs)
+    pyplot.xticks(range(1,16),locs2)
+    pyplot.axis('tight')
+    pyplot.show()
+
+def ontology_vector_stats(tot_onto):
+    # Check for significant differences between the distribution 
+    # of IC or GO-depth between the singleton and very low, very low and low, low and high, etc.
+    #
+    # Use Mann-Whitney U.
+    pval_vec = []
+    uvec = []
+    for i in range(1,len(tot_onto)):
+        u, pval  = stats.mannwhitneyu(tot_onto[i-1], tot_onto[i]) 
+#        u, pval  = stats.ttest_ind(tot_onto[i-1], tot_onto[i]) 
+        pval_vec.append(pval * 2) # to get a two-sided pval
+        uvec.append(u)
+    return uvec, pval_vec
+        
+
+def go_depth_stats_all(inpath_list):
+    fignum=  0
+    colors = ('b','g','r','c','m','o')
+    titles = []
+    tot_bp = []
+    tot_mf = []
+    tot_cc = []
+    go_ic = {} # dictionary of information content, if we want it.
+    # Deal with information content
+    for inpath in inpath_list:
+        fignum += 1
+#        print "mean MF IC", np.mean(mf_ic_list)
+#        print inpath
+#        print "*************"
+        bp_list, mf_list, cc_list = go_depth_stats(inpath)
+            
+            
+        titles.append(inpath)
+        tot_bp.append(bp_list)
+        tot_mf.append(mf_list)
+        tot_cc.append(cc_list)
+#       pyplot.figure(fignum)
+#       pyplot.boxplot((bp_list, mf_list, cc_list))
+    print "tot fracs"
+    bp_sum = sum([len(i) for i in tot_bp])
+    mf_sum = sum([len(i) for i in tot_mf])
+    cc_sum = sum([len(i) for i in tot_cc])
+    for i, inpath in enumerate(inpath_list):
+        print inpath
+        print "BP fraction", float(len(tot_bp[i]))/bp_sum
+        print "MF fraction", float(len(tot_mf[i]))/mf_sum
+        print "CC fraction", float(len(tot_cc[i]))/cc_sum
+        print "*******************"
+        
+    uvec, pval_vec = ontology_vector_stats(tot_mf)
+    print "MF Uvals", uvec
+    print "MF pvals", pval_vec
+    uvec, pval_vec = ontology_vector_stats(tot_bp)
+    print "BP Uvals", uvec
+    print "BP pvals", pval_vec
+    uvec, pval_vec = ontology_vector_stats(tot_cc)
+    print "CC Uvals", uvec
+    print "CC pvals", pval_vec
+    locs = ('MF','BP','CC', '   ',
+            'MF','BP','CC', '   ',
+            'MF','BP','CC', '   ',
+            'MF','BP','CC', '   ',
+            'MF','BP','CC')
+    locs2 = ('MF=1','<10','<100', '>100','   ',
+             'BP=1','<10','<100', '>100','   ',
+             'CC=1','<10','<100', '>100')
+    pyplot.title('GO Depth Statistics')
+    distros_to_plot = (tot_mf, tot_bp, tot_cc)
+    for i in range(3):
+        bp = pyplot.boxplot(distros_to_plot[i],
+                 positions=range(5*i+1,5*i+5))
+        pyplot.setp(bp['boxes'],color=colors[i])
+        pyplot.setp(bp['medians'],color='black')
+        pyplot.setp(bp['fliers'],color=colors[i])
+        pyplot.setp(bp['whiskers'],color=colors[i])
+        pyplot.setp(bp['caps'],color=colors[i])
+#    for i in range(len(tot_bp)):
+##        pyplot.figure(i)
+##        pyplot.xticks(range(4*i+1,4*i+4),
+#        bp=pyplot.boxplot( (tot_mf[i],tot_bp[i],tot_cc[i]), bootstrap=1000,
+#                        positions=range(4*i+1,4*i+4),notch=False )
+##        pyplot.xticks(locs,('BPO%d' % i,'MFO%d' % i,'CCO%d' % i))
+##        pyplot.xticks(locs)
+#        pyplot.setp(bp['boxes'],color=colors[i])
+#        pyplot.setp(bp['medians'],color='black')
+#        pyplot.setp(bp['fliers'],color=colors[i])
+#        pyplot.setp(bp['whiskers'],color=colors[i])
+#        pyplot.setp(bp['caps'],color=colors[i])
+#                        #positions=pos+(np.ones(4)*delta_pos[i]) )
+    pyplot.xticks(range(1,16),locs2)
+    pyplot.axis('tight')
+    pyplot.show()
+def go_ic_stats(go_ic):
+    mf_ic_list = []
+    bp_ic_list = []
+    cc_ic_list = []
+    for go_id in go_ic:
+        ic, term_type = go_ic[go_id]
+        if term_type == 'molecular_function':
+            mf_ic_list.append(ic)
+        elif term_type == 'biological_process':
+            bp_ic_list.append(ic)
+        elif term_type == 'cellular_component':
+            cc_ic_list.append(ic)
+    print "MF information content mean, stdv", np.mean(mf_ic_list), np.std(mf_ic_list)
+    print "BP information content mean, stdv", np.mean(bp_ic_list), np.std(bp_ic_list)
+    print "CC information content mean, stdv", np.mean(cc_ic_list), np.std(cc_ic_list)
+    return mf_ic_list, bp_ic_list, cc_ic_list
+
+def go_depth_stats(inpath):
+    bp_list = []
+    mf_list = []
+    cc_list = []
+    infile = file(inpath)
+    for inline in file(inpath):
+        inrec = inline.strip().split()
+        if inrec[1] == 'biological_process':
+            bp_list.append(float(inrec[2]))
+        elif inrec[1] == 'molecular_function': 
+            mf_list.append(float(inrec[2]))
+        elif inrec[1] == 'cellular_component':
+            cc_list.append(float(inrec[2]))
+ 
+    n_sum = len(bp_list) + len(mf_list) + len(cc_list)
+
+    print "mf n, frac", len(mf_list), len(mf_list)/float(n_sum)
+    print "mf mean", np.mean(mf_list)
+    print "mf stdv", np.std(mf_list)
+        
+    print "bp n, frac", len(bp_list), len(bp_list)/float(n_sum)
+    print "bp mean", np.mean(bp_list)
+    print "bp stdv", np.std(bp_list)
+
+    print "cc n, frac", len(cc_list), len(cc_list)/float(n_sum)
+    print "cc mean", np.mean(cc_list)
+    print "cc stdv", np.std(cc_list)
+        
+    return bp_list, mf_list, cc_list 
 
 ###########################################################
 # term_types_all_papers
@@ -488,26 +808,177 @@ def term_types_in_paper(paper):
     return tt_count # count of term types
         
     
-def go_freq_in_papers(papers):
+
+get_term_type_sql = """
+SELECT
+    term_type
+FROM 
+    term
+WHERE
+    term.acc = "%s"
+"""
+
+def go_sum_in_papers(papers):
     # Frequency of GO terms in specific papers
     # Key: GO ID; Value: count of that GO ID.
     #
     # Can be used with SP & GOA data  
    
-    go_ids = {} # all GO terms
-    exp_go_ids = {} # GO terms with experimental evidence codes only
+    go_count = {} # all GO terms
+    exp_go_count = {} # GO terms with experimental evidence codes only
     for p in papers:
         for go_rec in papers[p]:
             # All evidence codes
             go_id = go_rec['go_id']
-            go_ids[go_id] = go_ids.get(go_id,0) + 1
+            go_count[go_id] = go_count.get(go_id,0) + 1
             # Experimental evidence codes only
             if go_rec['go_ec'] in EEC:
-                exp_go_ids[go_id] = exp_go_ids.get(go_id,0) + 1
+                exp_go_count[go_id] = exp_go_count.get(go_id,0) + 1
          
-    return go_ids, exp_go_ids
-            
     
+    return go_count, exp_go_count
+            
+def scalarp(item,scalar_example):
+    return (type(item) == type(scalar_example) or
+                item is None)
+
+def flatten(sequence,scalarp,result=None):
+    if result is None: result = []
+    for item in sequence:
+        if scalarp(item,''):
+            result.append(item)
+        else:
+            flatten(item, scalarp, result)
+    return result
+
+acc_by_term_name_sql = \
+"""
+SELECT
+    acc
+FROM
+    term 
+WHERE
+    name = '%s';
+"""
+find_ancestors_sql = """
+    SELECT p.acc
+    FROM
+        graph_path
+        INNER JOIN
+        term AS t ON (t.id = graph_path.term2_id)
+    INNER JOIN
+        term AS p ON (p.id = graph_path.term1_id)
+    WHERE t.acc = '%s'
+    GROUP BY p.acc ORDER BY p.acc;
+"""
+def go_count_by_ontology(go_count):
+    id_list = go_count.keys()
+    go_count_mf = {}
+    go_count_bp = {}
+    go_count_cc = {}
+    
+    go_con = mysqlConnect()
+    go_cursor = go_con.cursor()
+
+    mf_root = mysql_query(acc_by_term_name_sql,("molecular_function",),go_cursor)
+    cc_root = mysql_query(acc_by_term_name_sql,("cellular_component",),go_cursor)
+    bp_root = mysql_query(acc_by_term_name_sql,("biological_process",),go_cursor)
+
+    # split go_count dict into three dictionaries, mf, bp, cc
+    obsolete_go = open("obsolete_go.txt","w")
+    for go_id in go_count:
+        try:
+            term_type = flatten(
+            mysql_query(get_term_type_sql,(go_id,),go_cursor),
+                                        scalarp)[0]
+        except IndexError:
+            obsolete_go.write("%s\n" % go_id)
+            continue
+        if term_type == 'molecular_function':
+            go_count_mf[go_id] = go_count_mf.get(go_id,0) + 1
+        elif term_type == 'biological_process':
+            go_count_bp[go_id] = go_count_bp.get(go_id,0) + 1
+        elif term_type == 'cellular_component':
+            go_count_cc[go_id] = go_count_cc.get(go_id,0) + 1
+        else:
+            obsolete_go.write("no term_type found for %s\n" % go_id)
+
+        # Now, we propagate the count
+
+        ancestor_list = flatten(mysql_query(find_ancestors_sql,
+                               (go_id,),go_cursor),scalarp)
+        for anc_go_id in ancestor_list:
+            if anc_go_id != go_id:
+                if term_type == 'molecular_function':
+                    go_count_mf[anc_go_id] = go_count_mf.get(anc_go_id,0) + 1
+                elif term_type == 'biological_process':
+                    go_count_bp[anc_go_id] = go_count_bp.get(anc_go_id,0) + 1
+                elif term_type == 'cellular_component':
+                    go_count_cc[anc_go_id] = go_count_cc.get(anc_go_id,0) + 1
+    go_con.close()
+    obsolete_go.close()
+    return go_count_mf, go_count_bp, go_count_cc
+
+from math import log 
+def go_info_content_by_papers(go_count,n_papers):
+    # Information content as -log2(go_frequency)
+    # Frequency is term_count/paper_count
+    go_ic = {}
+#    denom = float(go_count['all'])
+    denom = float(n_papers)
+    for go_id in go_count:
+        go_ic[go_id] = -(log(go_count[go_id]/denom) / log(2.))
+    return go_ic
+def go_info_content_by_terms(go_count):
+    # Information content as -log2(go_frequency)
+    go_ic = {}
+    denom = float(go_count['all'])
+    for go_id in go_count:
+        go_ic[go_id] = -(log(go_count[go_id]/denom) / log(2.))
+    return go_ic
+def go_info_content_all(go_count_mf, go_count_bp, go_count_cc):
+    go_ic = {}
+    go_ic_mf = go_info_content_by_terms(go_count_mf)
+    go_ic_bp = go_info_content_by_terms(go_count_bp)
+    go_ic_cc = go_info_content_by_terms(go_count_cc)
+    # put in a general dictionary
+    for i in go_ic_mf:
+        go_ic[i] = go_ic_mf[i]
+    for i in go_ic_bp:
+        go_ic[i] = go_ic_bp[i]
+    for i in go_ic_cc:
+        go_ic[i] = go_ic_cc[i]
+    outfile = open("papers_go_info_content.txt","w")
+    # print it
+    for i in go_ic_mf:
+        outfile.write("%s\t%f\t%s\n" % (i,go_ic_mf[i], 'molecular_function'))
+    for i in go_ic_bp:
+        outfile.write("%s\t%f\t%s\n" % (i,go_ic_bp[i], 'biological_process'))
+    for i in go_ic_cc:
+        outfile.write("%s\t%f\t%s\n" % (i,go_ic_cc[i], 'cellular_component'))
+    outfile.close()
+     
+def go_info_content_by_papers_all(go_count_mf, go_count_bp, go_count_cc,n_papers):
+    go_ic = {}
+    go_ic_mf = go_info_content(go_count_mf)
+    go_ic_bp = go_info_content(go_count_bp)
+    go_ic_cc = go_info_content(go_count_cc)
+    # put in a general dicitonary
+    for i in go_ic_mf:
+        go_ic[i] = go_ic_mf[i]
+    for i in go_ic_bp:
+        go_ic[i] = go_ic_bp[i]
+    for i in go_ic_cc:
+        go_ic[i] = go_ic_cc[i]
+    outfile = open("papers_go_info_content.txt","w")
+    # print it
+    for i in go_ic_mf:
+        outfile.write("%s\t%f\t%s\n" % (i,go_ic_mf[i], 'molecular_function'))
+    for i in go_ic_bp:
+        outfile.write("%s\t%f\t%s\n" % (i,go_ic_bp[i], 'biological_process'))
+    for i in go_ic_cc:
+        outfile.write("%s\t%f\t%s\n" % (i,go_ic_cc[i], 'cellular_component'))
+    outfile.close()
     
 def go_in_papers(sp_path):
     # Returns: papers: key: pubmed_id; value: list of go_rec records
@@ -652,3 +1123,98 @@ def redundant_annotations(go_papers_dict):
             
 
     return ancestors_found, to_remove,gpd_leaves_only
+
+def correlate_goic_npapers():
+    mf_depth  ={}
+    bp_depth = {}
+    cc_depth = {}
+
+    mf_ic = {}
+    bp_ic = {}
+    cc_ic = {}
+    all_ic = {}
+    go_depth = {}
+    papers2go = defaultdict(list)
+    papers2nprots = {}
+
+    # number of proteins per paper
+    print "reading papers-nprots..."
+    for inline in file("papers-nprots.txt"):
+        pub_id, nprots = inline.split()
+        papers2nprots[pub_id] = float(nprots)
+    # information content of each go term
+    print "reading papers_go_info_content..."
+    for inline in file("papers_go_info_content.txt"):
+        go_id, ic_s, onto_type = inline.split()
+        ic = float(ic_s)
+        all_ic[go_id] = ic
+        if onto_type == "molecular_function":
+            mf_ic[go_id] = ic
+        elif onto_type == "biological_process":
+            bp_ic[go_id] = ic
+        elif onto_type == "cellular_component":
+            cc_ic[go_id] = ic
+    # depth for each go term
+    print "reading all_papers_go_depth_pp..."
+    for inline in file("all_papers_go_depth_pp.txt"):
+        go_id, onto_type, d, prot = inline.split()
+        depth = float(d)
+        go_depth[go_id] = depth
+        if onto_type == "molecular_function":
+            mf_depth[go_id] = depth
+        elif onto_type == "biological_process":
+            bp_depth[go_id] = depth
+        elif onto_type == "cellular_component":
+            cc_depth[go_id] = depth
+    print mf_depth.items()[:5],len(mf_depth)
+    # go terms in each paper
+    for inline in file("all_papers_go_pp_uniq.txt"):
+        pub_id, go_id, prot_id = inline.split()
+        papers2go[pub_id].append(go_id)
+
+    # data points: go_depth vs. mean number of proteins in paper
+    xyvec = []
+    xvec = []
+    yvec = []
+    xydict = defaultdict(list)
+    for pub_id in papers2nprots:
+        x = papers2nprots[pub_id]
+        go_depth_list = []
+        for go_id in papers2go[pub_id]:
+            if go_id in bp_depth:
+#            if go_id in mf_depth:
+                go_depth_list.append(go_depth[go_id])
+#        y = np.mean(go_depth_list)
+        for y in go_depth_list:
+            xydict[x].append(y)
+
+    for x in xydict:
+        yvec = []
+        for y in xydict[x]:
+            yvec.append(y)
+        xyvec.append( (x,np.mean(yvec)) )
+#        xyvec.append( (x, xydict[x]) )
+    xyvec.sort()
+
+    # data points: go_ic vs. mean number of proteins in paper
+    xyvec_ic = []
+    xvec = []
+    yvec = []
+    xydict = defaultdict(list)
+    for pub_id in papers2nprots:
+        x = papers2nprots[pub_id]
+        go_ic_list = []
+        for go_id in papers2go[pub_id]:
+            if go_id in bp_ic:
+#            if go_id in mf_ic:
+                go_ic_list.append(all_ic[go_id])
+#        y = np.mean(go_depth_list)
+        for y in go_ic_list:
+            xydict[x].append(y)
+    for x in xydict:
+        yvec = []
+        for y in xydict[x]:
+            yvec.append(y)
+        xyvec_ic.append( (x, np.mean(yvec)) )
+    xyvec_ic.sort()
+    return xyvec, xyvec_ic

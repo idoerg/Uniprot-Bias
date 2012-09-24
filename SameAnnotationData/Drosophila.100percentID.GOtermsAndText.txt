@@ -1,0 +1,428 @@
+#
+18433294	Q8I8U7	CCO	GO:0005875	microtubule associated complex
+16336044	Q8I8U7	BPO	GO:0006911	phagocytosis, engulfment
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P29617	CCO	GO:0005875	microtubule associated complex
+16336044	P29617	BPO	GO:0006911	phagocytosis, engulfment
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P12613	CCO	GO:0005875	microtubule associated complex
+16336044	P12613	BPO	GO:0006911	phagocytosis, engulfment
+17412918	P12613	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P35381	CCO	GO:0005875	microtubule associated complex
+16336044	P35381	BPO	GO:0006911	phagocytosis, engulfment
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P02572	CCO	GO:0005875	microtubule associated complex
+16336044	P02572	BPO	GO:0006911	phagocytosis, engulfment
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P10987	CCO	GO:0005875	microtubule associated complex
+16336044	P10987	BPO	GO:0006911	phagocytosis, engulfment
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9W2N0	CCO	GO:0005875	microtubule associated complex
+16336044	Q9W2N0	BPO	GO:0006911	phagocytosis, engulfment
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	Q8IGR0	BPO	GO:0006911	phagocytosis, engulfment
+18433294	Q8IGR0	CCO	GO:0005875	microtubule associated complex
+18433294	P15357	CCO	GO:0005875	microtubule associated complex
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P37276	CCO	GO:0005875	microtubule associated complex
+17412918	P37276	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9NCG0	CCO	GO:0005875	microtubule associated complex
+17412918	Q9NCG0	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9U5W6	CCO	GO:0005875	microtubule associated complex
+17412918	Q9U5W6	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VEZ3	CCO	GO:0005875	microtubule associated complex
+17412918	Q9VEZ3	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VKI0	CCO	GO:0005875	microtubule associated complex
+17412918	Q9VKI0	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9XZ29	CCO	GO:0005875	microtubule associated complex
+17412918	Q9XZ29	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q8T0F9	BPO	GO:0007052	mitotic spindle organization
+17412918	Q8T0F9	BPO	GO:0007076	mitotic chromosome condensation
+18433294	Q8T0F9	CCO	GO:0005875	microtubule associated complex
+18433294	Q7KK96	CCO	GO:0005875	microtubule associated complex
+17412918	Q7KK96	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7KK96	BPO	GO:0007076	mitotic chromosome condensation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P46863	CCO	GO:0005875	microtubule associated complex
+17412918	P46863	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q95TZ9	CCO	GO:0005875	microtubule associated complex
+17412918	Q95TZ9	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P13060	CCO	GO:0005875	microtubule associated complex
+17412918	P13060	BPO	GO:0000022	mitotic spindle elongation
+17412918	P13060	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P91945	CCO	GO:0005875	microtubule associated complex
+17412918	P91945	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VSW5	CCO	GO:0005875	microtubule associated complex
+17412918	Q9VSW5	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q7K4B4	CCO	GO:0005875	microtubule associated complex
+18433294	Q7K4B4	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7K4B4	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7K4B4	BPO	GO:0007088	regulation of mitosis
+17412918	Q7K4B4	CCO	GO:0005819	spindle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VAP2	CCO	GO:0005875	microtubule associated complex
+18433294	Q9VAP2	BPO	GO:0007052	mitotic spindle organization
+17412918	Q9VAP2	BPO	GO:0007052	mitotic spindle organization
+17412918	Q9VAP2	BPO	GO:0007088	regulation of mitosis
+17412918	Q9VAP2	CCO	GO:0005819	spindle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q24492	CCO	GO:0005875	microtubule associated complex
+17412918	Q24492	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q7K3C0	CCO	GO:0005875	microtubule associated complex
+18433294	Q7K3C0	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7K3C0	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7K3C0	BPO	GO:0007088	regulation of mitosis
+17412918	Q9W2P0	BPO	GO:0007052	mitotic spindle organization
+17412918	Q9W2P0	BPO	GO:0007088	regulation of mitosis
+18433294	Q9W2P0	CCO	GO:0005875	microtubule associated complex
+18433294	Q9W2P0	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P48605	CCO	GO:0005875	microtubule associated complex
+17412918	P48605	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VHL2	CCO	GO:0005875	microtubule associated complex
+18433294	Q9VHL2	BPO	GO:0007052	mitotic spindle organization
+18433294	Q9VHL2	BPO	GO:0031122	cytoplasmic microtubule organization
+17412918	Q9VHL2	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q7KKI0	CCO	GO:0005875	microtubule associated complex
+17412918	Q7KKI0	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	A4V464	CCO	GO:0005875	microtubule associated complex
+18433294	A4V464	BPO	GO:0007052	mitotic spindle organization
+18433294	A4V464	BPO	GO:0031122	cytoplasmic microtubule organization
+17412918	A4V464	BPO	GO:0007052	mitotic spindle organization
+17412918	Q9W392	BPO	GO:0007052	mitotic spindle organization
+18433294	Q9W392	CCO	GO:0005875	microtubule associated complex
+18433294	Q9W392	BPO	GO:0007052	mitotic spindle organization
+18433294	Q9W392	BPO	GO:0031122	cytoplasmic microtubule organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VK69	CCO	GO:0005875	microtubule associated complex
+18433294	Q9VK69	BPO	GO:0007052	mitotic spindle organization
+18433294	Q9VK69	BPO	GO:0031122	cytoplasmic microtubule organization
+17412918	Q9VK69	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VXQ5	CCO	GO:0005875	microtubule associated complex
+18433294	Q9VXQ5	BPO	GO:0007052	mitotic spindle organization
+18433294	Q9VXQ5	BPO	GO:0031122	cytoplasmic microtubule organization
+17412918	Q9VXQ5	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	A1Z8U4	CCO	GO:0005875	microtubule associated complex
+17412918	A1Z8U4	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q27268	CCO	GO:0005875	microtubule associated complex
+17412918	Q27268	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q02748	CCO	GO:0005875	microtubule associated complex
+17412918	Q02748	BPO	GO:0000022	mitotic spindle elongation
+17412918	Q02748	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P41374	CCO	GO:0005875	microtubule associated complex
+17412918	P41374	BPO	GO:0000022	mitotic spindle elongation
+17412918	P41374	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	O76523	CCO	GO:0005875	microtubule associated complex
+17412918	O76523	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VAJ2	CCO	GO:0005875	microtubule associated complex
+17412918	Q9VAJ2	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9XYF7	CCO	GO:0005875	microtubule associated complex
+17412918	Q9XYF7	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q8MSW6	CCO	GO:0005875	microtubule associated complex
+17412918	Q8MSW6	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P38979	CCO	GO:0005875	microtubule associated complex
+17412918	P38979	BPO	GO:0000022	mitotic spindle elongation
+17412918	P38979	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P41375	CCO	GO:0005875	microtubule associated complex
+17412918	P41375	BPO	GO:0000022	mitotic spindle elongation
+17412918	P41375	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	A1Z6P3	CCO	GO:0005875	microtubule associated complex
+17412918	A1Z6P3	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q7JZD3	CCO	GO:0005875	microtubule associated complex
+17412918	Q7JZD3	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9XZ57	CCO	GO:0005875	microtubule associated complex
+17412918	Q9XZ57	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P18053	CCO	GO:0005875	microtubule associated complex
+17412918	P18053	BPO	GO:0000022	mitotic spindle elongation
+17412918	P18053	BPO	GO:0007052	mitotic spindle organization
+17412918	P18053	BPO	GO:0008283	cell proliferation
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P48598	CCO	GO:0005875	microtubule associated complex
+17412918	P48598	BPO	GO:0000022	mitotic spindle elongation
+17412918	P48598	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9VKD6	CCO	GO:0005875	microtubule associated complex
+18433294	Q9VKD6	BPO	GO:0007052	mitotic spindle organization
+18433294	Q9VKD6	BPO	GO:0031122	cytoplasmic microtubule organization
+17412918	Q9VKD6	BPO	GO:0007052	mitotic spindle organization
+17412918	Q9VKD6	CCO	GO:0005819	spindle
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9W4M8	BPO	GO:0007052	mitotic spindle organization
+17412918	Q9W4M8	BPO	GO:0007088	regulation of mitosis
+17412918	Q9W4M8	CCO	GO:0005819	spindle
+18433294	Q9W4M8	CCO	GO:0005875	microtubule associated complex
+18433294	Q9W4M8	BPO	GO:0007052	mitotic spindle organization
+18433294	Q7K763	CCO	GO:0005875	microtubule associated complex
+18433294	Q7K763	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7K763	BPO	GO:0007052	mitotic spindle organization
+17412918	Q7K763	BPO	GO:0007088	regulation of mitosis
+17412918	Q7K763	CCO	GO:0005819	spindle
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P62152	CCO	GO:0005875	microtubule associated complex
+17412918	P62152	CCO	GO:0000922	spindle pole
+17412918	P62152	BPO	GO:0007052	mitotic spindle organization
+17412918	P62152	BPO	GO:0051383	kinetochore organization
+17412918	P62152	CCO	GO:0000922	spindle pole
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q00084	CCO	GO:0005875	microtubule associated complex
+17412918	Q00084	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	A8DYZ0	CCO	GO:0005875	microtubule associated complex
+18981222	A8DYZ0	CCO	GO:0071011	precatalytic spliceosome
+18981222	A8DYZ0	CCO	GO:0071013	catalytic step 2 spliceosome
+18981222	O76922	CCO	GO:0071011	precatalytic spliceosome
+18981222	O76922	CCO	GO:0071013	catalytic step 2 spliceosome
+18433294	O76922	CCO	GO:0005875	microtubule associated complex
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P19109	CCO	GO:0005875	microtubule associated complex
+18981222	P19109	CCO	GO:0071011	precatalytic spliceosome
+18981222	P19109	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P41073	CCO	GO:0005875	microtubule associated complex
+18981222	P41073	CCO	GO:0071011	precatalytic spliceosome
+18981222	P41073	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P11147	CCO	GO:0005875	microtubule associated complex
+18981222	P11147	CCO	GO:0071011	precatalytic spliceosome
+18981222	P11147	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	P21187	CCO	GO:0005875	microtubule associated complex
+18981222	P21187	CCO	GO:0071011	precatalytic spliceosome
+18981222	P21187	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q7KLW9	CCO	GO:0005875	microtubule associated complex
+18981222	Q7KLW9	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q7KLW9	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	O18640	CCO	GO:0005875	microtubule associated complex
+18981222	O18640	CCO	GO:0071011	precatalytic spliceosome
+18981222	O18640	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q95PE5	CCO	GO:0005875	microtubule associated complex
+18981222	Q95PE5	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q95PE5	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q9V3L6	CCO	GO:0005875	microtubule associated complex
+18981222	Q9V3L6	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9V3L6	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+18433294	Q24055	CCO	GO:0005875	microtubule associated complex
+18981222	Q24055	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q24055	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	P36179	BPO	GO:0006911	phagocytosis, engulfment
+17412918	P36179	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	P52304	BPO	GO:0006911	phagocytosis, engulfment
+17412918	P52304	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	P12982	BPO	GO:0006911	phagocytosis, engulfment
+17412918	P12982	BPO	GO:0000022	mitotic spindle elongation
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	Q9NJB4	BPO	GO:0006911	phagocytosis, engulfment
+17412918	Q9NJB4	BPO	GO:0000022	mitotic spindle elongation
+17412918	Q9NJB4	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	Q9VEA1	BPO	GO:0006911	phagocytosis, engulfment
+17412918	Q9VEA1	BPO	GO:0000022	mitotic spindle elongation
+17412918	Q9VEA1	BPO	GO:0007052	mitotic spindle organization
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	A1Z9G2	BPO	GO:0006911	phagocytosis, engulfment
+18981222	A1Z9G2	CCO	GO:0071011	precatalytic spliceosome
+18981222	A1Z9G2	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+16336044	Q9V3G3	BPO	GO:0006911	phagocytosis, engulfment
+18981222	Q9V3G3	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9V3G3	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q5BI86	BPO	GO:0007052	mitotic spindle organization
+18981222	Q5BI86	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q5BI86	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9W0M7	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9W0M7	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9W0M7	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9VEP9	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9VEP9	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9VEP9	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q8T9L6	BPO	GO:0007052	mitotic spindle organization
+18981222	Q8T9L6	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q8T9L6	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	O46106	BPO	GO:0007052	mitotic spindle organization
+18981222	O46106	CCO	GO:0071011	precatalytic spliceosome
+18981222	O46106	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	P17133	BPO	GO:0007052	mitotic spindle organization
+18981222	P17133	CCO	GO:0071011	precatalytic spliceosome
+18981222	P17133	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q24562	BPO	GO:0007052	mitotic spindle organization
+18981222	Q24562	CCO	GO:0071011	precatalytic spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q24534	BPO	GO:0007052	mitotic spindle organization
+18981222	Q24534	CCO	GO:0071011	precatalytic spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9W424	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9W424	CCO	GO:0071011	precatalytic spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9V4Q8	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9V4Q8	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9V4Q8	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q94535	BPO	GO:0007052	mitotic spindle organization
+18981222	Q94535	CCO	GO:0071011	precatalytic spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9VU15	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9VU15	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9VU15	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9V3B6	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9V3B6	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9V3B6	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	O44437	BPO	GO:0007052	mitotic spindle organization
+18981222	O44437	CCO	GO:0071011	precatalytic spliceosome
+18981222	O44437	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q8SZ87	BPO	GO:0007052	mitotic spindle organization
+18981222	Q8SZ87	CCO	GO:0071011	precatalytic spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9VRV7	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9VRV7	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9VRV7	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9VI10	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9VI10	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9VI10	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q24297	BPO	GO:0007052	mitotic spindle organization
+18981222	Q24297	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q24297	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9VHI4	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9VHI4	CCO	GO:0071011	precatalytic spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#
+17412918	Q9VXE0	BPO	GO:0007052	mitotic spindle organization
+18981222	Q9VXE0	CCO	GO:0071011	precatalytic spliceosome
+18981222	Q9VXE0	CCO	GO:0071013	catalytic step 2 spliceosome
+ 	 	 	 	This group has identical annotations:	 False
+#

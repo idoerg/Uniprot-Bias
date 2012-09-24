@@ -1,0 +1,3356 @@
+#
+14562095	Q07878	CCO	GO:0005768	endosome
+16823961	Q07878	CCO	GO:0005739	mitochondrion
+14576278	Q07878	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P19158	CCO	GO:0005737	cytoplasm
+16823961	P19158	CCO	GO:0005739	mitochondrion
+14576278	P19158	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32874	CCO	GO:0005739	mitochondrion
+16823961	P32874	CCO	GO:0005739	mitochondrion
+14576278	P32874	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P07149	CCO	GO:0005737	cytoplasm
+16823961	P07149	CCO	GO:0005739	mitochondrion
+14576278	P07149	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P19097	CCO	GO:0005737	cytoplasm
+16823961	P19097	CCO	GO:0005739	mitochondrion
+14576278	P19097	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q03921	CCO	GO:0005737	cytoplasm
+16823961	Q03921	CCO	GO:0005739	mitochondrion
+14576278	Q03921	CCO	GO:0005739	mitochondrion
+16429126	Q03921	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38873	CCO	GO:0000329	fungal-type vacuole membrane
+16823961	P38873	CCO	GO:0005739	mitochondrion
+14576278	P38873	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06554	CCO	GO:0005634	nucleus
+16823961	Q06554	CCO	GO:0005739	mitochondrion
+14576278	Q06554	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06625	CCO	GO:0005737	cytoplasm
+16823961	Q06625	CCO	GO:0005739	mitochondrion
+14576278	Q06625	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53094	CCO	GO:0005737	cytoplasm
+16823961	P53094	CCO	GO:0005739	mitochondrion
+14576278	P53094	CCO	GO:0005739	mitochondrion
+11914276	P53094	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06698	CCO	GO:0005737	cytoplasm
+16823961	Q06698	CCO	GO:0005739	mitochondrion
+14576278	Q06698	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q03016	CCO	GO:0005737	cytoplasm
+14562095	Q03016	CCO	GO:0005783	endoplasmic reticulum
+16823961	Q03016	CCO	GO:0005739	mitochondrion
+14576278	Q03016	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12276	CCO	GO:0005737	cytoplasm
+16823961	Q12276	CCO	GO:0005739	mitochondrion
+14576278	Q12276	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08972	CCO	GO:0005737	cytoplasm
+16823961	Q08972	CCO	GO:0005739	mitochondrion
+14576278	Q08972	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12466	CCO	GO:0005886	plasma membrane
+16823961	Q12466	CCO	GO:0005739	mitochondrion
+14576278	Q12466	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P31380	CCO	GO:0005634	nucleus
+16823961	P31380	CCO	GO:0005739	mitochondrion
+14576278	P31380	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08217	CCO	GO:0005737	cytoplasm
+16823961	Q08217	CCO	GO:0005739	mitochondrion
+14576278	Q08217	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38114	CCO	GO:0005634	nucleus
+14562095	P38114	CCO	GO:0005737	cytoplasm
+16823961	P38114	CCO	GO:0005739	mitochondrion
+14576278	P38114	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40021	CCO	GO:0005737	cytoplasm
+16823961	P40021	CCO	GO:0005739	mitochondrion
+14576278	P40021	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36097	CCO	GO:0005737	cytoplasm
+16823961	P36097	CCO	GO:0005739	mitochondrion
+16429126	P36097	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P35688	CCO	GO:0005737	cytoplasm
+14562095	P35688	CCO	GO:0005935	cellular bud neck
+16823961	P35688	CCO	GO:0005739	mitochondrion
+14576278	P35688	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32898	CCO	GO:0005739	mitochondrion
+16823961	P32898	CCO	GO:0005739	mitochondrion
+14576278	P32898	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40825	CCO	GO:0005737	cytoplasm
+16823961	P40825	CCO	GO:0005739	mitochondrion
+14576278	P40825	CCO	GO:0005739	mitochondrion
+11914276	P40825	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04748	CCO	GO:0005739	mitochondrion
+16823961	Q04748	CCO	GO:0005739	mitochondrion
+14576278	Q04748	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03833	CCO	GO:0005634	nucleus
+16823961	Q03833	CCO	GO:0005739	mitochondrion
+14576278	Q03833	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40361	CCO	GO:0005737	cytoplasm
+16823961	P40361	CCO	GO:0005739	mitochondrion
+14576278	P40361	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P48237	CCO	GO:0005739	mitochondrion
+16823961	P48237	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P36023	CCO	GO:0005634	nucleus
+14562095	P36023	CCO	GO:0005737	cytoplasm
+16823961	P36023	CCO	GO:0005739	mitochondrion
+14576278	P36023	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q07895	CCO	GO:0000329	fungal-type vacuole membrane
+16823961	Q07895	CCO	GO:0005739	mitochondrion
+14576278	Q07895	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q02875	CCO	GO:0005737	cytoplasm
+16823961	Q02875	CCO	GO:0005739	mitochondrion
+14576278	Q02875	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q05050	CCO	GO:0005737	cytoplasm
+16823961	Q05050	CCO	GO:0005739	mitochondrion
+14576278	Q05050	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P50896	CCO	GO:0005737	cytoplasm
+16823961	P50896	CCO	GO:0005739	mitochondrion
+14576278	P50896	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12050	CCO	GO:0005634	nucleus
+14562095	Q12050	CCO	GO:0005737	cytoplasm
+16823961	Q12050	CCO	GO:0005739	mitochondrion
+14576278	Q12050	CCO	GO:0005739	mitochondrion
+16429126	Q12050	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P39533	CCO	GO:0005739	mitochondrion
+16823961	P39533	CCO	GO:0005739	mitochondrion
+14576278	P39533	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38920	CCO	GO:0005634	nucleus
+14562095	P38920	CCO	GO:0005737	cytoplasm
+16823961	P38920	CCO	GO:0005739	mitochondrion
+14576278	P38920	CCO	GO:0005739	mitochondrion
+16429126	P38920	MFO	GO:0005515	protein binding
+16429126	P38920	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36122	CCO	GO:0030136	clathrin-coated vesicle
+16823961	P36122	CCO	GO:0005739	mitochondrion
+14576278	P36122	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47031	CCO	GO:0005634	nucleus
+14562095	P47031	CCO	GO:0005737	cytoplasm
+16823961	P47031	CCO	GO:0005739	mitochondrion
+14576278	P47031	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53297	CCO	GO:0005634	nucleus
+14562095	P53297	CCO	GO:0005737	cytoplasm
+16823961	P53297	CCO	GO:0005739	mitochondrion
+14576278	P53297	CCO	GO:0005739	mitochondrion
+11914276	P53297	CCO	GO:0005634	nucleus
+11914276	P53297	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04322	CCO	GO:0005737	cytoplasm
+14562095	Q04322	CCO	GO:0005933	cellular bud
+14562095	Q04322	CCO	GO:0005935	cellular bud neck
+16823961	Q04322	CCO	GO:0005739	mitochondrion
+14576278	Q04322	CCO	GO:0005739	mitochondrion
+16429126	Q04322	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12204	CCO	GO:0005739	mitochondrion
+16823961	Q12204	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P23337	CCO	GO:0005737	cytoplasm
+16823961	P23337	CCO	GO:0005739	mitochondrion
+14576278	P23337	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06411	CCO	GO:0005634	nucleus
+14562095	Q06411	CCO	GO:0005737	cytoplasm
+16823961	Q06411	CCO	GO:0005739	mitochondrion
+14576278	Q06411	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P15108	CCO	GO:0005737	cytoplasm
+16823961	P15108	CCO	GO:0005739	mitochondrion
+14576278	P15108	CCO	GO:0005739	mitochondrion
+16429126	P15108	MFO	GO:0005515	protein binding
+16429126	P15108	MFO	GO:0005515	protein binding
+16429126	P15108	MFO	GO:0005515	protein binding
+16429126	P15108	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08282	CCO	GO:0005737	cytoplasm
+16823961	Q08282	CCO	GO:0005739	mitochondrion
+14576278	Q08282	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08818	CCO	GO:0005739	mitochondrion
+16823961	Q08818	CCO	GO:0005739	mitochondrion
+14576278	Q08818	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q08968	CCO	GO:0005739	mitochondrion
+16823961	Q08968	CCO	GO:0005739	mitochondrion
+14576278	Q08968	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40485	CCO	GO:0005737	cytoplasm
+16823961	P40485	CCO	GO:0005739	mitochondrion
+14576278	P40485	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q02981	CCO	GO:0005739	mitochondrion
+16823961	Q02981	CCO	GO:0005739	mitochondrion
+14576278	Q02981	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P47139	CCO	GO:0005737	cytoplasm
+16823961	P47139	CCO	GO:0005739	mitochondrion
+14576278	P47139	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53140	CCO	GO:0005739	mitochondrion
+16823961	P53140	CCO	GO:0005739	mitochondrion
+14576278	P53140	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q04311	CCO	GO:0005737	cytoplasm
+16823961	Q04311	CCO	GO:0005739	mitochondrion
+14576278	Q04311	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40053	CCO	GO:0005739	mitochondrion
+16823961	P40053	CCO	GO:0005739	mitochondrion
+14576278	P40053	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P31376	CCO	GO:0005634	nucleus
+16823961	P31376	CCO	GO:0005739	mitochondrion
+14576278	P31376	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P06208	CCO	GO:0005737	cytoplasm
+14562095	P06208	CCO	GO:0005739	mitochondrion
+16823961	P06208	CCO	GO:0005739	mitochondrion
+14576278	P06208	CCO	GO:0005739	mitochondrion
+16429126	P06208	MFO	GO:0005515	protein binding
+11914276	P06208	CCO	GO:0005737	cytoplasm
+11914276	P06208	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12374	CCO	GO:0005739	mitochondrion
+16823961	Q12374	CCO	GO:0005739	mitochondrion
+14576278	Q12374	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03153	CCO	GO:0005739	mitochondrion
+16823961	Q03153	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53863	CCO	GO:0005737	cytoplasm
+16823961	P53863	CCO	GO:0005739	mitochondrion
+14576278	P53863	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P00927	CCO	GO:0005739	mitochondrion
+16823961	P00927	CCO	GO:0005739	mitochondrion
+14576278	P00927	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q08179	CCO	GO:0005739	mitochondrion
+16823961	Q08179	CCO	GO:0005739	mitochondrion
+14576278	Q08179	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q06567	CCO	GO:0005739	mitochondrion
+16823961	Q06567	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q08622	CCO	GO:0005739	mitochondrion
+16823961	Q08622	CCO	GO:0005739	mitochondrion
+14576278	Q08622	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P24783	CCO	GO:0005634	nucleus
+14562095	P24783	CCO	GO:0005737	cytoplasm
+16823961	P24783	CCO	GO:0005739	mitochondrion
+14576278	P24783	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36112	CCO	GO:0005739	mitochondrion
+16823961	P36112	CCO	GO:0005739	mitochondrion
+14576278	P36112	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12298	CCO	GO:0005739	mitochondrion
+16823961	Q12298	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q04458	CCO	GO:0005768	endosome
+14562095	Q04458	CCO	GO:0005811	lipid particle
+16823961	Q04458	CCO	GO:0005739	mitochondrion
+14576278	Q04458	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36119	CCO	GO:0005737	cytoplasm
+16823961	P36119	CCO	GO:0005739	mitochondrion
+14576278	P36119	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53940	CCO	GO:0005634	nucleus
+14562095	P53940	CCO	GO:0005737	cytoplasm
+16823961	P53940	CCO	GO:0005739	mitochondrion
+14576278	P53940	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P41913	CCO	GO:0005634	nucleus
+14562095	P41913	CCO	GO:0005737	cytoplasm
+16823961	P41913	CCO	GO:0005739	mitochondrion
+14576278	P41913	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47084	CCO	GO:0005739	mitochondrion
+16823961	P47084	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12428	CCO	GO:0005737	cytoplasm
+14562095	Q12428	CCO	GO:0005739	mitochondrion
+16823961	Q12428	CCO	GO:0005739	mitochondrion
+14576278	Q12428	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q03104	CCO	GO:0005783	endoplasmic reticulum
+16823961	Q03104	CCO	GO:0005739	mitochondrion
+14576278	Q03104	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P08536	CCO	GO:0005737	cytoplasm
+16823961	P08536	CCO	GO:0005739	mitochondrion
+14576278	P08536	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40051	CCO	GO:0005739	mitochondrion
+16823961	P40051	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32317	CCO	GO:0005739	mitochondrion
+16823961	P32317	CCO	GO:0005739	mitochondrion
+14576278	P32317	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32582	CCO	GO:0005737	cytoplasm
+16823961	P32582	CCO	GO:0005739	mitochondrion
+14576278	P32582	CCO	GO:0005739	mitochondrion
+11914276	P32582	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04991	CCO	GO:0000324	fungal-type vacuole
+16823961	Q04991	CCO	GO:0005739	mitochondrion
+14576278	Q04991	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04472	CCO	GO:0005739	mitochondrion
+16823961	Q04472	CCO	GO:0005739	mitochondrion
+14576278	Q04472	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P28817	CCO	GO:0005739	mitochondrion
+16823961	P28817	CCO	GO:0005739	mitochondrion
+14576278	P28817	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P47158	CCO	GO:0005739	mitochondrion
+16823961	P47158	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53170	CCO	GO:0005739	mitochondrion
+16823961	P53170	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q06266	CCO	GO:0005634	nucleus
+14562095	Q06266	CCO	GO:0005737	cytoplasm
+16823961	Q06266	CCO	GO:0005739	mitochondrion
+14576278	Q06266	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P41921	CCO	GO:0005634	nucleus
+14562095	P41921	CCO	GO:0005737	cytoplasm
+14562095	P41921	CCO	GO:0005739	mitochondrion
+16823961	P41921	CCO	GO:0005739	mitochondrion
+14576278	P41921	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q01532	CCO	GO:0005737	cytoplasm
+14562095	Q01532	CCO	GO:0005739	mitochondrion
+16823961	Q01532	CCO	GO:0005739	mitochondrion
+14576278	Q01532	CCO	GO:0005739	mitochondrion
+11914276	Q01532	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P12695	CCO	GO:0005739	mitochondrion
+16823961	P12695	CCO	GO:0005739	mitochondrion
+14576278	P12695	CCO	GO:0005739	mitochondrion
+11914276	P12695	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P43616	CCO	GO:0005737	cytoplasm
+14562095	P43616	CCO	GO:0005739	mitochondrion
+16823961	P43616	CCO	GO:0005739	mitochondrion
+11914276	P43616	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06668	CCO	GO:0005739	mitochondrion
+16823961	Q06668	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P23180	CCO	GO:0005739	mitochondrion
+16823961	P23180	CCO	GO:0005739	mitochondrion
+14576278	P23180	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03557	CCO	GO:0005739	mitochondrion
+16823961	Q03557	CCO	GO:0005739	mitochondrion
+14576278	Q03557	CCO	GO:0005739	mitochondrion
+11914276	Q03557	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38169	CCO	GO:0005739	mitochondrion
+16823961	P38169	CCO	GO:0005739	mitochondrion
+14576278	P38169	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P39102	CCO	GO:0005634	nucleus
+14562095	P39102	CCO	GO:0005739	mitochondrion
+16823961	P39102	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53083	CCO	GO:0005737	cytoplasm
+16823961	P53083	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06493	CCO	GO:0005739	mitochondrion
+16823961	Q06493	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P36101	CCO	GO:0005739	mitochondrion
+16823961	P36101	CCO	GO:0005739	mitochondrion
+14576278	P36101	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P47039	CCO	GO:0005737	cytoplasm
+14562095	P47039	CCO	GO:0005739	mitochondrion
+16823961	P47039	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32335	CCO	GO:0005739	mitochondrion
+16823961	P32335	CCO	GO:0005739	mitochondrion
+14576278	P32335	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38756	CCO	GO:0005739	mitochondrion
+16823961	P38756	CCO	GO:0005739	mitochondrion
+14576278	P38756	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q07349	CCO	GO:0005739	mitochondrion
+16823961	Q07349	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P25573	CCO	GO:0005739	mitochondrion
+16823961	P25573	CCO	GO:0005739	mitochondrion
+14576278	P25573	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32875	CCO	GO:0005739	mitochondrion
+16823961	P32875	CCO	GO:0005739	mitochondrion
+14576278	P32875	CCO	GO:0005739	mitochondrion
+11914276	P32875	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P43122	CCO	GO:0005739	mitochondrion
+16823961	P43122	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38746	CCO	GO:0005739	mitochondrion
+16823961	P38746	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P36046	CCO	GO:0005739	mitochondrion
+16823961	P36046	CCO	GO:0005739	mitochondrion
+14576278	P36046	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03558	CCO	GO:0005634	nucleus
+14562095	Q03558	CCO	GO:0005737	cytoplasm
+16823961	Q03558	CCO	GO:0005739	mitochondrion
+14576278	Q03558	CCO	GO:0005739	mitochondrion
+16429126	Q03558	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P39676	CCO	GO:0005737	cytoplasm
+16823961	P39676	CCO	GO:0005739	mitochondrion
+14576278	P39676	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47127	CCO	GO:0005739	mitochondrion
+16823961	P47127	CCO	GO:0005739	mitochondrion
+14576278	P47127	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53206	CCO	GO:0005739	mitochondrion
+16823961	P53206	CCO	GO:0005739	mitochondrion
+14576278	P53206	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32771	CCO	GO:0005737	cytoplasm
+16823961	P32771	CCO	GO:0005739	mitochondrion
+14576278	P32771	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06510	CCO	GO:0005739	mitochondrion
+16823961	Q06510	CCO	GO:0005739	mitochondrion
+14576278	Q06510	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P14843	CCO	GO:0005634	nucleus
+14562095	P14843	CCO	GO:0005737	cytoplasm
+16823961	P14843	CCO	GO:0005739	mitochondrion
+14576278	P14843	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38909	CCO	GO:0005739	mitochondrion
+16823961	P38909	CCO	GO:0005739	mitochondrion
+14576278	P38909	CCO	GO:0005739	mitochondrion
+11914276	P38909	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12167	CCO	GO:0005739	mitochondrion
+16823961	Q12167	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q08213	CCO	GO:0005739	mitochondrion
+16823961	Q08213	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P25379	CCO	GO:0005739	mitochondrion
+16823961	P25379	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P47015	CCO	GO:0005739	mitochondrion
+16823961	P47015	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P36151	CCO	GO:0005739	mitochondrion
+16823961	P36151	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53839	CCO	GO:0005634	nucleus
+14562095	P53839	CCO	GO:0005737	cytoplasm
+16823961	P53839	CCO	GO:0005739	mitochondrion
+14576278	P53839	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06151	CCO	GO:0005634	nucleus
+14562095	Q06151	CCO	GO:0005737	cytoplasm
+16823961	Q06151	CCO	GO:0005739	mitochondrion
+14576278	Q06151	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38079	CCO	GO:0005933	cellular bud
+16823961	P38079	CCO	GO:0005739	mitochondrion
+14576278	P38079	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12480	CCO	GO:0005739	mitochondrion
+16823961	Q12480	CCO	GO:0005739	mitochondrion
+14576278	Q12480	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53219	CCO	GO:0005739	mitochondrion
+16823961	P53219	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12230	CCO	GO:0005737	cytoplasm
+16823961	Q12230	CCO	GO:0005739	mitochondrion
+14576278	Q12230	CCO	GO:0005739	mitochondrion
+11914276	Q12230	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53252	CCO	GO:0005737	cytoplasm
+16823961	P53252	CCO	GO:0005739	mitochondrion
+14576278	P53252	CCO	GO:0005739	mitochondrion
+16429126	P53252	MFO	GO:0005515	protein binding
+16429126	P53252	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P25044	CCO	GO:0005737	cytoplasm
+16823961	P25044	CCO	GO:0005739	mitochondrion
+14576278	P25044	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38271	CCO	GO:0005737	cytoplasm
+16823961	P38271	CCO	GO:0005739	mitochondrion
+14576278	P38271	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06005	CCO	GO:0005739	mitochondrion
+16823961	Q06005	CCO	GO:0005739	mitochondrion
+14576278	Q06005	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12029	CCO	GO:0005739	mitochondrion
+16823961	Q12029	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38884	CCO	GO:0005739	mitochondrion
+16823961	P38884	CCO	GO:0005739	mitochondrion
+14576278	P38884	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40508	CCO	GO:0005739	mitochondrion
+16823961	P40508	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38122	CCO	GO:0005739	mitochondrion
+16823961	P38122	CCO	GO:0005739	mitochondrion
+14576278	P38122	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38885	CCO	GO:0005739	mitochondrion
+16823961	P38885	CCO	GO:0005739	mitochondrion
+14576278	P38885	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q04947	CCO	GO:0005783	endoplasmic reticulum
+16823961	Q04947	CCO	GO:0005739	mitochondrion
+14576278	Q04947	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12393	CCO	GO:0005739	mitochondrion
+16823961	Q12393	CCO	GO:0005739	mitochondrion
+14576278	Q12393	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P49954	CCO	GO:0005737	cytoplasm
+14562095	P49954	CCO	GO:0005739	mitochondrion
+16823961	P49954	CCO	GO:0005739	mitochondrion
+14576278	P49954	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53212	CCO	GO:0005739	mitochondrion
+16823961	P53212	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53081	CCO	GO:0005737	cytoplasm
+14562095	P53081	CCO	GO:0005739	mitochondrion
+16823961	P53081	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53171	CCO	GO:0005739	mitochondrion
+16823961	P53171	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38790	CCO	GO:0005739	mitochondrion
+16823961	P38790	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q05892	CCO	GO:0005739	mitochondrion
+16823961	Q05892	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38172	CCO	GO:0005739	mitochondrion
+16823961	P38172	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P42940	CCO	GO:0005739	mitochondrion
+16823961	P42940	CCO	GO:0005739	mitochondrion
+14576278	P42940	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q05779	CCO	GO:0005739	mitochondrion
+16823961	Q05779	CCO	GO:0005739	mitochondrion
+14576278	Q05779	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53889	CCO	GO:0005739	mitochondrion
+16823961	P53889	CCO	GO:0005739	mitochondrion
+14576278	P53889	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P25587	CCO	GO:0005811	lipid particle
+16823961	P25587	CCO	GO:0005739	mitochondrion
+14576278	P25587	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53736	CCO	GO:0005739	mitochondrion
+16823961	P53736	CCO	GO:0005739	mitochondrion
+14576278	P53736	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03798	CCO	GO:0005739	mitochondrion
+16823961	Q03798	CCO	GO:0005739	mitochondrion
+14576278	Q03798	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P25349	CCO	GO:0005737	cytoplasm
+16823961	P25349	CCO	GO:0005739	mitochondrion
+14576278	P25349	CCO	GO:0005739	mitochondrion
+16429126	P25349	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40165	CCO	GO:0005737	cytoplasm
+16823961	P40165	CCO	GO:0005739	mitochondrion
+14576278	P40165	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40098	CCO	GO:0005739	mitochondrion
+16823961	P40098	CCO	GO:0005739	mitochondrion
+14576278	P40098	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53220	CCO	GO:0005739	mitochondrion
+16823961	P53220	CCO	GO:0005739	mitochondrion
+14576278	P53220	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53192	CCO	GO:0005783	endoplasmic reticulum
+16823961	P53192	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P50945	CCO	GO:0005739	mitochondrion
+16823961	P50945	CCO	GO:0005739	mitochondrion
+14576278	P50945	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P50087	CCO	GO:0005739	mitochondrion
+16823961	P50087	CCO	GO:0005739	mitochondrion
+14576278	P50087	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40008	CCO	GO:0005783	endoplasmic reticulum
+16823961	P40008	CCO	GO:0005739	mitochondrion
+14576278	P40008	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q01976	CCO	GO:0005634	nucleus
+14562095	Q01976	CCO	GO:0005737	cytoplasm
+16823961	Q01976	CCO	GO:0005739	mitochondrion
+14576278	Q01976	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53721	CCO	GO:0005739	mitochondrion
+16823961	P53721	CCO	GO:0005739	mitochondrion
+14576278	P53721	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40576	CCO	GO:0005739	mitochondrion
+16823961	P40576	CCO	GO:0005739	mitochondrion
+14576278	P40576	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P43582	CCO	GO:0005634	nucleus
+14562095	P43582	CCO	GO:0005737	cytoplasm
+16823961	P43582	CCO	GO:0005739	mitochondrion
+14576278	P43582	CCO	GO:0005739	mitochondrion
+11914276	P43582	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P49775	CCO	GO:0005634	nucleus
+14562095	P49775	CCO	GO:0005737	cytoplasm
+14562095	P49775	CCO	GO:0005739	mitochondrion
+16823961	P49775	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P18411	CCO	GO:0005739	mitochondrion
+16823961	P18411	CCO	GO:0005739	mitochondrion
+14576278	P18411	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12335	CCO	GO:0005737	cytoplasm
+16823961	Q12335	CCO	GO:0005739	mitochondrion
+14576278	Q12335	CCO	GO:0005739	mitochondrion
+16429126	Q12335	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40452	CCO	GO:0005739	mitochondrion
+16823961	P40452	CCO	GO:0005739	mitochondrion
+14576278	P40452	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53163	CCO	GO:0005739	mitochondrion
+16823961	P53163	CCO	GO:0005739	mitochondrion
+14576278	P53163	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P34224	CCO	GO:0005739	mitochondrion
+16823961	P34224	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38876	CCO	GO:0005739	mitochondrion
+16823961	P38876	CCO	GO:0005739	mitochondrion
+14576278	P38876	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32564	CCO	GO:0005739	mitochondrion
+16823961	P32564	CCO	GO:0005739	mitochondrion
+14576278	P32564	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12032	CCO	GO:0005739	mitochondrion
+16823961	Q12032	CCO	GO:0005739	mitochondrion
+14576278	Q12032	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12016	CCO	GO:0000329	fungal-type vacuole membrane
+16823961	Q12016	CCO	GO:0005739	mitochondrion
+14576278	Q12016	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53260	CCO	GO:0005739	mitochondrion
+16823961	P53260	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P46998	CCO	GO:0005739	mitochondrion
+16823961	P46998	CCO	GO:0005739	mitochondrion
+14576278	P46998	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38231	CCO	GO:0005739	mitochondrion
+16823961	P38231	CCO	GO:0005739	mitochondrion
+14576278	P38231	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P42844	CCO	GO:0005739	mitochondrion
+16823961	P42844	CCO	GO:0005739	mitochondrion
+14576278	P42844	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P43594	CCO	GO:0005737	cytoplasm
+14562095	P43594	CCO	GO:0005739	mitochondrion
+16823961	P43594	CCO	GO:0005739	mitochondrion
+14576278	P43594	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08230	CCO	GO:0005739	mitochondrion
+16823961	Q08230	CCO	GO:0005739	mitochondrion
+14576278	Q08230	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q06089	CCO	GO:0005739	mitochondrion
+16823961	Q06089	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03713	CCO	GO:0005739	mitochondrion
+16823961	Q03713	CCO	GO:0005739	mitochondrion
+14576278	Q03713	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40502	CCO	GO:0005739	mitochondrion
+16823961	P40502	CCO	GO:0005739	mitochondrion
+14576278	P40502	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P42949	CCO	GO:0005739	mitochondrion
+16823961	P42949	CCO	GO:0005739	mitochondrion
+14576278	P42949	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q08742	CCO	GO:0005739	mitochondrion
+16823961	Q08742	CCO	GO:0005739	mitochondrion
+14576278	Q08742	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53311	CCO	GO:0005739	mitochondrion
+16823961	P53311	CCO	GO:0005739	mitochondrion
+14576278	P53311	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12305	CCO	GO:0005783	endoplasmic reticulum
+16823961	Q12305	CCO	GO:0005739	mitochondrion
+14576278	Q12305	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38345	CCO	GO:0005739	mitochondrion
+16823961	P38345	CCO	GO:0005739	mitochondrion
+14576278	P38345	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38325	CCO	GO:0005739	mitochondrion
+16823961	P38325	CCO	GO:0005739	mitochondrion
+14576278	P38325	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P36141	CCO	GO:0005739	mitochondrion
+16823961	P36141	CCO	GO:0005739	mitochondrion
+14576278	P36141	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53157	CCO	GO:0005739	mitochondrion
+16823961	P53157	CCO	GO:0005739	mitochondrion
+14576278	P53157	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03429	CCO	GO:0005739	mitochondrion
+16823961	Q03429	CCO	GO:0005739	mitochondrion
+14576278	Q03429	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12082	CCO	GO:0005739	mitochondrion
+16823961	Q12082	CCO	GO:0005739	mitochondrion
+14576278	Q12082	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P20081	CCO	GO:0005634	nucleus
+14562095	P20081	CCO	GO:0005737	cytoplasm
+16823961	P20081	CCO	GO:0005739	mitochondrion
+16429126	P20081	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38341	CCO	GO:0005739	mitochondrion
+16823961	P38341	CCO	GO:0005739	mitochondrion
+14576278	P38341	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q6Q560	CCO	GO:0005739	mitochondrion
+16823961	Q6Q560	CCO	GO:0005739	mitochondrion
+16429126	Q6Q560	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12497	CCO	GO:0005739	mitochondrion
+16823961	Q12497	CCO	GO:0005739	mitochondrion
+14576278	Q12497	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q3E7B2	CCO	GO:0005739	mitochondrion
+16823961	Q3E7B2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P37299	CCO	GO:0005739	mitochondrion
+16823961	P37299	CCO	GO:0005739	mitochondrion
+14576278	P37299	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P08566	CCO	GO:0005737	cytoplasm
+16429126	P08566	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53010	CCO	GO:0005737	cytoplasm
+16429126	P53010	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40469	CCO	GO:0005737	cytoplasm
+16429126	P40469	MFO	GO:0005515	protein binding
+16429126	P40469	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P25336	CCO	GO:0005634	nucleus
+14562095	P25336	CCO	GO:0005737	cytoplasm
+16429126	P25336	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P25847	CCO	GO:0005634	nucleus
+16429126	P25847	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32618	CCO	GO:0005783	endoplasmic reticulum
+16429126	P32618	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36117	CCO	GO:0005737	cytoplasm
+16429126	P36117	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53185	CCO	GO:0005737	cytoplasm
+16429126	P53185	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P14242	CCO	GO:0005634	nucleus
+14562095	P14242	CCO	GO:0005737	cytoplasm
+16429126	P14242	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40164	CCO	GO:0005634	nucleus
+16429126	P40164	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38835	CCO	GO:0005737	cytoplasm
+16429126	P38835	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04660	CCO	GO:0005634	nucleus
+14562095	Q04660	CCO	GO:0005730	nucleolus
+16429126	Q04660	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P43573	CCO	GO:0005737	cytoplasm
+16429126	P43573	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08754	CCO	GO:0030136	clathrin-coated vesicle
+16429126	Q08754	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P02829	CCO	GO:0005737	cytoplasm
+16429126	P02829	MFO	GO:0005515	protein binding
+11914276	P02829	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12745	CCO	GO:0005783	endoplasmic reticulum
+16429126	Q12745	MFO	GO:0005515	protein binding
+16429126	Q12745	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32589	CCO	GO:0005737	cytoplasm
+16429126	P32589	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36102	CCO	GO:0005737	cytoplasm
+16429126	P36102	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38738	CCO	GO:0005737	cytoplasm
+16429126	P38738	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06629	CCO	GO:0005634	nucleus
+16429126	Q06629	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12242	CCO	GO:0005634	nucleus
+16429126	Q12242	MFO	GO:0005515	protein binding
+11914276	Q12242	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06623	CCO	GO:0005634	nucleus
+16429126	Q06623	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32525	CCO	GO:0005737	cytoplasm
+16429126	P32525	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40362	CCO	GO:0005730	nucleolus
+16429126	P40362	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40151	CCO	GO:0005634	nucleus
+14562095	P40151	CCO	GO:0005737	cytoplasm
+16429126	P40151	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P20485	CCO	GO:0005737	cytoplasm
+16429126	P20485	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P21304	CCO	GO:0005634	nucleus
+14562095	P21304	CCO	GO:0005730	nucleolus
+14562095	P21304	CCO	GO:0005737	cytoplasm
+16429126	P21304	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36076	CCO	GO:0005737	cytoplasm
+16429126	P36076	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38628	CCO	GO:0005634	nucleus
+14562095	P38628	CCO	GO:0005737	cytoplasm
+16429126	P38628	MFO	GO:0005515	protein binding
+11914276	P38628	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04847	CCO	GO:0005634	nucleus
+14562095	Q04847	CCO	GO:0005737	cytoplasm
+16429126	Q04847	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32461	CCO	GO:0005737	cytoplasm
+16429126	P32461	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P50094	CCO	GO:0005737	cytoplasm
+16429126	P50094	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P50095	CCO	GO:0005737	cytoplasm
+16429126	P50095	MFO	GO:0005515	protein binding
+11914276	P50095	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06137	CCO	GO:0005737	cytoplasm
+16429126	Q06137	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P00899	CCO	GO:0005737	cytoplasm
+16429126	P00899	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08229	CCO	GO:0005737	cytoplasm
+14562095	Q08229	CCO	GO:0005935	cellular bud neck
+16429126	Q08229	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P00937	CCO	GO:0005737	cytoplasm
+16429126	P00937	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P39966	CCO	GO:0005634	nucleus
+14562095	P39966	CCO	GO:0005737	cytoplasm
+16429126	P39966	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P39954	CCO	GO:0005737	cytoplasm
+16429126	P39954	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q03774	CCO	GO:0005634	nucleus
+16429126	Q03774	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32832	CCO	GO:0005634	nucleus
+16429126	P32832	MFO	GO:0005515	protein binding
+11914276	P32832	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12463	CCO	GO:0005737	cytoplasm
+16429126	Q12463	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P32895	CCO	GO:0005737	cytoplasm
+16429126	P32895	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40487	CCO	GO:0005737	cytoplasm
+16429126	P40487	MFO	GO:0005515	protein binding
+11914276	P40487	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47168	CCO	GO:0005737	cytoplasm
+16429126	P47168	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P48362	CCO	GO:0005737	cytoplasm
+16429126	P48362	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38344	CCO	GO:0005737	cytoplasm
+16429126	P38344	MFO	GO:0005515	protein binding
+16429126	P38344	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38236	CCO	GO:0005737	cytoplasm
+16429126	P38236	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P25366	CCO	GO:0005737	cytoplasm
+16429126	P25366	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q05791	CCO	GO:0005737	cytoplasm
+16429126	Q05791	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12199	CCO	GO:0005634	nucleus
+14562095	Q12199	CCO	GO:0005737	cytoplasm
+16429126	Q12199	MFO	GO:0005515	protein binding
+11914276	Q12199	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36152	CCO	GO:0005737	cytoplasm
+16429126	P36152	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38768	CCO	GO:0005634	nucleus
+14562095	P38768	CCO	GO:0005737	cytoplasm
+16429126	P38768	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q05583	CCO	GO:0005737	cytoplasm
+16429126	Q05583	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P50278	CCO	GO:0005634	nucleus
+14562095	P50278	CCO	GO:0005737	cytoplasm
+16429126	P50278	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38689	CCO	GO:0005737	cytoplasm
+16429126	P38689	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12455	CCO	GO:0005737	cytoplasm
+16429126	Q12455	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12074	CCO	GO:0005634	nucleus
+14562095	Q12074	CCO	GO:0005737	cytoplasm
+16429126	Q12074	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12208	CCO	GO:0005634	nucleus
+14562095	Q12208	CCO	GO:0005737	cytoplasm
+14562095	Q12208	CCO	GO:0005739	mitochondrion
+16429126	Q12208	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12009	CCO	GO:0005634	nucleus
+16429126	Q12009	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P28320	CCO	GO:0005634	nucleus
+16429126	P28320	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53323	CCO	GO:0005634	nucleus
+14562095	P53323	CCO	GO:0005737	cytoplasm
+16429126	P53323	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12345	CCO	GO:0005634	nucleus
+16429126	Q12345	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40207	CCO	GO:0005783	endoplasmic reticulum
+16429126	P40207	MFO	GO:0005515	protein binding
+11914276	P40207	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38829	CCO	GO:0005737	cytoplasm
+16429126	P38829	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P41818	CCO	GO:0005634	nucleus
+14562095	P41818	CCO	GO:0005737	cytoplasm
+16429126	P41818	MFO	GO:0005515	protein binding
+11914276	P41818	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P35719	CCO	GO:0005737	cytoplasm
+16429126	P35719	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53251	CCO	GO:0005634	nucleus
+14562095	P53251	CCO	GO:0005730	nucleolus
+16429126	P53251	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q03435	CCO	GO:0005634	nucleus
+16429126	Q03435	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12447	CCO	GO:0005737	cytoplasm
+16429126	Q12447	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P25337	CCO	GO:0005634	nucleus
+16429126	P25337	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06162	CCO	GO:0005816	spindle pole body
+16429126	Q06162	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47118	CCO	GO:0005634	nucleus
+14562095	P47118	CCO	GO:0005737	cytoplasm
+16429126	P47118	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53738	CCO	GO:0005634	nucleus
+14562095	P53738	CCO	GO:0005737	cytoplasm
+16429126	P53738	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38633	CCO	GO:0005634	nucleus
+16429126	P38633	MFO	GO:0005515	protein binding
+16429126	P38633	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40060	CCO	GO:0005634	nucleus
+16429126	P40060	MFO	GO:0005515	protein binding
+16429126	P40060	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P42939	CCO	GO:0005768	endosome
+16429126	P42939	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06108	CCO	GO:0005737	cytoplasm
+11914276	Q06108	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P47029	CCO	GO:0005737	cytoplasm
+11914276	P47029	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P07245	CCO	GO:0005634	nucleus
+14562095	P07245	CCO	GO:0005737	cytoplasm
+11914276	P07245	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53278	CCO	GO:0005737	cytoplasm
+11914276	P53278	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P48743	CCO	GO:0005634	nucleus
+11914276	P48743	CCO	GO:0005634	nucleus
+11914276	P48743	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P07244	CCO	GO:0005737	cytoplasm
+11914276	P07244	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q03388	CCO	GO:0005634	nucleus
+11914276	Q03388	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36148	CCO	GO:0005783	endoplasmic reticulum
+11914276	P36148	CCO	GO:0005737	cytoplasm
+11914276	P36148	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P00931	CCO	GO:0005634	nucleus
+14562095	P00931	CCO	GO:0005737	cytoplasm
+11914276	P00931	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P27472	CCO	GO:0005737	cytoplasm
+11914276	P27472	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q02959	CCO	GO:0005935	cellular bud neck
+11914276	Q02959	CCO	GO:0005634	nucleus
+11914276	Q02959	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P48445	CCO	GO:0005634	nucleus
+14562095	P48445	CCO	GO:0005737	cytoplasm
+11914276	P48445	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04093	CCO	GO:0005737	cytoplasm
+11914276	Q04093	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32831	CCO	GO:0005737	cytoplasm
+11914276	P32831	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P23900	CCO	GO:0000324	fungal-type vacuole
+11914276	P23900	CCO	GO:0005737	cytoplasm
+11914276	P23900	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12089	CCO	GO:0005739	mitochondrion
+11914276	Q12089	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04792	CCO	GO:0005737	cytoplasm
+11914276	Q04792	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P41835	CCO	GO:0005737	cytoplasm
+11914276	P41835	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53296	CCO	GO:0005783	endoplasmic reticulum
+11914276	P53296	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P00729	CCO	GO:0000324	fungal-type vacuole
+11914276	P00729	CCO	GO:0005737	cytoplasm
+11914276	P00729	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38314	CCO	GO:0005737	cytoplasm
+11914276	P38314	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53172	CCO	GO:0005634	nucleus
+14562095	P53172	CCO	GO:0005737	cytoplasm
+11914276	P53172	CCO	GO:0005634	nucleus
+11914276	P53172	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P11412	CCO	GO:0005737	cytoplasm
+11914276	P11412	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q04409	CCO	GO:0005737	cytoplasm
+11914276	Q04409	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38793	CCO	GO:0005634	nucleus
+14562095	P38793	CCO	GO:0005737	cytoplasm
+11914276	P38793	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38821	CCO	GO:0005737	cytoplasm
+11914276	P38821	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P54785	CCO	GO:0005634	nucleus
+11914276	P54785	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P07284	CCO	GO:0005737	cytoplasm
+11914276	P07284	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53960	CCO	GO:0005737	cytoplasm
+11914276	P53960	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P54885	CCO	GO:0005634	nucleus
+14562095	P54885	CCO	GO:0005737	cytoplasm
+11914276	P54885	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38999	CCO	GO:0005737	cytoplasm
+11914276	P38999	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P39945	CCO	GO:0005737	cytoplasm
+11914276	P39945	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P07991	CCO	GO:0005634	nucleus
+14562095	P07991	CCO	GO:0005737	cytoplasm
+11914276	P07991	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P42845	CCO	GO:0005634	nucleus
+14562095	P42845	CCO	GO:0005737	cytoplasm
+11914276	P42845	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38703	CCO	GO:0005783	endoplasmic reticulum
+11914276	P38703	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P53901	CCO	GO:0005737	cytoplasm
+11914276	P53901	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P10659	CCO	GO:0005737	cytoplasm
+11914276	P10659	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P39714	CCO	GO:0005737	cytoplasm
+11914276	P39714	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P47176	CCO	GO:0005634	nucleus
+14562095	P47176	CCO	GO:0005737	cytoplasm
+11914276	P47176	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P52924	CCO	GO:0005783	endoplasmic reticulum
+11914276	P52924	CCO	GO:0005635	nuclear envelope
+11914276	P52924	CCO	GO:0005737	cytoplasm
+11914276	P52924	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53691	CCO	GO:0005737	cytoplasm
+11914276	P53691	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P32288	CCO	GO:0005737	cytoplasm
+11914276	P32288	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P41940	CCO	GO:0005737	cytoplasm
+11914276	P41940	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q06810	CCO	GO:0000324	fungal-type vacuole
+11914276	Q06810	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53844	CCO	GO:0005737	cytoplasm
+11914276	P53844	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P00331	CCO	GO:0005737	cytoplasm
+11914276	P00331	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P40214	CCO	GO:0005634	nucleus
+11914276	P40214	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P36047	CCO	GO:0005634	nucleus
+14562095	P36047	CCO	GO:0005737	cytoplasm
+11914276	P36047	CCO	GO:0005634	nucleus
+11914276	P36047	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06146	CCO	GO:0005737	cytoplasm
+11914276	Q06146	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38342	CCO	GO:0005783	endoplasmic reticulum
+11914276	P38342	CCO	GO:0005737	cytoplasm
+11914276	P38342	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12094	CCO	GO:0005634	nucleus
+14562095	Q12094	CCO	GO:0005737	cytoplasm
+11914276	Q12094	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q12010	CCO	GO:0000329	fungal-type vacuole membrane
+11914276	Q12010	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P36155	CCO	GO:0005634	nucleus
+14562095	P36155	CCO	GO:0005737	cytoplasm
+11914276	P36155	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47032	CCO	GO:0000324	fungal-type vacuole
+11914276	P47032	CCO	GO:0005635	nuclear envelope
+11914276	P47032	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q07555	CCO	GO:0005634	nucleus
+14562095	Q07555	CCO	GO:0005737	cytoplasm
+11914276	Q07555	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P42938	CCO	GO:0005634	nucleus
+14562095	P42938	CCO	GO:0005737	cytoplasm
+11914276	P42938	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47137	CCO	GO:0005634	nucleus
+14562095	P47137	CCO	GO:0005737	cytoplasm
+11914276	P47137	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53899	CCO	GO:0005634	nucleus
+14562095	P53899	CCO	GO:0005737	cytoplasm
+11914276	P53899	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P47053	CCO	GO:0005739	mitochondrion
+11914276	P47053	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P40579	CCO	GO:0005737	cytoplasm
+11914276	P40579	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38773	CCO	GO:0005634	nucleus
+14562095	P38773	CCO	GO:0005737	cytoplasm
+11914276	P38773	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P51601	CCO	GO:0005634	nucleus
+14562095	P51601	CCO	GO:0005737	cytoplasm
+11914276	P51601	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53281	CCO	GO:0005634	nucleus
+14562095	P53281	CCO	GO:0005737	cytoplasm
+11914276	P53281	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q03390	CCO	GO:0000329	fungal-type vacuole membrane
+11914276	Q03390	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P13298	CCO	GO:0005634	nucleus
+14562095	P13298	CCO	GO:0005737	cytoplasm
+11914276	P13298	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53615	CCO	GO:0005634	nucleus
+14562095	P53615	CCO	GO:0005737	cytoplasm
+11914276	P53615	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P53719	CCO	GO:0005737	cytoplasm
+11914276	P53719	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q12285	CCO	GO:0005737	cytoplasm
+11914276	Q12285	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38243	CCO	GO:0005737	cytoplasm
+11914276	P38243	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q06252	CCO	GO:0005634	nucleus
+14562095	Q06252	CCO	GO:0005737	cytoplasm
+11914276	Q06252	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q06608	CCO	GO:0005634	nucleus
+14562095	Q06608	CCO	GO:0005737	cytoplasm
+11914276	Q06608	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q08969	CCO	GO:0005737	cytoplasm
+11914276	Q08969	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	P38247	CCO	GO:0000329	fungal-type vacuole membrane
+11914276	P38247	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	Q04344	CCO	GO:0005634	nucleus
+14562095	Q04344	CCO	GO:0005737	cytoplasm
+11914276	Q04344	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P38839	CCO	GO:0005737	cytoplasm
+11914276	P38839	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q08971	CCO	GO:0005737	cytoplasm
+11914276	Q08971	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 True
+#
+14562095	Q04201	CCO	GO:0005783	endoplasmic reticulum
+11914276	Q04201	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+14562095	P25373	CCO	GO:0005634	nucleus
+14562095	P25373	CCO	GO:0005737	cytoplasm
+11914276	P25373	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q12019	CCO	GO:0005739	mitochondrion
+14576278	Q12019	CCO	GO:0005739	mitochondrion
+16429126	Q12019	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P18963	CCO	GO:0005739	mitochondrion
+14576278	P18963	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12150	CCO	GO:0005739	mitochondrion
+14576278	Q12150	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38110	CCO	GO:0005739	mitochondrion
+14576278	P38110	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q00402	CCO	GO:0005739	mitochondrion
+14576278	Q00402	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P33892	CCO	GO:0005739	mitochondrion
+14576278	P33892	CCO	GO:0005739	mitochondrion
+16429126	P33892	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q06179	CCO	GO:0005739	mitochondrion
+14576278	Q06179	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32600	CCO	GO:0005739	mitochondrion
+14576278	P32600	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40468	CCO	GO:0005739	mitochondrion
+14576278	P40468	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38111	CCO	GO:0005739	mitochondrion
+14576278	P38111	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P34756	CCO	GO:0005739	mitochondrion
+14576278	P34756	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q00955	CCO	GO:0005739	mitochondrion
+14576278	Q00955	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07259	CCO	GO:0005739	mitochondrion
+14576278	P07259	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25356	CCO	GO:0005739	mitochondrion
+14576278	P25356	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39960	CCO	GO:0005739	mitochondrion
+14576278	P39960	CCO	GO:0005739	mitochondrion
+16429126	P39960	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q12680	CCO	GO:0005739	mitochondrion
+14576278	Q12680	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P08678	CCO	GO:0005739	mitochondrion
+14576278	P08678	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P37297	CCO	GO:0005739	mitochondrion
+14576278	P37297	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32333	CCO	GO:0005739	mitochondrion
+14576278	P32333	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P47024	CCO	GO:0005739	mitochondrion
+14576278	P47024	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q04952	CCO	GO:0005739	mitochondrion
+14576278	Q04952	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P42945	CCO	GO:0005739	mitochondrion
+14576278	P42945	CCO	GO:0005739	mitochondrion
+16429126	P42945	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P04050	CCO	GO:0005739	mitochondrion
+14576278	P04050	CCO	GO:0005739	mitochondrion
+16429126	P04050	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P40457	CCO	GO:0005739	mitochondrion
+14576278	P40457	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q03018	CCO	GO:0005739	mitochondrion
+14576278	Q03018	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08562	CCO	GO:0005739	mitochondrion
+14576278	Q08562	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38735	CCO	GO:0005739	mitochondrion
+14576278	P38735	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32660	CCO	GO:0005739	mitochondrion
+14576278	P32660	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q03640	CCO	GO:0005739	mitochondrion
+14576278	Q03640	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P33302	CCO	GO:0005739	mitochondrion
+14576278	P33302	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32568	CCO	GO:0005739	mitochondrion
+14576278	P32568	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P33202	CCO	GO:0005739	mitochondrion
+14576278	P33202	CCO	GO:0005739	mitochondrion
+16429126	P33202	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P32492	CCO	GO:0005739	mitochondrion
+14576278	P32492	CCO	GO:0005739	mitochondrion
+16429126	P32492	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P32657	CCO	GO:0005739	mitochondrion
+14576278	P32657	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P22219	CCO	GO:0005739	mitochondrion
+14576278	P22219	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P23615	CCO	GO:0005739	mitochondrion
+14576278	P23615	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08409	CCO	GO:0005739	mitochondrion
+14576278	Q08409	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q03099	CCO	GO:0005739	mitochondrion
+14576278	Q03099	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06632	CCO	GO:0005739	mitochondrion
+14576278	Q06632	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38800	CCO	GO:0005739	mitochondrion
+14576278	P38800	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39685	CCO	GO:0005739	mitochondrion
+14576278	P39685	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53756	CCO	GO:0005739	mitochondrion
+14576278	P53756	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P35177	CCO	GO:0005739	mitochondrion
+14576278	P35177	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P12753	CCO	GO:0005739	mitochondrion
+14576278	P12753	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q04217	CCO	GO:0005739	mitochondrion
+14576278	Q04217	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P15801	CCO	GO:0005739	mitochondrion
+14576278	P15801	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06836	CCO	GO:0005739	mitochondrion
+14576278	Q06836	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12465	CCO	GO:0005739	mitochondrion
+14576278	Q12465	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39986	CCO	GO:0005739	mitochondrion
+14576278	P39986	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q02773	CCO	GO:0005739	mitochondrion
+14576278	Q02773	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08965	CCO	GO:0005739	mitochondrion
+14576278	Q08965	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38989	CCO	GO:0005739	mitochondrion
+14576278	P38989	CCO	GO:0005739	mitochondrion
+16429126	P38989	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P34111	CCO	GO:0005739	mitochondrion
+14576278	P34111	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P21339	CCO	GO:0005739	mitochondrion
+14576278	P21339	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P47107	CCO	GO:0005739	mitochondrion
+14576278	P47107	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12749	CCO	GO:0005739	mitochondrion
+14576278	Q12749	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07806	CCO	GO:0005739	mitochondrion
+14576278	P07806	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P33418	CCO	GO:0005739	mitochondrion
+14576278	P33418	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P33327	CCO	GO:0005739	mitochondrion
+14576278	P33327	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q01896	CCO	GO:0005739	mitochondrion
+14576278	Q01896	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06839	CCO	GO:0005739	mitochondrion
+14576278	Q06839	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P27692	CCO	GO:0005739	mitochondrion
+14576278	P27692	CCO	GO:0005739	mitochondrion
+16429126	P27692	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P40856	CCO	GO:0005739	mitochondrion
+14576278	P40856	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P49095	CCO	GO:0005739	mitochondrion
+14576278	P49095	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12180	CCO	GO:0005739	mitochondrion
+14576278	Q12180	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q02792	CCO	GO:0005739	mitochondrion
+14576278	Q02792	CCO	GO:0005739	mitochondrion
+16429126	Q02792	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P39730	CCO	GO:0005739	mitochondrion
+14576278	P39730	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P48526	CCO	GO:0005739	mitochondrion
+14576278	P48526	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08162	CCO	GO:0005739	mitochondrion
+14576278	Q08162	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P27895	CCO	GO:0005739	mitochondrion
+14576278	P27895	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P06701	CCO	GO:0005739	mitochondrion
+14576278	P06701	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P09440	CCO	GO:0005739	mitochondrion
+14576278	P09440	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39112	CCO	GO:0005739	mitochondrion
+14576278	P39112	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25846	CCO	GO:0005739	mitochondrion
+14576278	P25846	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38138	CCO	GO:0005739	mitochondrion
+14576278	P38138	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P47134	CCO	GO:0005739	mitochondrion
+14576278	P47134	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39935	CCO	GO:0005739	mitochondrion
+14576278	P39935	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q03631	CCO	GO:0005739	mitochondrion
+14576278	Q03631	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32454	CCO	GO:0005739	mitochondrion
+14576278	P32454	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32571	CCO	GO:0005739	mitochondrion
+14576278	P32571	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53148	CCO	GO:0005739	mitochondrion
+14576278	P53148	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40528	CCO	GO:0005739	mitochondrion
+14576278	P40528	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12482	CCO	GO:0005739	mitochondrion
+14576278	Q12482	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P31688	CCO	GO:0005739	mitochondrion
+14576278	P31688	CCO	GO:0005739	mitochondrion
+16429126	P31688	MFO	GO:0005515	protein binding
+16429126	P31688	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P11325	CCO	GO:0005739	mitochondrion
+14576278	P11325	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12071	CCO	GO:0005739	mitochondrion
+14576278	Q12071	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40309	CCO	GO:0005739	mitochondrion
+14576278	P40309	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P21672	CCO	GO:0005739	mitochondrion
+14576278	P21672	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07271	CCO	GO:0005739	mitochondrion
+14576278	P07271	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P12945	CCO	GO:0005739	mitochondrion
+14576278	P12945	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P10961	CCO	GO:0005739	mitochondrion
+14576278	P10961	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40341	CCO	GO:0005739	mitochondrion
+14576278	P40341	CCO	GO:0005739	mitochondrion
+16429126	P40341	MFO	GO:0005515	protein binding
+11914276	P40341	CCO	GO:0005737	cytoplasm
+11914276	P40341	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P53848	CCO	GO:0005739	mitochondrion
+14576278	P53848	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39677	CCO	GO:0005739	mitochondrion
+14576278	P39677	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53036	CCO	GO:0005739	mitochondrion
+14576278	P53036	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q99207	CCO	GO:0005739	mitochondrion
+14576278	Q99207	CCO	GO:0005739	mitochondrion
+16429126	Q99207	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P39940	CCO	GO:0005739	mitochondrion
+14576278	P39940	CCO	GO:0005739	mitochondrion
+16429126	P39940	MFO	GO:0005515	protein binding
+16429126	P39940	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P53121	CCO	GO:0005739	mitochondrion
+14576278	P53121	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q03653	CCO	GO:0005739	mitochondrion
+14576278	Q03653	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q02208	CCO	GO:0005739	mitochondrion
+14576278	Q02208	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53131	CCO	GO:0005739	mitochondrion
+14576278	P53131	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25039	CCO	GO:0005739	mitochondrion
+14576278	P25039	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P34231	CCO	GO:0005739	mitochondrion
+14576278	P34231	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32795	CCO	GO:0005739	mitochondrion
+14576278	P32795	CCO	GO:0005739	mitochondrion
+11914276	P32795	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39518	CCO	GO:0005739	mitochondrion
+14576278	P39518	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P49956	CCO	GO:0005739	mitochondrion
+14576278	P49956	CCO	GO:0005739	mitochondrion
+16429126	P49956	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P53907	CCO	GO:0005739	mitochondrion
+14576278	P53907	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32580	CCO	GO:0005739	mitochondrion
+14576278	P32580	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P04801	CCO	GO:0005739	mitochondrion
+14576278	P04801	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32499	CCO	GO:0005739	mitochondrion
+14576278	P32499	CCO	GO:0005739	mitochondrion
+16429126	P32499	MFO	GO:0005515	protein binding
+16429126	P32499	MFO	GO:0005515	protein binding
+16429126	P32499	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q01574	CCO	GO:0005739	mitochondrion
+14576278	Q01574	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39744	CCO	GO:0005739	mitochondrion
+14576278	P39744	CCO	GO:0005739	mitochondrion
+16429126	P39744	MFO	GO:0005515	protein binding
+16429126	P39744	MFO	GO:0005515	protein binding
+16429126	P39744	MFO	GO:0005515	protein binding
+16429126	P39744	MFO	GO:0005515	protein binding
+16429126	P39744	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P28743	CCO	GO:0005739	mitochondrion
+14576278	P28743	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53326	CCO	GO:0005739	mitochondrion
+14576278	P53326	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P30624	CCO	GO:0005739	mitochondrion
+14576278	P30624	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08908	CCO	GO:0005739	mitochondrion
+14576278	Q08908	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P49367	CCO	GO:0005739	mitochondrion
+14576278	P49367	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32829	CCO	GO:0005739	mitochondrion
+14576278	P32829	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P16603	CCO	GO:0005739	mitochondrion
+14576278	P16603	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07342	CCO	GO:0005739	mitochondrion
+14576278	P07342	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P80235	CCO	GO:0005739	mitochondrion
+14576278	P80235	CCO	GO:0005739	mitochondrion
+11914276	P80235	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q05670	CCO	GO:0005739	mitochondrion
+14576278	Q05670	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25038	CCO	GO:0005739	mitochondrion
+14576278	P25038	CCO	GO:0005739	mitochondrion
+11914276	P25038	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32796	CCO	GO:0005739	mitochondrion
+14576278	P32796	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36013	CCO	GO:0005739	mitochondrion
+14576278	P36013	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38088	CCO	GO:0005739	mitochondrion
+14576278	P38088	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P14906	CCO	GO:0005739	mitochondrion
+14576278	P14906	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P48813	CCO	GO:0005739	mitochondrion
+14576278	P48813	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q92325	CCO	GO:0005739	mitochondrion
+14576278	Q92325	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P15179	CCO	GO:0005739	mitochondrion
+14576278	P15179	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P12398	CCO	GO:0005739	mitochondrion
+14576278	P12398	CCO	GO:0005739	mitochondrion
+11914276	P12398	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32191	CCO	GO:0005739	mitochondrion
+14576278	P32191	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39987	CCO	GO:0005739	mitochondrion
+14576278	P39987	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36130	CCO	GO:0005739	mitochondrion
+14576278	P36130	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38714	CCO	GO:0005739	mitochondrion
+14576278	P38714	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08484	CCO	GO:0005739	mitochondrion
+14576278	Q08484	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53191	CCO	GO:0005739	mitochondrion
+14576278	P53191	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P47052	CCO	GO:0005739	mitochondrion
+14576278	P47052	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P06782	CCO	GO:0005739	mitochondrion
+14576278	P06782	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08822	CCO	GO:0005739	mitochondrion
+14576278	Q08822	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38862	CCO	GO:0005739	mitochondrion
+14576278	P38862	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32368	CCO	GO:0005739	mitochondrion
+14576278	P32368	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q07622	CCO	GO:0005739	mitochondrion
+14576278	Q07622	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36035	CCO	GO:0005739	mitochondrion
+14576278	P36035	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36115	CCO	GO:0005739	mitochondrion
+14576278	P36115	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32487	CCO	GO:0005739	mitochondrion
+14576278	P32487	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q05506	CCO	GO:0005739	mitochondrion
+14576278	Q05506	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P41815	CCO	GO:0005739	mitochondrion
+14576278	P41815	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53128	CCO	GO:0005739	mitochondrion
+14576278	P53128	CCO	GO:0005739	mitochondrion
+16429126	P53128	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q05930	CCO	GO:0005739	mitochondrion
+14576278	Q05930	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P52893	CCO	GO:0005739	mitochondrion
+14576278	P52893	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P04817	CCO	GO:0005739	mitochondrion
+14576278	P04817	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53051	CCO	GO:0005739	mitochondrion
+14576278	P53051	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53389	CCO	GO:0005739	mitochondrion
+14576278	P53389	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39522	CCO	GO:0005739	mitochondrion
+14576278	P39522	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08023	CCO	GO:0005739	mitochondrion
+14576278	Q08023	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P22136	CCO	GO:0005739	mitochondrion
+14576278	P22136	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32048	CCO	GO:0005739	mitochondrion
+14576278	P32048	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07275	CCO	GO:0005739	mitochondrion
+14576278	P07275	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P22438	CCO	GO:0005739	mitochondrion
+14576278	P22438	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P19882	CCO	GO:0005739	mitochondrion
+14576278	P19882	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12511	CCO	GO:0005739	mitochondrion
+14576278	Q12511	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39003	CCO	GO:0005739	mitochondrion
+14576278	P39003	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39004	CCO	GO:0005739	mitochondrion
+14576278	P39004	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P05066	CCO	GO:0005739	mitochondrion
+14576278	P05066	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53166	CCO	GO:0005739	mitochondrion
+14576278	P53166	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40215	CCO	GO:0005739	mitochondrion
+14576278	P40215	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P22146	CCO	GO:0005739	mitochondrion
+14576278	P22146	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40085	CCO	GO:0005739	mitochondrion
+14576278	P40085	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38778	CCO	GO:0005739	mitochondrion
+14576278	P38778	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P43581	CCO	GO:0005739	mitochondrion
+14576278	P43581	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q07500	CCO	GO:0005739	mitochondrion
+14576278	Q07500	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53583	CCO	GO:0005739	mitochondrion
+14576278	P53583	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P33893	CCO	GO:0005739	mitochondrion
+14576278	P33893	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P42833	CCO	GO:0005739	mitochondrion
+14576278	P42833	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40012	CCO	GO:0005739	mitochondrion
+14576278	P40012	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12315	CCO	GO:0005739	mitochondrion
+14576278	Q12315	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P48525	CCO	GO:0005739	mitochondrion
+14576278	P48525	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53322	CCO	GO:0005739	mitochondrion
+14576278	P53322	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P00724	CCO	GO:0005739	mitochondrion
+14576278	P00724	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32316	CCO	GO:0005739	mitochondrion
+14576278	P32316	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P54783	CCO	GO:0005739	mitochondrion
+14576278	P54783	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40047	CCO	GO:0005739	mitochondrion
+14576278	P40047	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P46367	CCO	GO:0005739	mitochondrion
+14576278	P46367	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q03218	CCO	GO:0005739	mitochondrion
+14576278	Q03218	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q04746	CCO	GO:0005739	mitochondrion
+14576278	Q04746	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32523	CCO	GO:0005739	mitochondrion
+14576278	P32523	CCO	GO:0005739	mitochondrion
+16429126	P32523	MFO	GO:0005515	protein binding
+11914276	P32523	CCO	GO:0005634	nucleus
+11914276	P32523	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P36146	CCO	GO:0005739	mitochondrion
+14576278	P36146	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P21375	CCO	GO:0005739	mitochondrion
+14576278	P21375	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P27697	CCO	GO:0005739	mitochondrion
+14576278	P27697	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39006	CCO	GO:0005739	mitochondrion
+14576278	P39006	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P54115	CCO	GO:0005739	mitochondrion
+14576278	P54115	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25374	CCO	GO:0005739	mitochondrion
+14576278	P25374	CCO	GO:0005739	mitochondrion
+16429126	P25374	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P49704	CCO	GO:0005739	mitochondrion
+14576278	P49704	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25345	CCO	GO:0005739	mitochondrion
+14576278	P25345	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P48527	CCO	GO:0005739	mitochondrion
+14576278	P48527	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06324	CCO	GO:0005739	mitochondrion
+14576278	Q06324	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P37292	CCO	GO:0005739	mitochondrion
+14576278	P37292	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38720	CCO	GO:0005739	mitochondrion
+14576278	P38720	CCO	GO:0005739	mitochondrion
+11914276	P38720	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P53142	CCO	GO:0005739	mitochondrion
+14576278	P53142	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53969	CCO	GO:0005739	mitochondrion
+14576278	P53969	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P00890	CCO	GO:0005739	mitochondrion
+14576278	P00890	CCO	GO:0005739	mitochondrion
+11914276	P00890	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53318	CCO	GO:0005739	mitochondrion
+14576278	P53318	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P09368	CCO	GO:0005739	mitochondrion
+14576278	P09368	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P18900	CCO	GO:0005739	mitochondrion
+14576278	P18900	CCO	GO:0005739	mitochondrion
+16429126	P18900	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P32614	CCO	GO:0005739	mitochondrion
+14576278	P32614	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P08425	CCO	GO:0005739	mitochondrion
+14576278	P08425	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q02883	CCO	GO:0005739	mitochondrion
+14576278	Q02883	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07236	CCO	GO:0005739	mitochondrion
+14576278	P07236	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P21592	CCO	GO:0005739	mitochondrion
+14576278	P21592	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P08679	CCO	GO:0005739	mitochondrion
+14576278	P08679	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39708	CCO	GO:0005739	mitochondrion
+14576278	P39708	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38295	CCO	GO:0005739	mitochondrion
+14576278	P38295	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q01802	CCO	GO:0005739	mitochondrion
+14576278	Q01802	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P10823	CCO	GO:0005739	mitochondrion
+14576278	P10823	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08970	CCO	GO:0005739	mitochondrion
+14576278	Q08970	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38757	CCO	GO:0005739	mitochondrion
+14576278	P38757	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P10849	CCO	GO:0005739	mitochondrion
+14576278	P10849	CCO	GO:0005739	mitochondrion
+16429126	P10849	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P41911	CCO	GO:0005739	mitochondrion
+14576278	P41911	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32798	CCO	GO:0005739	mitochondrion
+14576278	P32798	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32527	CCO	GO:0005739	mitochondrion
+14576278	P32527	CCO	GO:0005739	mitochondrion
+16429126	P32527	MFO	GO:0005515	protein binding
+11914276	P32527	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P36001	CCO	GO:0005739	mitochondrion
+14576278	P36001	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38248	CCO	GO:0005739	mitochondrion
+14576278	P38248	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07884	CCO	GO:0005739	mitochondrion
+14576278	P07884	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P21954	CCO	GO:0005739	mitochondrion
+14576278	P21954	CCO	GO:0005739	mitochondrion
+16429126	P21954	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P48570	CCO	GO:0005739	mitochondrion
+14576278	P48570	CCO	GO:0005739	mitochondrion
+11914276	P48570	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P53312	CCO	GO:0005739	mitochondrion
+14576278	P53312	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P16387	CCO	GO:0005739	mitochondrion
+14576278	P16387	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53982	CCO	GO:0005739	mitochondrion
+14576278	P53982	CCO	GO:0005739	mitochondrion
+11914276	P53982	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q08957	CCO	GO:0005739	mitochondrion
+14576278	Q08957	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P27476	CCO	GO:0005739	mitochondrion
+14576278	P27476	CCO	GO:0005739	mitochondrion
+11914276	P27476	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P30775	CCO	GO:0005739	mitochondrion
+14576278	P30775	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36008	CCO	GO:0005739	mitochondrion
+14576278	P36008	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P16451	CCO	GO:0005739	mitochondrion
+14576278	P16451	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06705	CCO	GO:0005739	mitochondrion
+14576278	Q06705	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07267	CCO	GO:0005739	mitochondrion
+14576278	P07267	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32785	CCO	GO:0005739	mitochondrion
+14576278	P32785	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P48015	CCO	GO:0005739	mitochondrion
+14576278	P48015	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P31378	CCO	GO:0005739	mitochondrion
+14576278	P31378	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32628	CCO	GO:0005739	mitochondrion
+14576278	P32628	CCO	GO:0005739	mitochondrion
+16429126	P32628	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P46992	CCO	GO:0005739	mitochondrion
+14576278	P46992	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P06168	CCO	GO:0005739	mitochondrion
+14576278	P06168	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P37366	CCO	GO:0005739	mitochondrion
+14576278	P37366	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P41808	CCO	GO:0005739	mitochondrion
+14576278	P41808	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P23644	CCO	GO:0005739	mitochondrion
+14576278	P23644	CCO	GO:0005739	mitochondrion
+11914276	P23644	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32792	CCO	GO:0005739	mitochondrion
+14576278	P32792	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P43567	CCO	GO:0005739	mitochondrion
+14576278	P43567	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25087	CCO	GO:0005739	mitochondrion
+14576278	P25087	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q07788	CCO	GO:0005739	mitochondrion
+14576278	Q07788	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32502	CCO	GO:0005739	mitochondrion
+14576278	P32502	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38071	CCO	GO:0005739	mitochondrion
+14576278	P38071	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P04803	CCO	GO:0005739	mitochondrion
+14576278	P04803	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40495	CCO	GO:0005739	mitochondrion
+14576278	P40495	CCO	GO:0005739	mitochondrion
+11914276	P40495	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P28241	CCO	GO:0005739	mitochondrion
+14576278	P28241	CCO	GO:0005739	mitochondrion
+11914276	P28241	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53233	CCO	GO:0005739	mitochondrion
+14576278	P53233	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07257	CCO	GO:0005739	mitochondrion
+14576278	P07257	CCO	GO:0005739	mitochondrion
+16429126	P07257	MFO	GO:0005515	protein binding
+11914276	P07257	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P32473	CCO	GO:0005739	mitochondrion
+14576278	P32473	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P28625	CCO	GO:0005739	mitochondrion
+14576278	P28625	CCO	GO:0005739	mitochondrion
+11914276	P28625	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P07266	CCO	GO:0005739	mitochondrion
+14576278	P07266	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q02890	CCO	GO:0005739	mitochondrion
+14576278	Q02890	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P00431	CCO	GO:0005739	mitochondrion
+14576278	P00431	CCO	GO:0005739	mitochondrion
+11914276	P00431	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P16892	CCO	GO:0005739	mitochondrion
+14576278	P16892	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P17106	CCO	GO:0005739	mitochondrion
+14576278	P17106	CCO	GO:0005739	mitochondrion
+11914276	P17106	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P41903	CCO	GO:0005739	mitochondrion
+14576278	P41903	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P47065	CCO	GO:0005739	mitochondrion
+14576278	P47065	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38797	CCO	GO:0005739	mitochondrion
+14576278	P38797	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40107	CCO	GO:0005739	mitochondrion
+14576278	P40107	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53598	CCO	GO:0005739	mitochondrion
+14576278	P53598	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12289	CCO	GO:0005739	mitochondrion
+14576278	Q12289	CCO	GO:0005739	mitochondrion
+11914276	Q12289	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06417	CCO	GO:0005739	mitochondrion
+14576278	Q06417	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08959	CCO	GO:0005739	mitochondrion
+14576278	Q08959	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12117	CCO	GO:0005739	mitochondrion
+14576278	Q12117	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P27680	CCO	GO:0005739	mitochondrion
+14576278	P27680	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P23641	CCO	GO:0005739	mitochondrion
+14576278	P23641	CCO	GO:0005739	mitochondrion
+11914276	P23641	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40464	CCO	GO:0005739	mitochondrion
+14576278	P40464	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P28239	CCO	GO:0005739	mitochondrion
+14576278	P28239	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P50085	CCO	GO:0005739	mitochondrion
+14576278	P50085	CCO	GO:0005739	mitochondrion
+16429126	P50085	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q03028	CCO	GO:0005739	mitochondrion
+14576278	Q03028	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q99190	CCO	GO:0005739	mitochondrion
+14576278	Q99190	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25605	CCO	GO:0005739	mitochondrion
+14576278	P25605	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q07651	CCO	GO:0005739	mitochondrion
+14576278	Q07651	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P49017	CCO	GO:0005739	mitochondrion
+14576278	P49017	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P23500	CCO	GO:0005739	mitochondrion
+14576278	P23500	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40049	CCO	GO:0005739	mitochondrion
+14576278	P40049	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P54003	CCO	GO:0005739	mitochondrion
+14576278	P54003	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40035	CCO	GO:0005739	mitochondrion
+14576278	P40035	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40471	CCO	GO:0005739	mitochondrion
+14576278	P40471	CCO	GO:0005739	mitochondrion
+11914276	P40471	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P37293	CCO	GO:0005739	mitochondrion
+14576278	P37293	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40961	CCO	GO:0005739	mitochondrion
+14576278	P40961	CCO	GO:0005739	mitochondrion
+16429126	P40961	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q12320	CCO	GO:0005739	mitochondrion
+14576278	Q12320	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38626	CCO	GO:0005739	mitochondrion
+14576278	P38626	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38921	CCO	GO:0005739	mitochondrion
+14576278	P38921	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25613	CCO	GO:0005739	mitochondrion
+14576278	P25613	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32907	CCO	GO:0005739	mitochondrion
+14576278	P32907	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40478	CCO	GO:0005739	mitochondrion
+14576278	P40478	CCO	GO:0005739	mitochondrion
+11914276	P40478	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53195	CCO	GO:0005739	mitochondrion
+14576278	P53195	CCO	GO:0005739	mitochondrion
+16429126	P53195	MFO	GO:0005515	protein binding
+16429126	P53195	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q12359	CCO	GO:0005739	mitochondrion
+14576278	Q12359	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q07505	CCO	GO:0005739	mitochondrion
+14576278	Q07505	CCO	GO:0005739	mitochondrion
+11914276	Q07505	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P54964	CCO	GO:0005739	mitochondrion
+14576278	P54964	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P08593	CCO	GO:0005739	mitochondrion
+14576278	P08593	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P14020	CCO	GO:0005739	mitochondrion
+14576278	P14020	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P34227	CCO	GO:0005739	mitochondrion
+14576278	P34227	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40168	CCO	GO:0005739	mitochondrion
+14576278	P40168	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P21243	CCO	GO:0005739	mitochondrion
+14576278	P21243	CCO	GO:0005739	mitochondrion
+16429126	P21243	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P40364	CCO	GO:0005739	mitochondrion
+14576278	P40364	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53068	CCO	GO:0005739	mitochondrion
+14576278	P53068	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40582	CCO	GO:0005739	mitochondrion
+14576278	P40582	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P00447	CCO	GO:0005739	mitochondrion
+14576278	P00447	CCO	GO:0005739	mitochondrion
+11914276	P00447	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12390	CCO	GO:0005739	mitochondrion
+14576278	Q12390	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38771	CCO	GO:0005739	mitochondrion
+14576278	P38771	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38523	CCO	GO:0005739	mitochondrion
+14576278	P38523	CCO	GO:0005739	mitochondrion
+11914276	P38523	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q06630	CCO	GO:0005739	mitochondrion
+14576278	Q06630	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32897	CCO	GO:0005739	mitochondrion
+14576278	P32897	CCO	GO:0005739	mitochondrion
+11914276	P32897	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q05359	CCO	GO:0005739	mitochondrion
+14576278	Q05359	CCO	GO:0005739	mitochondrion
+16429126	Q05359	MFO	GO:0005515	protein binding
+16429126	Q05359	MFO	GO:0005515	protein binding
+16429126	Q05359	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P53198	CCO	GO:0005739	mitochondrion
+14576278	P53198	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07560	CCO	GO:0005739	mitochondrion
+14576278	P07560	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P34222	CCO	GO:0005739	mitochondrion
+14576278	P34222	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40099	CCO	GO:0005739	mitochondrion
+14576278	P40099	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36017	CCO	GO:0005739	mitochondrion
+14576278	P36017	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P06780	CCO	GO:0005739	mitochondrion
+14576278	P06780	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P43557	CCO	GO:0005739	mitochondrion
+14576278	P43557	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P01123	CCO	GO:0005739	mitochondrion
+14576278	P01123	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P05375	CCO	GO:0005739	mitochondrion
+14576278	P05375	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38428	CCO	GO:0005739	mitochondrion
+14576278	P38428	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36015	CCO	GO:0005739	mitochondrion
+14576278	P36015	CCO	GO:0005739	mitochondrion
+16429126	P36015	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P40159	CCO	GO:0005739	mitochondrion
+14576278	P40159	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36147	CCO	GO:0005739	mitochondrion
+14576278	P36147	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P39978	CCO	GO:0005739	mitochondrion
+14576278	P39978	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P27882	CCO	GO:0005739	mitochondrion
+14576278	P27882	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P38264	CCO	GO:0005739	mitochondrion
+14576278	P38264	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P53193	CCO	GO:0005739	mitochondrion
+14576278	P53193	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25719	CCO	GO:0005739	mitochondrion
+14576278	P25719	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q02888	CCO	GO:0005739	mitochondrion
+14576278	Q02888	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q07540	CCO	GO:0005739	mitochondrion
+14576278	Q07540	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q12207	CCO	GO:0005739	mitochondrion
+14576278	Q12207	CCO	GO:0005739	mitochondrion
+11914276	Q12207	CCO	GO:0005737	cytoplasm
+11914276	Q12207	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P39726	CCO	GO:0005739	mitochondrion
+14576278	P39726	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P36087	CCO	GO:0005739	mitochondrion
+14576278	P36087	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P07253	CCO	GO:0005739	mitochondrion
+14576278	P07253	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40548	CCO	GO:0005739	mitochondrion
+14576278	P40548	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P23301	CCO	GO:0005739	mitochondrion
+14576278	P23301	CCO	GO:0005739	mitochondrion
+11914276	P23301	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P40491	CCO	GO:0005739	mitochondrion
+14576278	P40491	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	O14467	CCO	GO:0005739	mitochondrion
+14576278	O14467	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P00127	CCO	GO:0005739	mitochondrion
+14576278	P00127	CCO	GO:0005739	mitochondrion
+11914276	P00127	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P40185	CCO	GO:0005739	mitochondrion
+14576278	P40185	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P17695	CCO	GO:0005739	mitochondrion
+14576278	P17695	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32445	CCO	GO:0005739	mitochondrion
+14576278	P32445	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P0CH08	CCO	GO:0005739	mitochondrion
+14576278	P0CH08	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P25372	CCO	GO:0005739	mitochondrion
+14576278	P25372	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P32463	CCO	GO:0005739	mitochondrion
+14576278	P32463	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	Q08245	CCO	GO:0005739	mitochondrion
+14576278	Q08245	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P47131	CCO	GO:0005739	mitochondrion
+14576278	P47131	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P50088	CCO	GO:0005739	mitochondrion
+14576278	P50088	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16823961	P08518	CCO	GO:0005739	mitochondrion
+16429126	P08518	MFO	GO:0005515	protein binding
+16429126	P08518	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P39925	CCO	GO:0005739	mitochondrion
+16429126	P39925	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P42900	CCO	GO:0005739	mitochondrion
+16429126	P42900	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q00711	CCO	GO:0005739	mitochondrion
+16429126	Q00711	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q12166	CCO	GO:0005739	mitochondrion
+16429126	Q12166	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P11914	CCO	GO:0005739	mitochondrion
+16429126	P11914	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P36100	CCO	GO:0005739	mitochondrion
+16429126	P36100	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q02825	CCO	GO:0005739	mitochondrion
+16429126	Q02825	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P19262	CCO	GO:0005739	mitochondrion
+16429126	P19262	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P10507	CCO	GO:0005739	mitochondrion
+16429126	P10507	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P07256	CCO	GO:0005739	mitochondrion
+16429126	P07256	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P16658	CCO	GO:0005739	mitochondrion
+16429126	P16658	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P17505	CCO	GO:0005739	mitochondrion
+16429126	P17505	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P21801	CCO	GO:0005739	mitochondrion
+16429126	P21801	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P00445	CCO	GO:0005739	mitochondrion
+16429126	P00445	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P19955	CCO	GO:0005739	mitochondrion
+16429126	P19955	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P23291	CCO	GO:0005739	mitochondrion
+11914276	P23291	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P00560	CCO	GO:0005739	mitochondrion
+11914276	P00560	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	P00359	CCO	GO:0005739	mitochondrion
+11914276	P00359	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16823961	Q03020	CCO	GO:0005739	mitochondrion
+11914276	Q03020	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+16429126	P38853	MFO	GO:0005515	protein binding
+16429126	P38853	MFO	GO:0005515	protein binding
+11914276	P38853	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P38764	MFO	GO:0005515	protein binding
+16429126	P38764	MFO	GO:0005515	protein binding
+16429126	P38764	MFO	GO:0005515	protein binding
+11914276	P38764	CCO	GO:0005737	cytoplasm
+11914276	P38764	CCO	GO:0005783	endoplasmic reticulum
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P38249	MFO	GO:0005515	protein binding
+11914276	P38249	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q06639	MFO	GO:0005515	protein binding
+11914276	Q06639	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P46949	MFO	GO:0005515	protein binding
+11914276	P46949	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P32497	MFO	GO:0005515	protein binding
+11914276	P32497	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P26570	MFO	GO:0005515	protein binding
+11914276	P26570	CCO	GO:0005634	nucleus
+11914276	P26570	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P10591	MFO	GO:0005515	protein binding
+11914276	P10591	CCO	GO:0005634	nucleus
+11914276	P10591	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q12446	MFO	GO:0005515	protein binding
+16429126	Q12446	MFO	GO:0005515	protein binding
+11914276	Q12446	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P38882	MFO	GO:0005515	protein binding
+16429126	P38882	MFO	GO:0005515	protein binding
+11914276	P38882	CCO	GO:0005634	nucleus
+11914276	P38882	CCO	GO:0005730	nucleolus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q02457	MFO	GO:0005515	protein binding
+11914276	Q02457	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P43609	MFO	GO:0005515	protein binding
+16429126	P43609	MFO	GO:0005515	protein binding
+16429126	P43609	MFO	GO:0005515	protein binding
+11914276	P43609	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q02821	MFO	GO:0005515	protein binding
+11914276	Q02821	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P15625	MFO	GO:0005515	protein binding
+11914276	P15625	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q02199	MFO	GO:0005515	protein binding
+11914276	Q02199	CCO	GO:0005635	nuclear envelope
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q12024	MFO	GO:0005515	protein binding
+11914276	Q12024	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q02884	MFO	GO:0005515	protein binding
+11914276	Q02884	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P00924	MFO	GO:0005515	protein binding
+11914276	P00924	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q12363	MFO	GO:0005515	protein binding
+11914276	Q12363	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P38272	MFO	GO:0005515	protein binding
+11914276	P38272	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P32468	MFO	GO:0005515	protein binding
+11914276	P32468	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	Q04410	MFO	GO:0005515	protein binding
+11914276	Q04410	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P38629	MFO	GO:0005515	protein binding
+11914276	P38629	CCO	GO:0005634	nucleus
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P20459	MFO	GO:0005515	protein binding
+11914276	P20459	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#
+16429126	P43569	MFO	GO:0005515	protein binding
+11914276	P43569	CCO	GO:0005737	cytoplasm
+ 	 	 	 	This group has identical annotations:	 False
+#

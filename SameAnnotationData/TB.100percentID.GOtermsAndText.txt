@@ -1,0 +1,2424 @@
+#
+15525680	P95029	CCO	GO:0005618	cell wall
+15525680	P95029	CCO	GO:0005829	cytosol
+15525680	P95029	CCO	GO:0005886	plasma membrane
+14532352	P95029	CCO	GO:0005886	plasma membrane
+12657046	P95029	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O07798	CCO	GO:0005618	cell wall
+15525680	O07798	CCO	GO:0005829	cytosol
+15525680	O07798	CCO	GO:0005886	plasma membrane
+14532352	O07798	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96291	CCO	GO:0005618	cell wall
+15525680	P96291	CCO	GO:0005886	plasma membrane
+14532352	P96291	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53579	CCO	GO:0005618	cell wall
+15525680	O53579	CCO	GO:0005829	cytosol
+15525680	O53579	CCO	GO:0005886	plasma membrane
+14532352	O53579	CCO	GO:0005886	plasma membrane
+12657046	O53579	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86329	CCO	GO:0005829	cytosol
+15525680	O86329	CCO	GO:0005886	plasma membrane
+14532352	O86329	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53203	CCO	GO:0005618	cell wall
+15525680	O53203	CCO	GO:0005829	cytosol
+15525680	O53203	CCO	GO:0005886	plasma membrane
+14532352	O53203	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50437	CCO	GO:0005618	cell wall
+15525680	O50437	CCO	GO:0005886	plasma membrane
+14532352	O50437	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96218	CCO	GO:0005829	cytosol
+15525680	P96218	CCO	GO:0005886	plasma membrane
+14532352	P96218	CCO	GO:0005886	plasma membrane
+12657046	P96218	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53689	CCO	GO:0005618	cell wall
+15525680	O53689	CCO	GO:0005886	plasma membrane
+14532352	O53689	CCO	GO:0005886	plasma membrane
+12657046	O53689	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10850	CCO	GO:0005618	cell wall
+15525680	Q10850	CCO	GO:0005886	plasma membrane
+14532352	Q10850	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A674	CCO	GO:0005886	plasma membrane
+14532352	P0A674	CCO	GO:0005886	plasma membrane
+12657046	P0A674	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64326	CCO	GO:0005829	cytosol
+15525680	P64326	CCO	GO:0005886	plasma membrane
+14532352	P64326	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95223	CCO	GO:0005886	plasma membrane
+14532352	P95223	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O05435	CCO	GO:0005886	plasma membrane
+14532352	O05435	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P0A680	CCO	GO:0005618	cell wall
+15525680	P0A680	CCO	GO:0005829	cytosol
+15525680	P0A680	CCO	GO:0005886	plasma membrane
+14532352	P0A680	CCO	GO:0005886	plasma membrane
+12657046	P0A680	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q50631	CCO	GO:0005829	cytosol
+15525680	Q50631	CCO	GO:0005886	plasma membrane
+14532352	Q50631	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P57689	CCO	GO:0005886	plasma membrane
+14532352	P57689	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	Q10765	CCO	GO:0005618	cell wall
+14532352	Q10765	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33185	CCO	GO:0005886	plasma membrane
+14532352	O33185	CCO	GO:0005886	plasma membrane
+12657046	O33185	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63380	CCO	GO:0005618	cell wall
+15525680	P63380	CCO	GO:0005829	cytosol
+15525680	P63380	CCO	GO:0005886	plasma membrane
+14532352	P63380	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67510	CCO	GO:0005618	cell wall
+14532352	P67510	CCO	GO:0005886	plasma membrane
+12657046	P67510	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71905	CCO	GO:0005829	cytosol
+15525680	P71905	CCO	GO:0005886	plasma membrane
+14532352	P71905	CCO	GO:0005886	plasma membrane
+12657046	P71905	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5Y8	CCO	GO:0005829	cytosol
+15525680	P0A5Y8	CCO	GO:0005886	plasma membrane
+14532352	P0A5Y8	CCO	GO:0005886	plasma membrane
+12657046	P0A5Y8	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53166	CCO	GO:0005618	cell wall
+15525680	O53166	CCO	GO:0005829	cytosol
+15525680	O53166	CCO	GO:0005886	plasma membrane
+14532352	O53166	CCO	GO:0005886	plasma membrane
+12657046	O53166	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q50601	CCO	GO:0005618	cell wall
+14532352	Q50601	CCO	GO:0005886	plasma membrane
+12657046	Q50601	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50435	CCO	GO:0005618	cell wall
+15525680	O50435	CCO	GO:0005829	cytosol
+14532352	O50435	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A620	CCO	GO:0005618	cell wall
+15525680	P0A620	CCO	GO:0005829	cytosol
+15525680	P0A620	CCO	GO:0005886	plasma membrane
+14532352	P0A620	CCO	GO:0005886	plasma membrane
+12657046	P0A620	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10701	CCO	GO:0005618	cell wall
+15525680	Q10701	CCO	GO:0005829	cytosol
+15525680	Q10701	CCO	GO:0005886	plasma membrane
+14532352	Q10701	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O07438	CCO	GO:0005829	cytosol
+15525680	O07438	CCO	GO:0005886	plasma membrane
+14532352	O07438	CCO	GO:0005886	plasma membrane
+12657046	O07438	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A550	CCO	GO:0005886	plasma membrane
+14532352	P0A550	CCO	GO:0005886	plasma membrane
+12657046	P0A550	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10504	CCO	GO:0005886	plasma membrane
+14532352	Q10504	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P65131	CCO	GO:0005618	cell wall
+15525680	P65131	CCO	GO:0005886	plasma membrane
+14532352	P65131	CCO	GO:0005886	plasma membrane
+12657046	P65131	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33268	CCO	GO:0005618	cell wall
+15525680	O33268	CCO	GO:0005886	plasma membrane
+14532352	O33268	CCO	GO:0005886	plasma membrane
+12657046	O33268	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53493	CCO	GO:0005618	cell wall
+15525680	O53493	CCO	GO:0005829	cytosol
+15525680	O53493	CCO	GO:0005886	plasma membrane
+14532352	O53493	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10639	CCO	GO:0005829	cytosol
+15525680	Q10639	CCO	GO:0005886	plasma membrane
+14532352	Q10639	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O07764	CCO	GO:0005618	cell wall
+15525680	O07764	CCO	GO:0005829	cytosol
+14532352	O07764	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A522	CCO	GO:0005829	cytosol
+15525680	P0A522	CCO	GO:0005886	plasma membrane
+14532352	P0A522	CCO	GO:0005886	plasma membrane
+12657046	P0A522	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63288	CCO	GO:0005886	plasma membrane
+14532352	P63288	CCO	GO:0005886	plasma membrane
+12657046	P63288	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P94985	CCO	GO:0005618	cell wall
+15525680	P94985	CCO	GO:0005886	plasma membrane
+14532352	P94985	CCO	GO:0005886	plasma membrane
+12657046	P94985	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q7D529	CCO	GO:0005829	cytosol
+15525680	Q7D529	CCO	GO:0005886	plasma membrane
+14532352	Q7D529	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66785	CCO	GO:0005886	plasma membrane
+14532352	P66785	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P95175	CCO	GO:0005618	cell wall
+15525680	P95175	CCO	GO:0005886	plasma membrane
+14532352	P95175	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53207	CCO	GO:0005886	plasma membrane
+14532352	O53207	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P63689	CCO	GO:0005886	plasma membrane
+14532352	P63689	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P96878	CCO	GO:0005886	plasma membrane
+14532352	P96878	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P0C5C0	CCO	GO:0005829	cytosol
+15525680	P0C5C0	CCO	GO:0005886	plasma membrane
+14532352	P0C5C0	CCO	GO:0005886	plasma membrane
+12657046	P0C5C0	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65340	CCO	GO:0005618	cell wall
+15525680	P65340	CCO	GO:0005829	cytosol
+15525680	P65340	CCO	GO:0005886	plasma membrane
+14532352	P65340	CCO	GO:0005886	plasma membrane
+12657046	P65340	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33325	CCO	GO:0005829	cytosol
+15525680	O33325	CCO	GO:0005886	plasma membrane
+14532352	O33325	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53611	CCO	GO:0005829	cytosol
+15525680	O53611	CCO	GO:0005886	plasma membrane
+14532352	O53611	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65768	CCO	GO:0005886	plasma membrane
+14532352	P65768	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P0A5J4	CCO	GO:0005829	cytosol
+15525680	P0A5J4	CCO	GO:0005886	plasma membrane
+14532352	P0A5J4	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q08129	CCO	GO:0005829	cytosol
+15525680	Q08129	CCO	GO:0005886	plasma membrane
+14532352	Q08129	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95228	CCO	GO:0005886	plasma membrane
+14532352	P95228	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P96281	CCO	GO:0005618	cell wall
+14532352	P96281	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5W8	CCO	GO:0005886	plasma membrane
+14532352	P0A5W8	CCO	GO:0005886	plasma membrane
+12657046	P0A5W8	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53872	CCO	GO:0005829	cytosol
+14532352	O53872	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A502	CCO	GO:0005886	plasma membrane
+14532352	P0A502	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O07170	CCO	GO:0005618	cell wall
+15525680	O07170	CCO	GO:0005886	plasma membrane
+14532352	O07170	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63531	CCO	GO:0005829	cytosol
+14532352	P63531	CCO	GO:0005886	plasma membrane
+12657046	P63531	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06811	CCO	GO:0005829	cytosol
+14532352	O06811	CCO	GO:0005886	plasma membrane
+12657046	O06811	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53767	CCO	GO:0005829	cytosol
+15525680	O53767	CCO	GO:0005886	plasma membrane
+14532352	O53767	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53475	CCO	GO:0005829	cytosol
+15525680	O53475	CCO	GO:0005886	plasma membrane
+14532352	O53475	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5L6	CCO	GO:0005618	cell wall
+15525680	P0A5L6	CCO	GO:0005886	plasma membrane
+14532352	P0A5L6	CCO	GO:0005886	plasma membrane
+12657046	P0A5L6	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0C5C5	CCO	GO:0005618	cell wall
+14532352	P0C5C5	CCO	GO:0005886	plasma membrane
+12657046	P0C5C5	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05871	CCO	GO:0005829	cytosol
+15525680	O05871	CCO	GO:0005886	plasma membrane
+14532352	O05871	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95241	CCO	GO:0005886	plasma membrane
+14532352	P95241	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O69635	CCO	GO:0005618	cell wall
+15525680	O69635	CCO	GO:0005886	plasma membrane
+14532352	O69635	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63429	CCO	GO:0005829	cytosol
+15525680	P63429	CCO	GO:0005886	plasma membrane
+14532352	P63429	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64411	CCO	GO:0005886	plasma membrane
+14532352	P64411	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53670	CCO	GO:0005618	cell wall
+14532352	O53670	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86346	CCO	GO:0005829	cytosol
+14532352	O86346	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06293	CCO	GO:0005618	cell wall
+15525680	O06293	CCO	GO:0005886	plasma membrane
+14532352	O06293	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53580	CCO	GO:0005618	cell wall
+15525680	O53580	CCO	GO:0005886	plasma membrane
+14532352	O53580	CCO	GO:0005886	plasma membrane
+12657046	O53580	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53585	CCO	GO:0005829	cytosol
+15525680	O53585	CCO	GO:0005886	plasma membrane
+14532352	O53585	CCO	GO:0005886	plasma membrane
+12657046	O53585	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53687	CCO	GO:0005618	cell wall
+15525680	O53687	CCO	GO:0005829	cytosol
+15525680	O53687	CCO	GO:0005886	plasma membrane
+14532352	O53687	CCO	GO:0005886	plasma membrane
+12657046	O53687	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5B9	CCO	GO:0005618	cell wall
+15525680	P0A5B9	CCO	GO:0005829	cytosol
+15525680	P0A5B9	CCO	GO:0005886	plasma membrane
+14532352	P0A5B9	CCO	GO:0005886	plasma membrane
+12657046	P0A5B9	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A588	CCO	GO:0005886	plasma membrane
+14532352	P0A588	CCO	GO:0005886	plasma membrane
+12657046	P0A588	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95072	CCO	GO:0005886	plasma membrane
+14532352	P95072	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P95288	CCO	GO:0005618	cell wall
+15525680	P95288	CCO	GO:0005886	plasma membrane
+14532352	P95288	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53666	CCO	GO:0005886	plasma membrane
+14532352	O53666	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53158	CCO	GO:0005618	cell wall
+14532352	O53158	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63345	CCO	GO:0005886	plasma membrane
+14532352	P63345	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P65686	CCO	GO:0005829	cytosol
+14532352	P65686	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66028	CCO	GO:0005618	cell wall
+15525680	P66028	CCO	GO:0005886	plasma membrane
+14532352	P66028	CCO	GO:0005886	plasma membrane
+12657046	P66028	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96890	CCO	GO:0005886	plasma membrane
+14532352	P96890	CCO	GO:0005886	plasma membrane
+12657046	P96890	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66777	CCO	GO:0005829	cytosol
+14532352	P66777	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53208	CCO	GO:0005886	plasma membrane
+14532352	O53208	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P65154	CCO	GO:0005886	plasma membrane
+14532352	P65154	CCO	GO:0005886	plasma membrane
+12657046	P65154	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05592	CCO	GO:0005886	plasma membrane
+14532352	O05592	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O05770	CCO	GO:0005886	plasma membrane
+14532352	O05770	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P95227	CCO	GO:0005886	plasma membrane
+14532352	P95227	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53204	CCO	GO:0005829	cytosol
+15525680	O53204	CCO	GO:0005886	plasma membrane
+14532352	O53204	CCO	GO:0005886	plasma membrane
+12657046	O53204	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65633	CCO	GO:0005829	cytosol
+15525680	P65633	CCO	GO:0005886	plasma membrane
+14532352	P65633	CCO	GO:0005886	plasma membrane
+12657046	P65633	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63673	CCO	GO:0005618	cell wall
+15525680	P63673	CCO	GO:0005886	plasma membrane
+14532352	P63673	CCO	GO:0005886	plasma membrane
+12657046	P63673	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63885	CCO	GO:0005886	plasma membrane
+14532352	P63885	CCO	GO:0005886	plasma membrane
+12657046	P63885	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53873	CCO	GO:0005618	cell wall
+15525680	O53873	CCO	GO:0005886	plasma membrane
+14532352	O53873	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A520	CCO	GO:0005618	cell wall
+15525680	P0A520	CCO	GO:0005829	cytosol
+15525680	P0A520	CCO	GO:0005886	plasma membrane
+14532352	P0A520	CCO	GO:0005886	plasma membrane
+12657046	P0A520	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A518	CCO	GO:0005618	cell wall
+15525680	P0A518	CCO	GO:0005886	plasma membrane
+14532352	P0A518	CCO	GO:0005886	plasma membrane
+12657046	P0A518	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53688	CCO	GO:0005618	cell wall
+15525680	O53688	CCO	GO:0005886	plasma membrane
+14532352	O53688	CCO	GO:0005886	plasma membrane
+12657046	O53688	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A544	CCO	GO:0005886	plasma membrane
+14532352	P0A544	CCO	GO:0005886	plasma membrane
+12657046	P0A544	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A602	CCO	GO:0005886	plasma membrane
+14532352	P0A602	CCO	GO:0005886	plasma membrane
+12657046	P0A602	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64263	CCO	GO:0005618	cell wall
+15525680	P64263	CCO	GO:0005829	cytosol
+14532352	P64263	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65823	CCO	GO:0005829	cytosol
+14532352	P65823	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96417	CCO	GO:0005886	plasma membrane
+14532352	P96417	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P0A584	CCO	GO:0005886	plasma membrane
+14532352	P0A584	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	Q10510	CCO	GO:0005829	cytosol
+14532352	Q10510	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96824	CCO	GO:0005618	cell wall
+15525680	P96824	CCO	GO:0005886	plasma membrane
+14532352	P96824	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06353	CCO	GO:0005618	cell wall
+14532352	O06353	CCO	GO:0005886	plasma membrane
+12657046	O06353	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96264	CCO	GO:0005886	plasma membrane
+14532352	P96264	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P60176	CCO	GO:0005829	cytosol
+15525680	P60176	CCO	GO:0005886	plasma membrane
+14532352	P60176	CCO	GO:0005886	plasma membrane
+12657046	P60176	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06294	CCO	GO:0005829	cytosol
+15525680	O06294	CCO	GO:0005886	plasma membrane
+14532352	O06294	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96219	CCO	GO:0005829	cytosol
+15525680	P96219	CCO	GO:0005886	plasma membrane
+14532352	P96219	CCO	GO:0005886	plasma membrane
+12657046	P96219	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96936	CCO	GO:0005618	cell wall
+15525680	P96936	CCO	GO:0005829	cytosol
+14532352	P96936	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63677	CCO	GO:0005618	cell wall
+15525680	P63677	CCO	GO:0005829	cytosol
+15525680	P63677	CCO	GO:0005886	plasma membrane
+14532352	P63677	CCO	GO:0005886	plasma membrane
+12657046	P63677	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06147	CCO	GO:0005618	cell wall
+15525680	O06147	CCO	GO:0005829	cytosol
+14532352	O06147	CCO	GO:0005886	plasma membrane
+12657046	O06147	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q7D4M2	CCO	GO:0005618	cell wall
+14532352	Q7D4M2	CCO	GO:0005886	plasma membrane
+12657046	Q7D4M2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65172	CCO	GO:0005829	cytosol
+15525680	P65172	CCO	GO:0005886	plasma membrane
+14532352	P65172	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A590	CCO	GO:0005829	cytosol
+15525680	P0A590	CCO	GO:0005886	plasma membrane
+14532352	P0A590	CCO	GO:0005886	plasma membrane
+12657046	P0A590	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53446	CCO	GO:0005829	cytosol
+15525680	O53446	CCO	GO:0005886	plasma membrane
+14532352	O53446	CCO	GO:0005886	plasma membrane
+12657046	O53446	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06134	CCO	GO:0005829	cytosol
+14532352	O06134	CCO	GO:0005886	plasma membrane
+12657046	O06134	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86362	CCO	GO:0005886	plasma membrane
+14532352	O86362	CCO	GO:0005886	plasma membrane
+12657046	O86362	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95200	CCO	GO:0005829	cytosol
+14532352	P95200	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95187	CCO	GO:0005618	cell wall
+14532352	P95187	CCO	GO:0005886	plasma membrane
+12657046	P95187	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53189	CCO	GO:0005829	cytosol
+15525680	O53189	CCO	GO:0005886	plasma membrane
+14532352	O53189	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66004	CCO	GO:0005829	cytosol
+14532352	P66004	CCO	GO:0005886	plasma membrane
+12657046	P66004	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67032	CCO	GO:0005886	plasma membrane
+14532352	P67032	CCO	GO:0005886	plasma membrane
+12657046	P67032	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P72056	CCO	GO:0005886	plasma membrane
+14532352	P72056	CCO	GO:0005886	plasma membrane
+12657046	P72056	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O65936	CCO	GO:0005829	cytosol
+15525680	O65936	CCO	GO:0005886	plasma membrane
+14532352	O65936	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53665	CCO	GO:0005618	cell wall
+15525680	O53665	CCO	GO:0005829	cytosol
+14532352	O53665	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67210	CCO	GO:0005886	plasma membrane
+14532352	P67210	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P64943	CCO	GO:0005618	cell wall
+15525680	P64943	CCO	GO:0005886	plasma membrane
+14532352	P64943	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A500	CCO	GO:0005886	plasma membrane
+14532352	P0A500	CCO	GO:0005886	plasma membrane
+12657046	P0A500	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64245	CCO	GO:0005886	plasma membrane
+14532352	P64245	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	Q50635	CCO	GO:0005618	cell wall
+14532352	Q50635	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86361	CCO	GO:0005829	cytosol
+15525680	O86361	CCO	GO:0005886	plasma membrane
+14532352	O86361	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53443	CCO	GO:0005886	plasma membrane
+14532352	O53443	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P0A540	CCO	GO:0005886	plasma membrane
+14532352	P0A540	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	Q10530	CCO	GO:0005829	cytosol
+15525680	Q10530	CCO	GO:0005886	plasma membrane
+14532352	Q10530	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q50681	CCO	GO:0005886	plasma membrane
+14532352	Q50681	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P63498	CCO	GO:0005886	plasma membrane
+14532352	P63498	CCO	GO:0005886	plasma membrane
+12657046	P63498	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10387	CCO	GO:0005618	cell wall
+14532352	Q10387	CCO	GO:0005886	plasma membrane
+12657046	Q10387	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06804	CCO	GO:0005618	cell wall
+14532352	O06804	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53441	CCO	GO:0005886	plasma membrane
+14532352	O53441	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P67483	CCO	GO:0005618	cell wall
+15525680	P67483	CCO	GO:0005886	plasma membrane
+14532352	P67483	CCO	GO:0005886	plasma membrane
+12657046	P67483	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96409	CCO	GO:0005886	plasma membrane
+14532352	P96409	CCO	GO:0005886	plasma membrane
+12657046	P96409	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95139	CCO	GO:0005886	plasma membrane
+14532352	P95139	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P63456	CCO	GO:0005618	cell wall
+14532352	P63456	CCO	GO:0005886	plasma membrane
+12657046	P63456	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63454	CCO	GO:0005618	cell wall
+15525680	P63454	CCO	GO:0005886	plasma membrane
+14532352	P63454	CCO	GO:0005886	plasma membrane
+12657046	P63454	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65788	CCO	GO:0005829	cytosol
+14532352	P65788	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95143	CCO	GO:0005618	cell wall
+15525680	P95143	CCO	GO:0005886	plasma membrane
+14532352	P95143	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65097	CCO	GO:0005886	plasma membrane
+14532352	P65097	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O05898	CCO	GO:0005829	cytosol
+14532352	O05898	CCO	GO:0005886	plasma membrane
+12657046	O05898	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P77899	CCO	GO:0005618	cell wall
+15525680	P77899	CCO	GO:0005829	cytosol
+14532352	P77899	CCO	GO:0005886	plasma membrane
+12657046	P77899	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96831	CCO	GO:0005886	plasma membrane
+14532352	P96831	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P63642	CCO	GO:0005829	cytosol
+15525680	P63642	CCO	GO:0005886	plasma membrane
+14532352	P63642	CCO	GO:0005886	plasma membrane
+12657046	P63642	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A558	CCO	GO:0005618	cell wall
+15525680	P0A558	CCO	GO:0005829	cytosol
+15525680	P0A558	CCO	GO:0005886	plasma membrane
+14532352	P0A558	CCO	GO:0005886	plasma membrane
+12657046	P0A558	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63427	CCO	GO:0005829	cytosol
+14532352	P63427	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63693	CCO	GO:0005618	cell wall
+15525680	P63693	CCO	GO:0005886	plasma membrane
+14532352	P63693	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95140	CCO	GO:0005829	cytosol
+14532352	P95140	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q79FN7	CCO	GO:0005618	cell wall
+15525680	Q79FN7	CCO	GO:0005886	plasma membrane
+14532352	Q79FN7	CCO	GO:0005886	plasma membrane
+12657046	Q79FN7	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06183	CCO	GO:0005829	cytosol
+14532352	O06183	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P15712	CCO	GO:0005618	cell wall
+15525680	P15712	CCO	GO:0005829	cytosol
+15525680	P15712	CCO	GO:0005886	plasma membrane
+14532352	P15712	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P30234	CCO	GO:0005829	cytosol
+14532352	P30234	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A4Z4	CCO	GO:0005618	cell wall
+15525680	P0A4Z4	CCO	GO:0005886	plasma membrane
+14532352	P0A4Z4	CCO	GO:0005886	plasma membrane
+12657046	P0A4Z4	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63357	CCO	GO:0005618	cell wall
+15525680	P63357	CCO	GO:0005886	plasma membrane
+14532352	P63357	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q7D5T3	CCO	GO:0005886	plasma membrane
+14532352	Q7D5T3	CCO	GO:0005886	plasma membrane
+12657046	Q7D5T3	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O69660	CCO	GO:0005886	plasma membrane
+14532352	O69660	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P0A5S0	CCO	GO:0005886	plasma membrane
+14532352	P0A5S0	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O06160	CCO	GO:0005886	plasma membrane
+14532352	O06160	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53978	CCO	GO:0005886	plasma membrane
+14532352	O53978	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P66701	CCO	GO:0005829	cytosol
+14532352	P66701	CCO	GO:0005886	plasma membrane
+12657046	P66701	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O69652	CCO	GO:0005829	cytosol
+14532352	O69652	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A4X0	CCO	GO:0005618	cell wall
+15525680	P0A4X0	CCO	GO:0005829	cytosol
+15525680	P0A4X0	CCO	GO:0005886	plasma membrane
+14532352	P0A4X0	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05800	CCO	GO:0005618	cell wall
+14532352	O05800	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06218	CCO	GO:0005618	cell wall
+15525680	O06218	CCO	GO:0005886	plasma membrane
+14532352	O06218	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66779	CCO	GO:0005886	plasma membrane
+14532352	P66779	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O06574	CCO	GO:0005886	plasma membrane
+14532352	O06574	CCO	GO:0005886	plasma membrane
+12657046	O06574	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64178	CCO	GO:0005829	cytosol
+14532352	P64178	CCO	GO:0005886	plasma membrane
+12657046	P64178	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71677	CCO	GO:0005829	cytosol
+14532352	P71677	CCO	GO:0005886	plasma membrane
+12657046	P71677	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A4V2	CCO	GO:0005618	cell wall
+14532352	P0A4V2	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q50824	CCO	GO:0005618	cell wall
+15525680	Q50824	CCO	GO:0005829	cytosol
+15525680	Q50824	CCO	GO:0005886	plasma membrane
+14532352	Q50824	CCO	GO:0005886	plasma membrane
+12657046	Q50824	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65149	CCO	GO:0005829	cytosol
+14532352	P65149	CCO	GO:0005886	plasma membrane
+12657046	P65149	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95195	CCO	GO:0005829	cytosol
+14532352	P95195	CCO	GO:0005886	plasma membrane
+12657046	P95195	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53476	CCO	GO:0005829	cytosol
+14532352	O53476	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5J6	CCO	GO:0005829	cytosol
+14532352	P0A5J6	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53146	CCO	GO:0005618	cell wall
+14532352	O53146	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P72043	CCO	GO:0005886	plasma membrane
+14532352	P72043	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P65232	CCO	GO:0005886	plasma membrane
+14532352	P65232	CCO	GO:0005886	plasma membrane
+12657046	P65232	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71692	CCO	GO:0005618	cell wall
+15525680	P71692	CCO	GO:0005886	plasma membrane
+14532352	P71692	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53481	CCO	GO:0005886	plasma membrane
+14532352	O53481	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P63484	CCO	GO:0005618	cell wall
+15525680	P63484	CCO	GO:0005886	plasma membrane
+14532352	P63484	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06266	CCO	GO:0005886	plasma membrane
+14532352	O06266	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53246	CCO	GO:0005618	cell wall
+14532352	O53246	CCO	GO:0005886	plasma membrane
+12657046	O53246	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95137	CCO	GO:0005829	cytosol
+14532352	P95137	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65613	CCO	GO:0005618	cell wall
+15525680	P65613	CCO	GO:0005829	cytosol
+14532352	P65613	CCO	GO:0005886	plasma membrane
+12657046	P65613	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53275	CCO	GO:0005618	cell wall
+15525680	O53275	CCO	GO:0005829	cytosol
+14532352	O53275	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5F7	CCO	GO:0005618	cell wall
+14532352	P0A5F7	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64853	CCO	GO:0005829	cytosol
+14532352	P64853	CCO	GO:0005886	plasma membrane
+12657046	P64853	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06576	CCO	GO:0005618	cell wall
+15525680	O06576	CCO	GO:0005829	cytosol
+14532352	O06576	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96823	CCO	GO:0005829	cytosol
+14532352	P96823	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0C5C1	CCO	GO:0005886	plasma membrane
+14532352	P0C5C1	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P63671	CCO	GO:0005618	cell wall
+14532352	P63671	CCO	GO:0005886	plasma membrane
+12657046	P63671	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64807	CCO	GO:0005886	plasma membrane
+14532352	P64807	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P71558	CCO	GO:0005618	cell wall
+15525680	P71558	CCO	GO:0005829	cytosol
+15525680	P71558	CCO	GO:0005886	plasma membrane
+14532352	P71558	CCO	GO:0005886	plasma membrane
+12657046	P71558	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5P0	CCO	GO:0005829	cytosol
+14532352	P0A5P0	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q79FX8	CCO	GO:0005618	cell wall
+14532352	Q79FX8	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64301	CCO	GO:0005618	cell wall
+14532352	P64301	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P60796	CCO	GO:0005886	plasma membrane
+14532352	P60796	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O06189	CCO	GO:0005618	cell wall
+15525680	O06189	CCO	GO:0005829	cytosol
+14532352	O06189	CCO	GO:0005886	plasma membrane
+12657046	O06189	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96293	CCO	GO:0005618	cell wall
+14532352	P96293	CCO	GO:0005886	plasma membrane
+12657046	P96293	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96888	CCO	GO:0005618	cell wall
+15525680	P96888	CCO	GO:0005829	cytosol
+14532352	P96888	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64921	CCO	GO:0005618	cell wall
+14532352	P64921	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33263	CCO	GO:0005829	cytosol
+15525680	O33263	CCO	GO:0005886	plasma membrane
+14532352	O33263	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96851	CCO	GO:0005618	cell wall
+14532352	P96851	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q11198	CCO	GO:0005829	cytosol
+14532352	Q11198	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66537	CCO	GO:0005886	plasma membrane
+14532352	P66537	CCO	GO:0005886	plasma membrane
+12657046	P66537	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53753	CCO	GO:0005829	cytosol
+15525680	O53753	CCO	GO:0005886	plasma membrane
+14532352	O53753	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95150	CCO	GO:0005886	plasma membrane
+14532352	P95150	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53718	CCO	GO:0005618	cell wall
+14532352	O53718	CCO	GO:0005886	plasma membrane
+12657046	O53718	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05777	CCO	GO:0005886	plasma membrane
+14532352	O05777	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O05842	CCO	GO:0005829	cytosol
+14532352	O05842	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53979	CCO	GO:0005886	plasma membrane
+14532352	O53979	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O06209	CCO	GO:0005886	plasma membrane
+14532352	O06209	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P95052	CCO	GO:0005886	plasma membrane
+14532352	P95052	CCO	GO:0005886	plasma membrane
+12657046	P95052	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96821	CCO	GO:0005829	cytosol
+14532352	P96821	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O07427	CCO	GO:0005618	cell wall
+15525680	O07427	CCO	GO:0005886	plasma membrane
+14532352	O07427	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71734	CCO	GO:0005886	plasma membrane
+14532352	P71734	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O05793	CCO	GO:0005618	cell wall
+15525680	O05793	CCO	GO:0005829	cytosol
+14532352	O05793	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50460	CCO	GO:0005618	cell wall
+14532352	O50460	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95302	CCO	GO:0005886	plasma membrane
+14532352	P95302	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53442	CCO	GO:0005829	cytosol
+15525680	O53442	CCO	GO:0005886	plasma membrane
+14532352	O53442	CCO	GO:0005886	plasma membrane
+12657046	O53442	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5X6	CCO	GO:0005886	plasma membrane
+14532352	P0A5X6	CCO	GO:0005886	plasma membrane
+12657046	P0A5X6	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P75019	CCO	GO:0005886	plasma membrane
+14532352	P75019	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53624	CCO	GO:0005618	cell wall
+14532352	O53624	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53842	CCO	GO:0005618	cell wall
+15525680	O53842	CCO	GO:0005829	cytosol
+14532352	O53842	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10788	CCO	GO:0005829	cytosol
+15525680	Q10788	CCO	GO:0005886	plasma membrane
+14532352	Q10788	CCO	GO:0005886	plasma membrane
+12657046	Q10788	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0C5C4	CCO	GO:0005886	plasma membrane
+14532352	P0C5C4	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	Q50464	CCO	GO:0005886	plasma membrane
+14532352	Q50464	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O06172	CCO	GO:0005829	cytosol
+14532352	O06172	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95192	CCO	GO:0005886	plasma membrane
+14532352	P95192	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53699	CCO	GO:0005618	cell wall
+14532352	O53699	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64097	CCO	GO:0005829	cytosol
+14532352	P64097	CCO	GO:0005886	plasma membrane
+12657046	P64097	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53371	CCO	GO:0005886	plasma membrane
+14532352	O53371	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O07256	CCO	GO:0005886	plasma membrane
+14532352	O07256	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P66940	CCO	GO:0005829	cytosol
+14532352	P66940	CCO	GO:0005886	plasma membrane
+12657046	P66940	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5N2	CCO	GO:0005618	cell wall
+14532352	P0A5N2	CCO	GO:0005886	plasma membrane
+12657046	P0A5N2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53286	CCO	GO:0005886	plasma membrane
+14532352	O53286	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P71621	CCO	GO:0005829	cytosol
+14532352	P71621	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33244	CCO	GO:0005618	cell wall
+14532352	O33244	CCO	GO:0005886	plasma membrane
+12657046	O33244	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71814	CCO	GO:0005886	plasma membrane
+14532352	P71814	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	Q11049	CCO	GO:0005886	plasma membrane
+14532352	Q11049	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P64014	CCO	GO:0005618	cell wall
+14532352	P64014	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86353	CCO	GO:0005829	cytosol
+15525680	O86353	CCO	GO:0005886	plasma membrane
+14532352	O86353	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5I8	CCO	GO:0005886	plasma membrane
+14532352	P0A5I8	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P96932	CCO	GO:0005829	cytosol
+15525680	P96932	CCO	GO:0005886	plasma membrane
+14532352	P96932	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5Z6	CCO	GO:0005829	cytosol
+14532352	P0A5Z6	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65306	CCO	GO:0005618	cell wall
+14532352	P65306	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96907	CCO	GO:0005829	cytosol
+14532352	P96907	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5C3	CCO	GO:0005618	cell wall
+14532352	P0A5C3	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P60729	CCO	GO:0005829	cytosol
+14532352	P60729	CCO	GO:0005886	plasma membrane
+12657046	P60729	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65718	CCO	GO:0005829	cytosol
+14532352	P65718	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O07431	CCO	GO:0005886	plasma membrane
+14532352	O07431	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P66574	CCO	GO:0005829	cytosol
+14532352	P66574	CCO	GO:0005886	plasma membrane
+12657046	P66574	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96227	CCO	GO:0005886	plasma membrane
+14532352	P96227	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P60442	CCO	GO:0005829	cytosol
+14532352	P60442	CCO	GO:0005886	plasma membrane
+12657046	P60442	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95193	CCO	GO:0005829	cytosol
+15525680	P95193	CCO	GO:0005886	plasma membrane
+14532352	P95193	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63783	CCO	GO:0005829	cytosol
+15525680	P63783	CCO	GO:0005886	plasma membrane
+14532352	P63783	CCO	GO:0005886	plasma membrane
+12657046	P63783	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95109	CCO	GO:0005618	cell wall
+15525680	P95109	CCO	GO:0005886	plasma membrane
+14532352	P95109	CCO	GO:0005886	plasma membrane
+12657046	P95109	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53457	CCO	GO:0005829	cytosol
+14532352	O53457	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P17670	CCO	GO:0005829	cytosol
+15525680	P17670	CCO	GO:0005886	plasma membrane
+14532352	P17670	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06143	CCO	GO:0005886	plasma membrane
+14532352	O06143	CCO	GO:0005886	plasma membrane
+12657046	O06143	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53661	CCO	GO:0005886	plasma membrane
+14532352	O53661	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O06325	CCO	GO:0005829	cytosol
+15525680	O06325	CCO	GO:0005886	plasma membrane
+14532352	O06325	CCO	GO:0005886	plasma membrane
+12657046	O06325	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65135	CCO	GO:0005886	plasma membrane
+14532352	P65135	CCO	GO:0005886	plasma membrane
+12657046	P65135	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A526	CCO	GO:0005829	cytosol
+14532352	P0A526	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5P6	CCO	GO:0005618	cell wall
+15525680	P0A5P6	CCO	GO:0005829	cytosol
+14532352	P0A5P6	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33202	CCO	GO:0005618	cell wall
+15525680	O33202	CCO	GO:0005886	plasma membrane
+14532352	O33202	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53749	CCO	GO:0005618	cell wall
+14532352	O53749	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71658	CCO	GO:0005618	cell wall
+15525680	P71658	CCO	GO:0005829	cytosol
+14532352	P71658	CCO	GO:0005886	plasma membrane
+12657046	P71658	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71738	CCO	GO:0005886	plasma membrane
+14532352	P71738	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O53598	CCO	GO:0005829	cytosol
+14532352	O53598	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53730	CCO	GO:0005886	plasma membrane
+14532352	O53730	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O07421	CCO	GO:0005886	plasma membrane
+14532352	O07421	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P64685	CCO	GO:0005886	plasma membrane
+14532352	P64685	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P67214	CCO	GO:0005886	plasma membrane
+14532352	P67214	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P65762	CCO	GO:0005829	cytosol
+14532352	P65762	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96237	CCO	GO:0005829	cytosol
+15525680	P96237	CCO	GO:0005886	plasma membrane
+14532352	P96237	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86337	CCO	GO:0005829	cytosol
+14532352	O86337	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5V4	CCO	GO:0005618	cell wall
+14532352	P0A5V4	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66311	CCO	GO:0005618	cell wall
+14532352	P66311	CCO	GO:0005886	plasma membrane
+12657046	P66311	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66044	CCO	GO:0005886	plasma membrane
+14532352	P66044	CCO	GO:0005886	plasma membrane
+12657046	P66044	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64279	CCO	GO:0005829	cytosol
+14532352	P64279	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67380	CCO	GO:0005829	cytosol
+15525680	P67380	CCO	GO:0005886	plasma membrane
+14532352	P67380	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65746	CCO	GO:0005829	cytosol
+14532352	P65746	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53226	CCO	GO:0005829	cytosol
+14532352	O53226	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P41194	CCO	GO:0005829	cytosol
+15525680	P41194	CCO	GO:0005886	plasma membrane
+14532352	P41194	CCO	GO:0005886	plasma membrane
+12657046	P41194	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71589	CCO	GO:0005886	plasma membrane
+14532352	P71589	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P66315	CCO	GO:0005618	cell wall
+15525680	P66315	CCO	GO:0005829	cytosol
+14532352	P66315	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71854	CCO	GO:0005886	plasma membrane
+14532352	P71854	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	O33283	CCO	GO:0005886	plasma membrane
+14532352	O33283	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P66065	CCO	GO:0005829	cytosol
+14532352	P66065	CCO	GO:0005886	plasma membrane
+12657046	P66065	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5B7	CCO	GO:0005618	cell wall
+15525680	P0A5B7	CCO	GO:0005829	cytosol
+15525680	P0A5B7	CCO	GO:0005886	plasma membrane
+14532352	P0A5B7	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06186	CCO	GO:0005829	cytosol
+14532352	O06186	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86340	CCO	GO:0005618	cell wall
+15525680	O86340	CCO	GO:0005829	cytosol
+14532352	O86340	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71665	CCO	GO:0005886	plasma membrane
+14532352	P71665	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P96228	CCO	GO:0005618	cell wall
+14532352	P96228	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06389	CCO	GO:0005829	cytosol
+15525680	O06389	CCO	GO:0005886	plasma membrane
+14532352	O06389	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5V2	CCO	GO:0005618	cell wall
+15525680	P0A5V2	CCO	GO:0005829	cytosol
+15525680	P0A5V2	CCO	GO:0005886	plasma membrane
+14532352	P0A5V2	CCO	GO:0005886	plasma membrane
+12657046	P0A5V2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A616	CCO	GO:0005829	cytosol
+14532352	P0A616	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A4W6	CCO	GO:0005618	cell wall
+15525680	P0A4W6	CCO	GO:0005829	cytosol
+15525680	P0A4W6	CCO	GO:0005886	plasma membrane
+14532352	P0A4W6	CCO	GO:0005886	plasma membrane
+12657046	P0A4W6	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65648	CCO	GO:0005618	cell wall
+15525680	P65648	CCO	GO:0005829	cytosol
+14532352	P65648	CCO	GO:0005886	plasma membrane
+12657046	P65648	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5X0	CCO	GO:0005829	cytosol
+14532352	P0A5X0	CCO	GO:0005886	plasma membrane
+12657046	P0A5X0	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P09621	CCO	GO:0005618	cell wall
+15525680	P09621	CCO	GO:0005829	cytosol
+14532352	P09621	CCO	GO:0005886	plasma membrane
+12657046	P09621	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A566	CCO	GO:0005618	cell wall
+15525680	P0A566	CCO	GO:0005886	plasma membrane
+14532352	P0A566	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95051	CCO	GO:0005829	cytosol
+14532352	P95051	CCO	GO:0005886	plasma membrane
+12657046	P95051	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96363	CCO	GO:0005618	cell wall
+14532352	P96363	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05300	CCO	GO:0005618	cell wall
+14532352	O05300	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64887	CCO	GO:0005829	cytosol
+14532352	P64887	CCO	GO:0005886	plasma membrane
+12657046	P64887	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95242	CCO	GO:0005618	cell wall
+14532352	P95242	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66429	CCO	GO:0005886	plasma membrane
+14532352	P66429	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 True
+#
+15525680	P66465	CCO	GO:0005618	cell wall
+14532352	P66465	CCO	GO:0005886	plasma membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P94996	CCO	GO:0005829	cytosol
+15525680	P94996	CCO	GO:0005886	plasma membrane
+12657046	P94996	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96271	CCO	GO:0005829	cytosol
+15525680	P96271	CCO	GO:0005886	plasma membrane
+12657046	P96271	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96419	CCO	GO:0005886	plasma membrane
+12657046	P96419	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50463	CCO	GO:0005886	plasma membrane
+12657046	O50463	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95127	CCO	GO:0005618	cell wall
+15525680	P95127	CCO	GO:0005886	plasma membrane
+12657046	P95127	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53347	CCO	GO:0005886	plasma membrane
+12657046	O53347	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P72030	CCO	GO:0005618	cell wall
+15525680	P72030	CCO	GO:0005886	plasma membrane
+12657046	P72030	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P72059	CCO	GO:0005829	cytosol
+12657046	P72059	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53735	CCO	GO:0005618	cell wall
+15525680	O53735	CCO	GO:0005886	plasma membrane
+12657046	O53735	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67599	CCO	GO:0005618	cell wall
+15525680	P67599	CCO	GO:0005829	cytosol
+15525680	P67599	CCO	GO:0005886	plasma membrane
+12657046	P67599	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64795	CCO	GO:0005886	plasma membrane
+12657046	P64795	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71715	CCO	GO:0005618	cell wall
+15525680	P71715	CCO	GO:0005829	cytosol
+12657046	P71715	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67125	CCO	GO:0005829	cytosol
+12657046	P67125	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O33290	CCO	GO:0005618	cell wall
+15525680	O33290	CCO	GO:0005829	cytosol
+12657046	O33290	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5A3	CCO	GO:0005618	cell wall
+15525680	P0A5A3	CCO	GO:0005886	plasma membrane
+12657046	P0A5A3	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65728	CCO	GO:0005886	plasma membrane
+12657046	P65728	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10625	CCO	GO:0005886	plasma membrane
+12657046	Q10625	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63973	CCO	GO:0005618	cell wall
+15525680	P63973	CCO	GO:0005829	cytosol
+15525680	P63973	CCO	GO:0005886	plasma membrane
+12657046	P63973	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71538	CCO	GO:0005886	plasma membrane
+12657046	P71538	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64247	CCO	GO:0005829	cytosol
+15525680	P64247	CCO	GO:0005886	plasma membrane
+12657046	P64247	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67426	CCO	GO:0005618	cell wall
+15525680	P67426	CCO	GO:0005886	plasma membrane
+12657046	P67426	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96420	CCO	GO:0005886	plasma membrane
+12657046	P96420	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P72058	CCO	GO:0005886	plasma membrane
+12657046	P72058	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63962	CCO	GO:0005886	plasma membrane
+12657046	P63962	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O07239	CCO	GO:0005886	plasma membrane
+12657046	O07239	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10600	CCO	GO:0005886	plasma membrane
+12657046	Q10600	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05889	CCO	GO:0005886	plasma membrane
+12657046	O05889	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05814	CCO	GO:0005618	cell wall
+15525680	O05814	CCO	GO:0005886	plasma membrane
+12657046	O05814	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53639	CCO	GO:0005886	plasma membrane
+12657046	O53639	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63393	CCO	GO:0005829	cytosol
+15525680	P63393	CCO	GO:0005886	plasma membrane
+12657046	P63393	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96408	CCO	GO:0005886	plasma membrane
+12657046	P96408	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q50496	CCO	GO:0005829	cytosol
+12657046	Q50496	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q6MX34	CCO	GO:0005886	plasma membrane
+12657046	Q6MX34	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05316	CCO	GO:0005829	cytosol
+15525680	O05316	CCO	GO:0005886	plasma membrane
+12657046	O05316	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06421	CCO	GO:0005886	plasma membrane
+12657046	O06421	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67569	CCO	GO:0005829	cytosol
+15525680	P67569	CCO	GO:0005886	plasma membrane
+12657046	P67569	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66911	CCO	GO:0005829	cytosol
+15525680	P66911	CCO	GO:0005886	plasma membrane
+12657046	P66911	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50442	CCO	GO:0005618	cell wall
+12657046	O50442	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65167	CCO	GO:0005886	plasma membrane
+12657046	P65167	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06291	CCO	GO:0005886	plasma membrane
+12657046	O06291	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66844	CCO	GO:0005618	cell wall
+15525680	P66844	CCO	GO:0005886	plasma membrane
+12657046	P66844	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05593	CCO	GO:0005886	plasma membrane
+12657046	O05593	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53895	CCO	GO:0005886	plasma membrane
+12657046	O53895	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P68909	CCO	GO:0005886	plasma membrane
+12657046	P68909	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06585	CCO	GO:0005886	plasma membrane
+12657046	O06585	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96872	CCO	GO:0005886	plasma membrane
+12657046	P96872	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A636	CCO	GO:0005886	plasma membrane
+12657046	P0A636	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06222	CCO	GO:0005829	cytosol
+12657046	O06222	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53525	CCO	GO:0005829	cytosol
+12657046	O53525	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A634	CCO	GO:0005829	cytosol
+12657046	P0A634	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71639	CCO	GO:0005618	cell wall
+15525680	P71639	CCO	GO:0005829	cytosol
+15525680	P71639	CCO	GO:0005886	plasma membrane
+12657046	P71639	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64057	CCO	GO:0005618	cell wall
+15525680	P64057	CCO	GO:0005886	plasma membrane
+12657046	P64057	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05591	CCO	GO:0005886	plasma membrane
+12657046	O05591	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q7D785	CCO	GO:0005886	plasma membrane
+12657046	Q7D785	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5M4	CCO	GO:0005618	cell wall
+12657046	P0A5M4	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53485	CCO	GO:0005886	plasma membrane
+12657046	O53485	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71619	CCO	GO:0005886	plasma membrane
+12657046	P71619	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65726	CCO	GO:0005829	cytosol
+12657046	P65726	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A528	CCO	GO:0005618	cell wall
+12657046	P0A528	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67611	CCO	GO:0005886	plasma membrane
+12657046	P67611	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67733	CCO	GO:0005886	plasma membrane
+12657046	P67733	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O69679	CCO	GO:0005829	cytosol
+12657046	O69679	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63826	CCO	GO:0005829	cytosol
+12657046	P63826	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06278	CCO	GO:0005886	plasma membrane
+12657046	O06278	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A548	CCO	GO:0005618	cell wall
+15525680	P0A548	CCO	GO:0005886	plasma membrane
+12657046	P0A548	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64749	CCO	GO:0005829	cytosol
+12657046	P64749	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50401	CCO	GO:0005886	plasma membrane
+12657046	O50401	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71559	CCO	GO:0005618	cell wall
+15525680	P71559	CCO	GO:0005829	cytosol
+12657046	P71559	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53522	CCO	GO:0005886	plasma membrane
+12657046	O53522	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A678	CCO	GO:0005618	cell wall
+15525680	P0A678	CCO	GO:0005886	plasma membrane
+12657046	P0A678	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5J8	CCO	GO:0005886	plasma membrane
+12657046	P0A5J8	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06812	CCO	GO:0005829	cytosol
+12657046	O06812	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95114	CCO	GO:0005886	plasma membrane
+12657046	P95114	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05804	CCO	GO:0005886	plasma membrane
+12657046	O05804	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53825	CCO	GO:0005886	plasma membrane
+12657046	O53825	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66902	CCO	GO:0005829	cytosol
+15525680	P66902	CCO	GO:0005886	plasma membrane
+12657046	P66902	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71620	CCO	GO:0005829	cytosol
+12657046	P71620	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05786	CCO	GO:0005886	plasma membrane
+12657046	O05786	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53605	CCO	GO:0005829	cytosol
+12657046	O53605	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O69628	CCO	GO:0005829	cytosol
+12657046	O69628	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A576	CCO	GO:0005886	plasma membrane
+12657046	P0A576	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5R2	CCO	GO:0005886	plasma membrane
+12657046	P0A5R2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65429	CCO	GO:0005886	plasma membrane
+12657046	P65429	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71636	CCO	GO:0005618	cell wall
+12657046	P71636	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06329	CCO	GO:0005618	cell wall
+12657046	O06329	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O50444	CCO	GO:0005618	cell wall
+12657046	O50444	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06298	CCO	GO:0005618	cell wall
+12657046	O06298	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q59563	CCO	GO:0005829	cytosol
+15525680	Q59563	CCO	GO:0005886	plasma membrane
+12657046	Q59563	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96374	CCO	GO:0005886	plasma membrane
+12657046	P96374	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64168	CCO	GO:0005829	cytosol
+12657046	P64168	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P64336	CCO	GO:0005886	plasma membrane
+12657046	P64336	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66895	CCO	GO:0005829	cytosol
+12657046	P66895	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O05576	CCO	GO:0005886	plasma membrane
+12657046	O05576	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A562	CCO	GO:0005829	cytosol
+12657046	P0A562	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65846	CCO	GO:0005618	cell wall
+12657046	P65846	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P60479	CCO	GO:0005886	plasma membrane
+12657046	P60479	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5Q8	CCO	GO:0005886	plasma membrane
+12657046	P0A5Q8	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A632	CCO	GO:0005886	plasma membrane
+12657046	P0A632	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66883	CCO	GO:0005618	cell wall
+12657046	P66883	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O53221	CCO	GO:0005618	cell wall
+12657046	O53221	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O69626	CCO	GO:0005886	plasma membrane
+12657046	O69626	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65668	CCO	GO:0005886	plasma membrane
+12657046	P65668	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q50701	CCO	GO:0005886	plasma membrane
+12657046	Q50701	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10405	CCO	GO:0005886	plasma membrane
+12657046	Q10405	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67669	CCO	GO:0005829	cytosol
+12657046	P67669	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P71725	CCO	GO:0005886	plasma membrane
+12657046	P71725	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10513	CCO	GO:0005618	cell wall
+15525680	Q10513	CCO	GO:0005886	plasma membrane
+12657046	Q10513	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	Q10404	CCO	GO:0005886	plasma membrane
+12657046	Q10404	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P95126	CCO	GO:0005886	plasma membrane
+12657046	P95126	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O06578	CCO	GO:0005886	plasma membrane
+12657046	O06578	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P61181	CCO	GO:0005618	cell wall
+12657046	P61181	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P65865	CCO	GO:0005886	plasma membrane
+12657046	P65865	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	O86338	CCO	GO:0005618	cell wall
+12657046	O86338	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P67487	CCO	GO:0005829	cytosol
+12657046	P67487	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66056	CCO	GO:0005618	cell wall
+12657046	P66056	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P96927	CCO	GO:0005618	cell wall
+12657046	P96927	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P60627	CCO	GO:0005618	cell wall
+12657046	P60627	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66127	CCO	GO:0005618	cell wall
+15525680	P66127	CCO	GO:0005886	plasma membrane
+12657046	P66127	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P66505	CCO	GO:0005829	cytosol
+12657046	P66505	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P0A5H5	CCO	GO:0005886	plasma membrane
+12657046	P0A5H5	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+15525680	P63848	CCO	GO:0005618	cell wall
+12657046	P63848	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63977	CCO	GO:0005886	plasma membrane
+12657046	P63977	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P69942	CCO	GO:0005886	plasma membrane
+12657046	P69942	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63391	CCO	GO:0005886	plasma membrane
+12657046	P63391	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A556	CCO	GO:0005886	plasma membrane
+12657046	P0A556	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P67582	CCO	GO:0005886	plasma membrane
+12657046	P67582	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A5U2	CCO	GO:0005886	plasma membrane
+12657046	P0A5U2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P95194	CCO	GO:0005886	plasma membrane
+12657046	P95194	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64192	CCO	GO:0005886	plasma membrane
+12657046	P64192	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P67541	CCO	GO:0005886	plasma membrane
+12657046	P67541	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53578	CCO	GO:0005886	plasma membrane
+12657046	O53578	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P67001	CCO	GO:0005886	plasma membrane
+12657046	P67001	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64199	CCO	GO:0005886	plasma membrane
+12657046	P64199	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63506	CCO	GO:0005886	plasma membrane
+12657046	P63506	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53695	CCO	GO:0005886	plasma membrane
+12657046	O53695	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63629	CCO	GO:0005886	plasma membrane
+12657046	P63629	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O86315	CCO	GO:0005886	plasma membrane
+12657046	O86315	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P96377	CCO	GO:0005886	plasma membrane
+12657046	P96377	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O05296	CCO	GO:0005886	plasma membrane
+12657046	O05296	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A4Z8	CCO	GO:0005886	plasma membrane
+12657046	P0A4Z8	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P67561	CCO	GO:0005886	plasma membrane
+12657046	P67561	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63516	CCO	GO:0005886	plasma membrane
+12657046	P63516	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P67017	CCO	GO:0005886	plasma membrane
+12657046	P67017	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P65700	CCO	GO:0005886	plasma membrane
+12657046	P65700	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P95186	CCO	GO:0005886	plasma membrane
+12657046	P95186	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64170	CCO	GO:0005886	plasma membrane
+12657046	P64170	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63514	CCO	GO:0005886	plasma membrane
+12657046	P63514	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66992	CCO	GO:0005886	plasma membrane
+12657046	P66992	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63854	CCO	GO:0005886	plasma membrane
+12657046	P63854	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64699	CCO	GO:0005886	plasma membrane
+12657046	P64699	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A5M2	CCO	GO:0005886	plasma membrane
+12657046	P0A5M2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A542	CCO	GO:0005886	plasma membrane
+12657046	P0A542	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P94984	CCO	GO:0005886	plasma membrane
+12657046	P94984	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P65089	CCO	GO:0005886	plasma membrane
+12657046	P65089	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P67590	CCO	GO:0005886	plasma membrane
+12657046	P67590	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06428	CCO	GO:0005886	plasma membrane
+12657046	O06428	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53696	CCO	GO:0005886	plasma membrane
+12657046	O53696	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O33207	CCO	GO:0005886	plasma membrane
+12657046	O33207	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	Q6MWV3	CCO	GO:0005886	plasma membrane
+12657046	Q6MWV3	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63810	CCO	GO:0005886	plasma membrane
+12657046	P63810	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	Q50639	CCO	GO:0005886	plasma membrane
+12657046	Q50639	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	Q7D4V6	CCO	GO:0005886	plasma membrane
+12657046	Q7D4V6	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06813	CCO	GO:0005886	plasma membrane
+12657046	O06813	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53583	CCO	GO:0005886	plasma membrane
+12657046	O53583	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	Q7D5T2	CCO	GO:0005886	plasma membrane
+12657046	Q7D5T2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63945	CCO	GO:0005886	plasma membrane
+12657046	P63945	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	Q11141	CCO	GO:0005886	plasma membrane
+12657046	Q11141	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A4Y6	CCO	GO:0005886	plasma membrane
+12657046	P0A4Y6	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O33245	CCO	GO:0005886	plasma membrane
+12657046	O33245	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63897	CCO	GO:0005886	plasma membrane
+12657046	P63897	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P72017	CCO	GO:0005886	plasma membrane
+12657046	P72017	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	Q6MWW2	CCO	GO:0005886	plasma membrane
+12657046	Q6MWW2	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P60759	CCO	GO:0005886	plasma membrane
+12657046	P60759	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64997	CCO	GO:0005886	plasma membrane
+12657046	P64997	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P95124	CCO	GO:0005886	plasma membrane
+12657046	P95124	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O50385	CCO	GO:0005886	plasma membrane
+12657046	O50385	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66873	CCO	GO:0005886	plasma membrane
+12657046	P66873	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P72047	CCO	GO:0005886	plasma membrane
+12657046	P72047	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66980	CCO	GO:0005886	plasma membrane
+12657046	P66980	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53154	CCO	GO:0005886	plasma membrane
+12657046	O53154	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O07181	CCO	GO:0005886	plasma membrane
+12657046	O07181	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P65929	CCO	GO:0005886	plasma membrane
+12657046	P65929	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P95189	CCO	GO:0005886	plasma membrane
+12657046	P95189	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O33272	CCO	GO:0005886	plasma membrane
+12657046	O33272	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66783	CCO	GO:0005886	plasma membrane
+12657046	P66783	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53516	CCO	GO:0005886	plasma membrane
+12657046	O53516	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A638	CCO	GO:0005886	plasma membrane
+12657046	P0A638	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P96864	CCO	GO:0005886	plasma membrane
+12657046	P96864	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P65902	CCO	GO:0005886	plasma membrane
+12657046	P65902	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06406	CCO	GO:0005886	plasma membrane
+12657046	O06406	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06392	CCO	GO:0005886	plasma membrane
+12657046	O06392	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06391	CCO	GO:0005886	plasma membrane
+12657046	O06391	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P65277	CCO	GO:0005886	plasma membrane
+12657046	P65277	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06201	CCO	GO:0005886	plasma membrane
+12657046	O06201	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P62403	CCO	GO:0005886	plasma membrane
+12657046	P62403	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O53167	CCO	GO:0005886	plasma membrane
+12657046	O53167	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66734	CCO	GO:0005886	plasma membrane
+12657046	P66734	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06422	CCO	GO:0005886	plasma membrane
+12657046	O06422	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63656	CCO	GO:0005886	plasma membrane
+12657046	P63656	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P65161	CCO	GO:0005886	plasma membrane
+12657046	P65161	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64797	CCO	GO:0005886	plasma membrane
+12657046	P64797	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P64731	CCO	GO:0005886	plasma membrane
+12657046	P64731	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P96926	CCO	GO:0005886	plasma membrane
+12657046	P96926	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	O06326	CCO	GO:0005886	plasma membrane
+12657046	O06326	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P95056	CCO	GO:0005886	plasma membrane
+12657046	P95056	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P95058	CCO	GO:0005886	plasma membrane
+12657046	P95058	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66069	CCO	GO:0005886	plasma membrane
+12657046	P66069	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P63662	CCO	GO:0005886	plasma membrane
+12657046	P63662	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66080	CCO	GO:0005886	plasma membrane
+12657046	P66080	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P66117	CCO	GO:0005886	plasma membrane
+12657046	P66117	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#
+14532352	P0A5X4	CCO	GO:0005886	plasma membrane
+12657046	P0A5X4	BPO	GO:0040007	growth
+ 	 	 	 	This group has identical annotations:	 False
+#

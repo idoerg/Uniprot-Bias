@@ -1,0 +1,3951 @@
+#
+18614015	Q6PB66	CCO	GO:0005739	mitochondrion
+14651853	Q6PB66	CCO	GO:0005739	mitochondrion
+14651853	Q6PB66	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QN13	CCO	GO:0005739	mitochondrion
+14651853	E9QN13	CCO	GO:0005739	mitochondrion
+12865426	E9QN13	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UG70	CCO	GO:0005739	mitochondrion
+14651853	Q3UG70	CCO	GO:0005739	mitochondrion
+12865426	Q3UG70	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UZX3	CCO	GO:0005739	mitochondrion
+14651853	Q3UZX3	CCO	GO:0005739	mitochondrion
+12865426	Q3UZX3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q75WC0	CCO	GO:0005739	mitochondrion
+14651853	Q75WC0	CCO	GO:0005739	mitochondrion
+12865426	Q75WC0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q3V3C0	CCO	GO:0005739	mitochondrion
+18614015	Q3V3C0	CCO	GO:0005739	mitochondrion
+14651853	Q8BKF1	CCO	GO:0005739	mitochondrion
+18614015	Q8BKF1	CCO	GO:0005739	mitochondrion
+18614015	Q3U3J3	CCO	GO:0005739	mitochondrion
+14651853	Q3U3J3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QPD7	CCO	GO:0005739	mitochondrion
+14651853	E9QPD7	CCO	GO:0005739	mitochondrion
+12865426	E9QPD7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UFS6	CCO	GO:0005739	mitochondrion
+14651853	Q3UFS6	CCO	GO:0005739	mitochondrion
+12865426	Q3UFS6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9PWD9	CCO	GO:0005739	mitochondrion
+14651853	E9PWD9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q8F2	CCO	GO:0005739	mitochondrion
+14651853	E9Q8F2	CCO	GO:0005739	mitochondrion
+12865426	E9Q8F2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q8F3	CCO	GO:0005739	mitochondrion
+14651853	E9Q8F3	CCO	GO:0005739	mitochondrion
+12865426	E9Q8F3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8C1W8	CCO	GO:0005739	mitochondrion
+14651853	Q8C1W8	CCO	GO:0005739	mitochondrion
+12865426	Q8C1W8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8K370	CCO	GO:0005739	mitochondrion
+14651853	Q8K370	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q5SVY0	CCO	GO:0005739	mitochondrion
+14651853	Q5SVY0	CCO	GO:0005739	mitochondrion
+14651853	Q5SVY1	CCO	GO:0005739	mitochondrion
+18614015	Q5SVY1	CCO	GO:0005739	mitochondrion
+14651853	Q60597	CCO	GO:0005739	mitochondrion
+18614015	Q60597	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BIJ6	CCO	GO:0005739	mitochondrion
+14651853	Q8BIJ6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B4YB29	CCO	GO:0005739	mitochondrion
+14651853	B4YB29	CCO	GO:0005739	mitochondrion
+14651853	P17710	CCO	GO:0005739	mitochondrion
+18614015	P17710	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PW11	CCO	GO:0005739	mitochondrion
+14651853	E9PW11	CCO	GO:0005739	mitochondrion
+12865426	E9PW11	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P58281	CCO	GO:0005739	mitochondrion
+14651853	P58281	CCO	GO:0005739	mitochondrion
+12865426	P58281	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q120	CCO	GO:0005739	mitochondrion
+14651853	E9Q120	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8CGK3	CCO	GO:0005739	mitochondrion
+14651853	Q8CGK3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F8WIP2	CCO	GO:0005739	mitochondrion
+14651853	F8WIP2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6YW06	CCO	GO:0005739	mitochondrion
+14651853	F6YW06	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TW74	CCO	GO:0005739	mitochondrion
+14651853	Q3TW74	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q922D8	CCO	GO:0005739	mitochondrion
+14651853	Q922D8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q3TWI2	CCO	GO:0005739	mitochondrion
+18614015	Q3TWI2	CCO	GO:0005739	mitochondrion
+14651853	A2AH53	CCO	GO:0005739	mitochondrion
+18614015	A2AH53	CCO	GO:0005739	mitochondrion
+18614015	A2AH52	CCO	GO:0005739	mitochondrion
+14651853	A2AH52	CCO	GO:0005739	mitochondrion
+14651853	A2AH55	CCO	GO:0005739	mitochondrion
+18614015	A2AH55	CCO	GO:0005739	mitochondrion
+14651853	Q99LB7	CCO	GO:0005739	mitochondrion
+14651853	Q99LB7	CCO	GO:0005739	mitochondrion
+18614015	Q99LB7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q6GQU1	CCO	GO:0005739	mitochondrion
+18614015	Q6GQU1	CCO	GO:0005739	mitochondrion
+18614015	Q3TTB4	CCO	GO:0005739	mitochondrion
+14651853	Q3TTB4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UVV4	CCO	GO:0005739	mitochondrion
+14651853	G3UVV4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E0CY15	CCO	GO:0005739	mitochondrion
+14651853	E0CY15	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8VDC0	CCO	GO:0005739	mitochondrion
+14651853	Q8VDC0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DBT9	CCO	GO:0005739	mitochondrion
+14651853	Q9DBT9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O08715	CCO	GO:0005739	mitochondrion
+14651853	O08715	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BGK0	CCO	GO:0005739	mitochondrion
+14651853	Q8BGK0	CCO	GO:0005739	mitochondrion
+12865426	Q8BGK0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BP54	CCO	GO:0005739	mitochondrion
+14651853	Q8BP54	CCO	GO:0005739	mitochondrion
+12865426	Q8BP54	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q61586	CCO	GO:0005739	mitochondrion
+14651853	Q61586	CCO	GO:0005739	mitochondrion
+12865426	Q61586	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9Z110	CCO	GO:0005739	mitochondrion
+18614015	Q9Z110	CCO	GO:0005739	mitochondrion
+18614015	D3Z0B4	CCO	GO:0005739	mitochondrion
+14651853	D3Z0B4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QLA0	CCO	GO:0005739	mitochondrion
+14651853	E9QLA0	CCO	GO:0005739	mitochondrion
+14651853	Q8CAQ8	CCO	GO:0005739	mitochondrion
+18614015	Q8CAQ8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q920A7	CCO	GO:0005739	mitochondrion
+14651853	Q920A7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	D3Z1Z1	CCO	GO:0005739	mitochondrion
+18614015	D3Z1Z1	CCO	GO:0005739	mitochondrion
+14651853	D3Z342	CCO	GO:0005739	mitochondrion
+18614015	D3Z342	CCO	GO:0005739	mitochondrion
+18614015	D3YZN4	CCO	GO:0005739	mitochondrion
+14651853	D3YZN4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3ULF4	CCO	GO:0005739	mitochondrion
+14651853	Q3ULF4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99KI0	CCO	GO:0005739	mitochondrion
+14651853	Q99KI0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q7TQD5	CCO	GO:0005739	mitochondrion
+18614015	Q7TQD5	CCO	GO:0005739	mitochondrion
+12865426	Q7TQD5	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P97742	CCO	GO:0005739	mitochondrion
+14651853	P97742	CCO	GO:0005739	mitochondrion
+12865426	P97742	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UGT1	CCO	GO:0005739	mitochondrion
+14651853	Q3UGT1	CCO	GO:0005739	mitochondrion
+12865426	Q3UGT1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q393	CCO	GO:0005739	mitochondrion
+14651853	E9Q393	CCO	GO:0005739	mitochondrion
+14651853	Q924X2	CCO	GO:0005739	mitochondrion
+18614015	Q924X2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BMS1	CCO	GO:0005739	mitochondrion
+14651853	Q8BMS1	CCO	GO:0005739	mitochondrion
+12865426	Q8BMS1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	B9EHG7	CCO	GO:0005739	mitochondrion
+14651853	B9EHG7	CCO	GO:0005739	mitochondrion
+14651853	Q9JHE3	CCO	GO:0005739	mitochondrion
+18614015	Q9JHE3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8K0D5	CCO	GO:0005739	mitochondrion
+14651853	Q8K0D5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P16332	CCO	GO:0005739	mitochondrion
+14651853	P16332	CCO	GO:0005739	mitochondrion
+14651853	Q9CSI4	CCO	GO:0005739	mitochondrion
+18614015	Q9CSI4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AQR0	CCO	GO:0005739	mitochondrion
+14651853	A2AQR0	CCO	GO:0005739	mitochondrion
+12865426	A2AQR0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YXB7	CCO	GO:0005739	mitochondrion
+14651853	D3YXB7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QAY3	CCO	GO:0005739	mitochondrion
+14651853	E9QAY3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9Z2I0	CCO	GO:0005739	mitochondrion
+14651853	Q9Z2I0	CCO	GO:0005739	mitochondrion
+14651853	Q9Z2I0	CCO	GO:0005739	mitochondrion
+12865426	Q9Z2I0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P51660	CCO	GO:0005739	mitochondrion
+14651853	P51660	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PWN2	CCO	GO:0005739	mitochondrion
+14651853	E9PWN2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q64521	CCO	GO:0005739	mitochondrion
+14651853	Q64521	CCO	GO:0005739	mitochondrion
+12865426	Q64521	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q91VD9	CCO	GO:0005739	mitochondrion
+14651853	Q91VD9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q5M6W7	CCO	GO:0005739	mitochondrion
+14651853	Q5M6W7	CCO	GO:0005739	mitochondrion
+14651853	Q5M6W8	CCO	GO:0005739	mitochondrion
+18614015	Q5M6W8	CCO	GO:0005739	mitochondrion
+14651853	Q5M6W9	CCO	GO:0005739	mitochondrion
+18614015	Q5M6W9	CCO	GO:0005739	mitochondrion
+14651853	Q91YJ5	CCO	GO:0005739	mitochondrion
+18614015	Q91YJ5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BXX7	CCO	GO:0005739	mitochondrion
+14651853	Q8BXX7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UGC8	CCO	GO:0005739	mitochondrion
+14651853	Q3UGC8	CCO	GO:0005739	mitochondrion
+14651853	Q91ZA3	CCO	GO:0005739	mitochondrion
+18614015	Q91ZA3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8C9V5	CCO	GO:0005739	mitochondrion
+14651853	Q8C9V5	CCO	GO:0005739	mitochondrion
+12865426	Q8C9V5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DBM2	CCO	GO:0005739	mitochondrion
+14651853	Q9DBM2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99MR8	CCO	GO:0005739	mitochondrion
+14651853	Q99MR8	CCO	GO:0005739	mitochondrion
+12865426	Q99MR8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q8F4	CCO	GO:0005739	mitochondrion
+14651853	E9Q8F4	CCO	GO:0005739	mitochondrion
+12865426	E9Q8F4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A6H611	CCO	GO:0005739	mitochondrion
+14651853	A6H611	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9CQN1	CCO	GO:0005739	mitochondrion
+18614015	Q9CQN1	CCO	GO:0005739	mitochondrion
+18614015	Q922Z3	CCO	GO:0005739	mitochondrion
+14651853	Q922Z3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6YP65	CCO	GO:0005739	mitochondrion
+14651853	F6YP65	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	D3Z457	CCO	GO:0005739	mitochondrion
+18614015	D3Z457	CCO	GO:0005739	mitochondrion
+14651853	D3Z041	CCO	GO:0005739	mitochondrion
+18614015	D3Z041	CCO	GO:0005739	mitochondrion
+18614015	D3YVF6	CCO	GO:0005739	mitochondrion
+14651853	D3YVF6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P41216	CCO	GO:0005739	mitochondrion
+14651853	P41216	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E0CXD1	CCO	GO:0005739	mitochondrion
+14651853	E0CXD1	CCO	GO:0005739	mitochondrion
+12865426	E0CXD1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9D9S0	CCO	GO:0005739	mitochondrion
+18614015	Q9D9S0	CCO	GO:0005739	mitochondrion
+12865426	Q9D9S0	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q8JZR0	CCO	GO:0005739	mitochondrion
+18614015	Q8JZR0	CCO	GO:0005739	mitochondrion
+12865426	Q8JZR0	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q3UC67	CCO	GO:0005739	mitochondrion
+14651853	Q3UC67	CCO	GO:0005739	mitochondrion
+12865426	Q3UC67	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q800	CCO	GO:0005739	mitochondrion
+14651853	E9Q800	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P38647	CCO	GO:0005739	mitochondrion
+14651853	P38647	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q7TSZ0	CCO	GO:0005739	mitochondrion
+14651853	Q7TSZ0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6ZSC6	CCO	GO:0005739	mitochondrion
+14651853	F6ZSC6	CCO	GO:0005739	mitochondrion
+12865426	F6ZSC6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9QXX4	CCO	GO:0005739	mitochondrion
+14651853	Q9QXX4	CCO	GO:0005739	mitochondrion
+12865426	Q9QXX4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8C140	CCO	GO:0005739	mitochondrion
+14651853	Q8C140	CCO	GO:0005739	mitochondrion
+12865426	Q8C140	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8K2B3	CCO	GO:0005739	mitochondrion
+14651853	Q8K2B3	CCO	GO:0005739	mitochondrion
+12865426	Q8K2B3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	O88845	CCO	GO:0005739	mitochondrion
+14651853	O88845	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P55096	CCO	GO:0005739	mitochondrion
+14651853	P55096	CCO	GO:0005739	mitochondrion
+12865426	P55096	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DBZ6	CCO	GO:0005739	mitochondrion
+14651853	Q9DBZ6	CCO	GO:0005739	mitochondrion
+12865426	Q9DBZ6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P52825	CCO	GO:0005739	mitochondrion
+14651853	P52825	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UN55	CCO	GO:0005739	mitochondrion
+14651853	Q3UN55	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P50544	CCO	GO:0005739	mitochondrion
+18614015	P50544	CCO	GO:0005739	mitochondrion
+18614015	B1AR27	CCO	GO:0005739	mitochondrion
+14651853	B1AR27	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BMF4	CCO	GO:0005739	mitochondrion
+14651853	Q8BMF4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BH04	CCO	GO:0005739	mitochondrion
+14651853	Q8BH04	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1AR28	CCO	GO:0005739	mitochondrion
+14651853	B1AR28	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9JHS4	CCO	GO:0005739	mitochondrion
+14651853	Q9JHS4	CCO	GO:0005739	mitochondrion
+12865426	Q9JHS4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UGF0	CCO	GO:0005739	mitochondrion
+14651853	Q3UGF0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BG51	CCO	GO:0005739	mitochondrion
+14651853	Q8BG51	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P47934	CCO	GO:0005739	mitochondrion
+14651853	P47934	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q80TT4	CCO	GO:0005739	mitochondrion
+14651853	Q80TT4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8JZN5	CCO	GO:0005739	mitochondrion
+14651853	Q8JZN5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q6P8N8	CCO	GO:0005739	mitochondrion
+18614015	Q6P8N8	CCO	GO:0005739	mitochondrion
+12865426	Q6P8N8	CCO	GO:0005743	mitochondrial inner membrane
+18614015	F7BB92	CCO	GO:0005739	mitochondrion
+14651853	F7BB92	CCO	GO:0005739	mitochondrion
+12865426	F7BB92	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q6PF96	CCO	GO:0005739	mitochondrion
+14651853	Q6PF96	CCO	GO:0005739	mitochondrion
+12865426	Q6PF96	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q921G7	CCO	GO:0005739	mitochondrion
+18614015	Q921G7	CCO	GO:0005739	mitochondrion
+12865426	Q921G7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9Z0X1	CCO	GO:0005739	mitochondrion
+18614015	Q9Z0X1	CCO	GO:0005739	mitochondrion
+18614015	B1AU24	CCO	GO:0005739	mitochondrion
+14651853	B1AU24	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CZW5	CCO	GO:0005739	mitochondrion
+14651853	Q9CZW5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1AU25	CCO	GO:0005739	mitochondrion
+14651853	B1AU25	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AD89	CCO	GO:0005739	mitochondrion
+14651853	A2AD89	CCO	GO:0005739	mitochondrion
+12865426	A2AD89	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q925I1	CCO	GO:0005739	mitochondrion
+18614015	Q925I1	CCO	GO:0005739	mitochondrion
+12865426	Q925I1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99KE1	CCO	GO:0005739	mitochondrion
+14651853	Q99KE1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P08680	CCO	GO:0005739	mitochondrion
+18614015	P08680	CCO	GO:0005739	mitochondrion
+18614015	A2AFM0	CCO	GO:0005739	mitochondrion
+14651853	A2AFM0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P48760	CCO	GO:0005739	mitochondrion
+14651853	P48760	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UNX5	CCO	GO:0005739	mitochondrion
+14651853	Q3UNX5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z2F2	CCO	GO:0005739	mitochondrion
+14651853	D3Z2F2	CCO	GO:0005739	mitochondrion
+12865426	D3Z2F2	CCO	GO:0005743	mitochondrial inner membrane
+14651853	P63038	CCO	GO:0005739	mitochondrion
+18614015	P63038	CCO	GO:0005739	mitochondrion
+12865426	P63038	CCO	GO:0005743	mitochondrial inner membrane
+14651853	D3Z7J9	CCO	GO:0005739	mitochondrion
+18614015	D3Z7J9	CCO	GO:0005739	mitochondrion
+12865426	D3Z7J9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q91VA0	CCO	GO:0005739	mitochondrion
+18614015	Q91VA0	CCO	GO:0005739	mitochondrion
+18614015	D3YV36	CCO	GO:0005739	mitochondrion
+14651853	D3YV36	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AFM1	CCO	GO:0005739	mitochondrion
+14651853	A2AFM1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q785	CCO	GO:0005739	mitochondrion
+14651853	E9Q785	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q3ULD5	CCO	GO:0005739	mitochondrion
+18614015	Q3ULD5	CCO	GO:0005739	mitochondrion
+18614015	B2RUK5	CCO	GO:0005739	mitochondrion
+14651853	B2RUK5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8CHT0	CCO	GO:0005739	mitochondrion
+14651853	Q8CHT0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E0CXN8	CCO	GO:0005739	mitochondrion
+14651853	E0CXN8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PWN3	CCO	GO:0005739	mitochondrion
+14651853	E9PWN3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9CVH5	CCO	GO:0005739	mitochondrion
+18614015	Q9CVH5	CCO	GO:0005739	mitochondrion
+18614015	Q64516	CCO	GO:0005739	mitochondrion
+14651853	Q64516	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q3TSQ7	CCO	GO:0005739	mitochondrion
+18614015	Q3TSQ7	CCO	GO:0005739	mitochondrion
+12865426	Q3TSQ7	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P26443	CCO	GO:0005739	mitochondrion
+14651853	P26443	CCO	GO:0005739	mitochondrion
+12865426	P26443	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99JT1	CCO	GO:0005739	mitochondrion
+14651853	Q99JT1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z6F5	CCO	GO:0005739	mitochondrion
+14651853	D3Z6F5	CCO	GO:0005739	mitochondrion
+12865426	D3Z6F5	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q03265	CCO	GO:0005739	mitochondrion
+18614015	Q03265	CCO	GO:0005739	mitochondrion
+12865426	Q03265	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q5SWV1	CCO	GO:0005739	mitochondrion
+14651853	Q5SWV1	CCO	GO:0005739	mitochondrion
+14651853	Q9Z306	CCO	GO:0005739	mitochondrion
+18614015	Q9Z306	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BW84	CCO	GO:0005739	mitochondrion
+14651853	Q8BW84	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1ASZ3	CCO	GO:0005739	mitochondrion
+14651853	B1ASZ3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TET2	CCO	GO:0005739	mitochondrion
+14651853	Q3TET2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9EP89	CCO	GO:0005739	mitochondrion
+18614015	Q9EP89	CCO	GO:0005739	mitochondrion
+18614015	B2RWI2	CCO	GO:0005739	mitochondrion
+14651853	B2RWI2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P32020	CCO	GO:0005739	mitochondrion
+14651853	P32020	CCO	GO:0005739	mitochondrion
+11591653	P32020	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8R086	CCO	GO:0005739	mitochondrion
+14651853	Q8R086	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99MN9	CCO	GO:0005739	mitochondrion
+14651853	Q99MN9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DBF1	CCO	GO:0005739	mitochondrion
+14651853	Q9DBF1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8K0L1	CCO	GO:0005739	mitochondrion
+14651853	Q8K0L1	CCO	GO:0005739	mitochondrion
+14651853	Q9EQ20	CCO	GO:0005739	mitochondrion
+18614015	Q9EQ20	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DBG1	CCO	GO:0005739	mitochondrion
+14651853	Q9DBG1	CCO	GO:0005739	mitochondrion
+12865426	Q9DBG1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z106	CCO	GO:0005739	mitochondrion
+14651853	D3Z106	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P56480	CCO	GO:0005739	mitochondrion
+14651853	P56480	CCO	GO:0005739	mitochondrion
+12865426	P56480	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UJ53	CCO	GO:0005739	mitochondrion
+14651853	Q3UJ53	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q64133	CCO	GO:0005739	mitochondrion
+14651853	Q64133	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9QZ82	CCO	GO:0005739	mitochondrion
+14651853	Q9QZ82	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1ASZ0	CCO	GO:0005739	mitochondrion
+14651853	B1ASZ0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TEN9	CCO	GO:0005739	mitochondrion
+14651853	Q3TEN9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AFM4	CCO	GO:0005739	mitochondrion
+14651853	A2AFM4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q8BWF0	CCO	GO:0005739	mitochondrion
+14651853	Q8BWF0	CCO	GO:0005739	mitochondrion
+18614015	Q8BWF0	CCO	GO:0005739	mitochondrion
+18614015	B2RS41	CCO	GO:0005739	mitochondrion
+14651853	B2RS41	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D0K2	CCO	GO:0005739	mitochondrion
+14651853	Q9D0K2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9JJN4	CCO	GO:0005739	mitochondrion
+14651853	Q9JJN4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q544B1	CCO	GO:0005739	mitochondrion
+18614015	Q544B1	CCO	GO:0005739	mitochondrion
+18614015	P47738	CCO	GO:0005739	mitochondrion
+14651853	P47738	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TPD9	CCO	GO:0005739	mitochondrion
+14651853	Q3TPD9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CPY7	CCO	GO:0005739	mitochondrion
+14651853	Q9CPY7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AFM3	CCO	GO:0005739	mitochondrion
+14651853	A2AFM3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q68G58	CCO	GO:0005739	mitochondrion
+14651853	Q68G58	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q64441	CCO	GO:0005739	mitochondrion
+18614015	Q64441	CCO	GO:0005739	mitochondrion
+18614015	Q3TWW0	CCO	GO:0005739	mitochondrion
+14651853	Q3TWW0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F8WI53	CCO	GO:0005739	mitochondrion
+14651853	F8WI53	CCO	GO:0005739	mitochondrion
+12865426	F8WI53	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3TIE8	CCO	GO:0005739	mitochondrion
+14651853	Q3TIE8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O08749	CCO	GO:0005739	mitochondrion
+14651853	O08749	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P54869	CCO	GO:0005739	mitochondrion
+14651853	P54869	CCO	GO:0005739	mitochondrion
+12865426	P54869	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	O35084	CCO	GO:0005739	mitochondrion
+14651853	O35084	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P97807	CCO	GO:0005739	mitochondrion
+14651853	P97807	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B7ZMP1	CCO	GO:0005739	mitochondrion
+14651853	B7ZMP1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1J7	CCO	GO:0005739	mitochondrion
+14651853	E9Q1J7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CZN7	CCO	GO:0005739	mitochondrion
+14651853	Q9CZN7	CCO	GO:0005739	mitochondrion
+12865426	Q9CZN7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q5K5	CCO	GO:0005739	mitochondrion
+14651853	E9Q5K5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UWE4	CCO	GO:0005739	mitochondrion
+14651853	G3UWE4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q8BKZ9	CCO	GO:0005739	mitochondrion
+18614015	Q8BKZ9	CCO	GO:0005739	mitochondrion
+18614015	A2AWH6	CCO	GO:0005739	mitochondrion
+14651853	A2AWH6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P15539	CCO	GO:0005739	mitochondrion
+14651853	P15539	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P47791	CCO	GO:0005739	mitochondrion
+14651853	P47791	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P61922	CCO	GO:0005739	mitochondrion
+14651853	P61922	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RIP1	CCO	GO:0005739	mitochondrion
+14651853	D6RIP1	CCO	GO:0005739	mitochondrion
+12865426	D6RIP1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2A6S3	CCO	GO:0005739	mitochondrion
+14651853	A2A6S3	CCO	GO:0005739	mitochondrion
+12865426	A2A6S3	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q61578	CCO	GO:0005739	mitochondrion
+18614015	Q61578	CCO	GO:0005739	mitochondrion
+12865426	Q61578	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99J39	CCO	GO:0005739	mitochondrion
+14651853	Q99J39	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q2TPA8	CCO	GO:0005739	mitochondrion
+18614015	Q2TPA8	CCO	GO:0005739	mitochondrion
+18614015	B1AX78	CCO	GO:0005739	mitochondrion
+14651853	B1AX78	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9CXT8	CCO	GO:0005739	mitochondrion
+18614015	Q9CXT8	CCO	GO:0005739	mitochondrion
+12865426	Q9CXT8	CCO	GO:0005743	mitochondrial inner membrane
+18614015	D3Z1T9	CCO	GO:0005739	mitochondrion
+14651853	D3Z1T9	CCO	GO:0005739	mitochondrion
+12865426	D3Z1T9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UJQ9	CCO	GO:0005739	mitochondrion
+14651853	Q3UJQ9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q7TNG8	CCO	GO:0005739	mitochondrion
+14651853	Q7TNG8	CCO	GO:0005739	mitochondrion
+14651853	Q7TNG8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6ZDD7	CCO	GO:0005739	mitochondrion
+14651853	F6ZDD7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P53395	CCO	GO:0005739	mitochondrion
+14651853	P53395	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q5A1	CCO	GO:0005739	mitochondrion
+14651853	E9Q5A1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CZ13	CCO	GO:0005739	mitochondrion
+14651853	Q9CZ13	CCO	GO:0005739	mitochondrion
+12865426	Q9CZ13	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P50431	CCO	GO:0005739	mitochondrion
+14651853	P50431	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P51175	CCO	GO:0005739	mitochondrion
+14651853	P51175	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UQA3	CCO	GO:0005739	mitochondrion
+14651853	Q3UQA3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UYR8	CCO	GO:0005739	mitochondrion
+14651853	G3UYR8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99JY0	CCO	GO:0005739	mitochondrion
+14651853	Q99JY0	CCO	GO:0005739	mitochondrion
+12865426	Q99JY0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3TLZ6	CCO	GO:0005739	mitochondrion
+14651853	Q3TLZ6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QAY6	CCO	GO:0005739	mitochondrion
+14651853	E9QAY6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3U422	CCO	GO:0005739	mitochondrion
+14651853	Q3U422	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q5L3	CCO	GO:0005739	mitochondrion
+14651853	E9Q5L3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	D3Z1U9	CCO	GO:0005739	mitochondrion
+18614015	D3Z1U9	CCO	GO:0005739	mitochondrion
+12865426	D3Z1U9	CCO	GO:0005743	mitochondrial inner membrane
+14651853	D3Z0K1	CCO	GO:0005739	mitochondrion
+18614015	D3Z0K1	CCO	GO:0005739	mitochondrion
+12865426	D3Z0K1	CCO	GO:0005743	mitochondrial inner membrane
+18614015	D3YXX5	CCO	GO:0005739	mitochondrion
+14651853	D3YXX5	CCO	GO:0005739	mitochondrion
+12865426	D3YXX5	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q91YT0	CCO	GO:0005739	mitochondrion
+18614015	Q91YT0	CCO	GO:0005739	mitochondrion
+12865426	Q91YT0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CZU6	CCO	GO:0005739	mitochondrion
+14651853	Q9CZU6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q91WD5	CCO	GO:0005739	mitochondrion
+14651853	Q91WD5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9Z2I9	CCO	GO:0005739	mitochondrion
+14651853	Q9Z2I9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	G3XA75	CCO	GO:0005739	mitochondrion
+18614015	G3XA75	CCO	GO:0005739	mitochondrion
+12865426	G3XA75	CCO	GO:0005743	mitochondrial inner membrane
+18614015	F7C846	CCO	GO:0005739	mitochondrion
+14651853	F7C846	CCO	GO:0005739	mitochondrion
+12865426	F7C846	CCO	GO:0005743	mitochondrial inner membrane
+14651853	G3UXB5	CCO	GO:0005739	mitochondrion
+18614015	G3UXB5	CCO	GO:0005739	mitochondrion
+12865426	G3UXB5	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q8R5C0	CCO	GO:0005739	mitochondrion
+18614015	Q8R5C0	CCO	GO:0005739	mitochondrion
+12865426	Q8R5C0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3V3E7	CCO	GO:0005739	mitochondrion
+14651853	Q3V3E7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8C6I5	CCO	GO:0005739	mitochondrion
+14651853	Q8C6I5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9QZM2	CCO	GO:0005739	mitochondrion
+14651853	Q9QZM2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9JIY5	CCO	GO:0005739	mitochondrion
+14651853	Q9JIY5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YUM1	CCO	GO:0005739	mitochondrion
+14651853	D3YUM1	CCO	GO:0005739	mitochondrion
+12865426	D3YUM1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q6P2K2	CCO	GO:0005739	mitochondrion
+14651853	Q6P2K2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9QYR9	CCO	GO:0005739	mitochondrion
+14651853	Q9QYR9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O35857	CCO	GO:0005739	mitochondrion
+14651853	O35857	CCO	GO:0005739	mitochondrion
+12865426	O35857	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P54071	CCO	GO:0005739	mitochondrion
+14651853	P54071	CCO	GO:0005739	mitochondrion
+12865426	P54071	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BFR5	CCO	GO:0005739	mitochondrion
+14651853	Q8BFR5	CCO	GO:0005739	mitochondrion
+12865426	Q8BFR5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9R112	CCO	GO:0005739	mitochondrion
+14651853	Q9R112	CCO	GO:0005739	mitochondrion
+12865426	Q9R112	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WIY5	CCO	GO:0005739	mitochondrion
+14651853	F8WIY5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q66JY8	CCO	GO:0005739	mitochondrion
+14651853	Q66JY8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3U3J1	CCO	GO:0005739	mitochondrion
+14651853	Q3U3J1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8K126	CCO	GO:0005739	mitochondrion
+14651853	Q8K126	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P36552	CCO	GO:0005739	mitochondrion
+14651853	P36552	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UYY1	CCO	GO:0005739	mitochondrion
+14651853	G3UYY1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UZ26	CCO	GO:0005739	mitochondrion
+14651853	G3UZ26	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q3TG75	CCO	GO:0005739	mitochondrion
+18614015	Q3TG75	CCO	GO:0005739	mitochondrion
+18614015	P29758	CCO	GO:0005739	mitochondrion
+14651853	P29758	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q32MW3	CCO	GO:0005739	mitochondrion
+14651853	Q32MW3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UKT3	CCO	GO:0005739	mitochondrion
+14651853	Q3UKT3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q60759	CCO	GO:0005739	mitochondrion
+14651853	Q60759	CCO	GO:0005739	mitochondrion
+12865426	Q60759	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YXT0	CCO	GO:0005739	mitochondrion
+14651853	D3YXT0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7ASU3	CCO	GO:0005739	mitochondrion
+14651853	F7ASU3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BFP9	CCO	GO:0005739	mitochondrion
+14651853	Q8BFP9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BGA9	CCO	GO:0005739	mitochondrion
+14651853	Q8BGA9	CCO	GO:0005739	mitochondrion
+12865426	Q8BGA9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9Z2I8	CCO	GO:0005739	mitochondrion
+14651853	Q9Z2I8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q99N87	CCO	GO:0005739	mitochondrion
+18614015	Q99N87	CCO	GO:0005739	mitochondrion
+18614015	A2AHS8	CCO	GO:0005739	mitochondrion
+14651853	A2AHS8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UNS8	CCO	GO:0005739	mitochondrion
+14651853	Q3UNS8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DBL1	CCO	GO:0005739	mitochondrion
+14651853	Q9DBL1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YVW0	CCO	GO:0005739	mitochondrion
+14651853	D3YVW0	CCO	GO:0005739	mitochondrion
+12865426	D3YVW0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P05202	CCO	GO:0005739	mitochondrion
+14651853	P05202	CCO	GO:0005739	mitochondrion
+12865426	P05202	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P51174	CCO	GO:0005739	mitochondrion
+14651853	P51174	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YX27	CCO	GO:0005739	mitochondrion
+14651853	D3YX27	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9WVM8	CCO	GO:0005739	mitochondrion
+14651853	Q9WVM8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A3KGG9	CCO	GO:0005739	mitochondrion
+14651853	A3KGG9	CCO	GO:0005739	mitochondrion
+14651853	Q9JHI5	CCO	GO:0005739	mitochondrion
+18614015	Q9JHI5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8QZT1	CCO	GO:0005739	mitochondrion
+14651853	Q8QZT1	CCO	GO:0005739	mitochondrion
+12865426	Q8QZT1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D964	CCO	GO:0005739	mitochondrion
+14651853	Q9D964	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q544X6	CCO	GO:0005739	mitochondrion
+14651853	Q544X6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P45952	CCO	GO:0005739	mitochondrion
+14651853	P45952	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q545N7	CCO	GO:0005739	mitochondrion
+18614015	Q545N7	CCO	GO:0005739	mitochondrion
+18614015	A2ARP5	CCO	GO:0005739	mitochondrion
+14651853	A2ARP5	CCO	GO:0005739	mitochondrion
+14651853	B0R0E8	CCO	GO:0005739	mitochondrion
+18614015	B0R0E8	CCO	GO:0005739	mitochondrion
+14651853	B0R0E9	CCO	GO:0005739	mitochondrion
+18614015	B0R0E9	CCO	GO:0005739	mitochondrion
+14651853	P30275	CCO	GO:0005739	mitochondrion
+18614015	P30275	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BP40	CCO	GO:0005739	mitochondrion
+14651853	Q8BP40	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q922H2	CCO	GO:0005739	mitochondrion
+18614015	Q922H2	CCO	GO:0005739	mitochondrion
+18614015	Q4FJR4	CCO	GO:0005739	mitochondrion
+14651853	Q4FJR4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q2W0	CCO	GO:0005739	mitochondrion
+14651853	E9Q2W0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QAW7	CCO	GO:0005739	mitochondrion
+14651853	E9QAW7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z7R0	CCO	GO:0005739	mitochondrion
+14651853	D3Z7R0	CCO	GO:0005739	mitochondrion
+14651853	Q3UCB5	CCO	GO:0005739	mitochondrion
+18614015	Q3UCB5	CCO	GO:0005739	mitochondrion
+14651853	O55028	CCO	GO:0005739	mitochondrion
+18614015	O55028	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q544J2	CCO	GO:0005739	mitochondrion
+18614015	Q544J2	CCO	GO:0005739	mitochondrion
+12865426	Q544J2	CCO	GO:0005743	mitochondrial inner membrane
+18614015	O70571	CCO	GO:0005739	mitochondrion
+14651853	O70571	CCO	GO:0005739	mitochondrion
+12865426	O70571	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q07417	CCO	GO:0005739	mitochondrion
+14651853	Q07417	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9JK42	CCO	GO:0005739	mitochondrion
+14651853	Q9JK42	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7CAB4	CCO	GO:0005739	mitochondrion
+14651853	F7CAB4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BWT1	CCO	GO:0005739	mitochondrion
+14651853	Q8BWT1	CCO	GO:0005739	mitochondrion
+12865426	Q8BWT1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z792	CCO	GO:0005739	mitochondrion
+14651853	D3Z792	CCO	GO:0005739	mitochondrion
+14651853	Q924D0	CCO	GO:0005739	mitochondrion
+18614015	Q924D0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	O35435	CCO	GO:0005739	mitochondrion
+18614015	O35435	CCO	GO:0005739	mitochondrion
+18614015	D3YZY5	CCO	GO:0005739	mitochondrion
+14651853	D3YZY5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6TLB0	CCO	GO:0005739	mitochondrion
+14651853	F6TLB0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z3D7	CCO	GO:0005739	mitochondrion
+14651853	D3Z3D7	CCO	GO:0005739	mitochondrion
+14651853	O88374	CCO	GO:0005739	mitochondrion
+18614015	O88374	CCO	GO:0005739	mitochondrion
+14651853	Q3ULU3	CCO	GO:0005739	mitochondrion
+18614015	Q3ULU3	CCO	GO:0005739	mitochondrion
+14651853	O35855	CCO	GO:0005739	mitochondrion
+18614015	O35855	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P70404	CCO	GO:0005739	mitochondrion
+14651853	P70404	CCO	GO:0005739	mitochondrion
+14651853	Q3TGZ3	CCO	GO:0005739	mitochondrion
+18614015	Q3TGZ3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P35486	CCO	GO:0005739	mitochondrion
+14651853	P35486	CCO	GO:0005739	mitochondrion
+14651853	Q3UFJ3	CCO	GO:0005739	mitochondrion
+18614015	Q3UFJ3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TKM5	CCO	GO:0005739	mitochondrion
+14651853	Q3TKM5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z7C8	CCO	GO:0005739	mitochondrion
+14651853	D3Z7C8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3V021	CCO	GO:0005739	mitochondrion
+14651853	Q3V021	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D799	CCO	GO:0005739	mitochondrion
+14651853	Q9D799	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q61733	CCO	GO:0005739	mitochondrion
+14651853	Q61733	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q91VA7	CCO	GO:0005739	mitochondrion
+14651853	Q91VA7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O09174	CCO	GO:0005739	mitochondrion
+14651853	O09174	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BVD4	CCO	GO:0005739	mitochondrion
+14651853	Q8BVD4	CCO	GO:0005739	mitochondrion
+12865426	Q8BVD4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DC69	CCO	GO:0005739	mitochondrion
+14651853	Q9DC69	CCO	GO:0005739	mitochondrion
+12865426	Q9DC69	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z6I3	CCO	GO:0005739	mitochondrion
+14651853	D3Z6I3	CCO	GO:0005739	mitochondrion
+14651853	Q99M04	CCO	GO:0005739	mitochondrion
+18614015	Q99M04	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q91VA6	CCO	GO:0005739	mitochondrion
+18614015	Q91VA6	CCO	GO:0005739	mitochondrion
+18614015	Q5SYH1	CCO	GO:0005739	mitochondrion
+14651853	Q5SYH1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8CG76	CCO	GO:0005739	mitochondrion
+14651853	Q8CG76	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D6R2	CCO	GO:0005739	mitochondrion
+14651853	Q9D6R2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8R0Z5	CCO	GO:0005739	mitochondrion
+14651853	Q8R0Z5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YX28	CCO	GO:0005739	mitochondrion
+14651853	D3YX28	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9QYA2	CCO	GO:0005739	mitochondrion
+14651853	Q9QYA2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z3F4	CCO	GO:0005739	mitochondrion
+14651853	D3Z3F4	CCO	GO:0005739	mitochondrion
+12865426	D3Z3F4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CYK1	CCO	GO:0005739	mitochondrion
+14651853	Q9CYK1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	B0QZI6	CCO	GO:0005739	mitochondrion
+18614015	B0QZI6	CCO	GO:0005739	mitochondrion
+14651853	B0QZI4	CCO	GO:0005739	mitochondrion
+18614015	B0QZI4	CCO	GO:0005739	mitochondrion
+14651853	B0QZI5	CCO	GO:0005739	mitochondrion
+18614015	B0QZI5	CCO	GO:0005739	mitochondrion
+18614015	B0QZI3	CCO	GO:0005739	mitochondrion
+14651853	B0QZI3	CCO	GO:0005739	mitochondrion
+14651853	Q14BQ5	CCO	GO:0005739	mitochondrion
+18614015	Q14BQ5	CCO	GO:0005739	mitochondrion
+14651853	Q9D8K8	CCO	GO:0005739	mitochondrion
+18614015	Q9D8K8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CXW2	CCO	GO:0005739	mitochondrion
+14651853	Q9CXW2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D051	CCO	GO:0005739	mitochondrion
+14651853	Q9D051	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P11930	CCO	GO:0005739	mitochondrion
+14651853	P11930	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8VEM8	CCO	GO:0005739	mitochondrion
+14651853	Q8VEM8	CCO	GO:0005739	mitochondrion
+12865426	Q8VEM8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99LC3	CCO	GO:0005739	mitochondrion
+14651853	Q99LC3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O08691	CCO	GO:0005739	mitochondrion
+14651853	O08691	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q543H3	CCO	GO:0005739	mitochondrion
+18614015	Q543H3	CCO	GO:0005739	mitochondrion
+12865426	Q543H3	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P11725	CCO	GO:0005739	mitochondrion
+14651853	P11725	CCO	GO:0005739	mitochondrion
+12865426	P11725	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AG40	CCO	GO:0005739	mitochondrion
+14651853	A2AG40	CCO	GO:0005739	mitochondrion
+12865426	A2AG40	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q99JB2	CCO	GO:0005739	mitochondrion
+18614015	Q99JB2	CCO	GO:0005739	mitochondrion
+12865426	Q99JB2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2A697	CCO	GO:0005739	mitochondrion
+14651853	A2A697	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8R1A8	CCO	GO:0005739	mitochondrion
+14651853	Q8R1A8	CCO	GO:0005739	mitochondrion
+12865426	Q8R1A8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P18155	CCO	GO:0005739	mitochondrion
+14651853	P18155	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99N95	CCO	GO:0005739	mitochondrion
+14651853	Q99N95	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9WUM5	CCO	GO:0005739	mitochondrion
+14651853	Q9WUM5	CCO	GO:0005739	mitochondrion
+12865426	Q9WUM5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	O08760	CCO	GO:0005739	mitochondrion
+14651853	O08760	CCO	GO:0005739	mitochondrion
+14651853	Q3UIL3	CCO	GO:0005739	mitochondrion
+18614015	Q3UIL3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TR91	CCO	GO:0005739	mitochondrion
+14651853	Q3TR91	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q80XN0	CCO	GO:0005739	mitochondrion
+14651853	Q80XN0	CCO	GO:0005739	mitochondrion
+12865426	Q80XN0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WH88	CCO	GO:0005739	mitochondrion
+14651853	F8WH88	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2ALA6	CCO	GO:0005739	mitochondrion
+14651853	A2ALA6	CCO	GO:0005739	mitochondrion
+14651853	P09925	CCO	GO:0005739	mitochondrion
+18614015	P09925	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P08249	CCO	GO:0005739	mitochondrion
+14651853	P08249	CCO	GO:0005739	mitochondrion
+12865426	P08249	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q922Q1	CCO	GO:0005739	mitochondrion
+14651853	Q922Q1	CCO	GO:0005739	mitochondrion
+18614015	Q922Q1	CCO	GO:0005739	mitochondrion
+12865426	Q922Q1	CCO	GO:0005743	mitochondrial inner membrane
+18614015	E0CZH6	CCO	GO:0005739	mitochondrion
+14651853	E0CZH6	CCO	GO:0005739	mitochondrion
+12865426	E0CZH6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3TYT1	CCO	GO:0005739	mitochondrion
+14651853	Q3TYT1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9JKF7	CCO	GO:0005739	mitochondrion
+14651853	Q9JKF7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q4FJK0	CCO	GO:0005739	mitochondrion
+14651853	Q4FJK0	CCO	GO:0005739	mitochondrion
+14651853	Q9CQ62	CCO	GO:0005739	mitochondrion
+18614015	Q9CQ62	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99L13	CCO	GO:0005739	mitochondrion
+14651853	Q99L13	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q155	CCO	GO:0005739	mitochondrion
+14651853	E9Q155	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q99LC5	CCO	GO:0005739	mitochondrion
+18614015	Q99LC5	CCO	GO:0005739	mitochondrion
+18614015	B1B1B4	CCO	GO:0005739	mitochondrion
+14651853	B1B1B4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8C0K5	CCO	GO:0005739	mitochondrion
+14651853	Q8C0K5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q91VM9	CCO	GO:0005739	mitochondrion
+14651853	Q91VM9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z636	CCO	GO:0005739	mitochondrion
+14651853	D3Z636	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AQ17	CCO	GO:0005739	mitochondrion
+14651853	A2AQ17	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CWX2	CCO	GO:0005739	mitochondrion
+14651853	Q9CWX2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O35459	CCO	GO:0005739	mitochondrion
+14651853	O35459	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AF75	CCO	GO:0005739	mitochondrion
+14651853	A2AF75	CCO	GO:0005739	mitochondrion
+14651853	Q9Z2B2	CCO	GO:0005739	mitochondrion
+18614015	Q9Z2B2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P38060	CCO	GO:0005739	mitochondrion
+14651853	P38060	CCO	GO:0005739	mitochondrion
+12865426	P38060	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D0M3	CCO	GO:0005739	mitochondrion
+14651853	Q9D0M3	CCO	GO:0005739	mitochondrion
+12865426	Q9D0M3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9D6M3	CCO	GO:0005739	mitochondrion
+18614015	Q9D6M3	CCO	GO:0005739	mitochondrion
+14651853	Q80X52	CCO	GO:0005739	mitochondrion
+18614015	Q80X52	CCO	GO:0005739	mitochondrion
+14651853	E9PY45	CCO	GO:0005739	mitochondrion
+18614015	E9PY45	CCO	GO:0005739	mitochondrion
+14651853	G3UY41	CCO	GO:0005739	mitochondrion
+18614015	G3UY41	CCO	GO:0005739	mitochondrion
+18614015	E9PV90	CCO	GO:0005739	mitochondrion
+14651853	E9PV90	CCO	GO:0005739	mitochondrion
+14651853	G3UX09	CCO	GO:0005739	mitochondrion
+18614015	G3UX09	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AF76	CCO	GO:0005739	mitochondrion
+14651853	A2AF76	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YVC9	CCO	GO:0005739	mitochondrion
+14651853	D3YVC9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q925N2	CCO	GO:0005739	mitochondrion
+18614015	Q925N2	CCO	GO:0005739	mitochondrion
+12865426	Q925N2	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q3UC14	CCO	GO:0005739	mitochondrion
+14651853	Q3UC14	CCO	GO:0005739	mitochondrion
+12865426	Q3UC14	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99JR1	CCO	GO:0005739	mitochondrion
+14651853	Q99JR1	CCO	GO:0005739	mitochondrion
+12865426	Q99JR1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D6D0	CCO	GO:0005739	mitochondrion
+14651853	Q9D6D0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UY72	CCO	GO:0005739	mitochondrion
+14651853	G3UY72	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCU9	CCO	GO:0005739	mitochondrion
+14651853	Q9DCU9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q0E4	CCO	GO:0005739	mitochondrion
+14651853	E9Q0E4	CCO	GO:0005739	mitochondrion
+12865426	E9Q0E4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9DAM5	CCO	GO:0005739	mitochondrion
+18614015	Q9DAM5	CCO	GO:0005739	mitochondrion
+14651853	A2A9V4	CCO	GO:0005739	mitochondrion
+18614015	A2A9V4	CCO	GO:0005739	mitochondrion
+14651853	A2A9V3	CCO	GO:0005739	mitochondrion
+18614015	A2A9V3	CCO	GO:0005739	mitochondrion
+18614015	A2A9V2	CCO	GO:0005739	mitochondrion
+14651853	A2A9V2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q4I4	CCO	GO:0005739	mitochondrion
+14651853	E9Q4I4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q5SX53	CCO	GO:0005739	mitochondrion
+18614015	Q5SX53	CCO	GO:0005739	mitochondrion
+12865426	Q5SX53	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9CR62	CCO	GO:0005739	mitochondrion
+18614015	Q9CR62	CCO	GO:0005739	mitochondrion
+12865426	Q9CR62	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q5SX48	CCO	GO:0005739	mitochondrion
+18614015	Q5SX48	CCO	GO:0005739	mitochondrion
+12865426	Q5SX48	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q5SX46	CCO	GO:0005739	mitochondrion
+14651853	Q5SX46	CCO	GO:0005739	mitochondrion
+12865426	Q5SX46	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q61425	CCO	GO:0005739	mitochondrion
+14651853	Q61425	CCO	GO:0005739	mitochondrion
+12865426	Q61425	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9JLZ3	CCO	GO:0005739	mitochondrion
+14651853	Q9JLZ3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8K1Z0	CCO	GO:0005739	mitochondrion
+14651853	Q8K1Z0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q925N1	CCO	GO:0005739	mitochondrion
+14651853	Q925N1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8JZU2	CCO	GO:0005739	mitochondrion
+14651853	Q8JZU2	CCO	GO:0005739	mitochondrion
+12865426	Q8JZU2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	F8WJ17	CCO	GO:0005739	mitochondrion
+18614015	F8WJ17	CCO	GO:0005739	mitochondrion
+14651853	D3YZE5	CCO	GO:0005739	mitochondrion
+18614015	D3YZE5	CCO	GO:0005739	mitochondrion
+18614015	D3YXM5	CCO	GO:0005739	mitochondrion
+14651853	D3YXM5	CCO	GO:0005739	mitochondrion
+14651853	Q549J5	CCO	GO:0005739	mitochondrion
+18614015	Q549J5	CCO	GO:0005739	mitochondrion
+14651853	D3YZG5	CCO	GO:0005739	mitochondrion
+18614015	D3YZG5	CCO	GO:0005739	mitochondrion
+14651853	P70406	CCO	GO:0005739	mitochondrion
+18614015	P70406	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q922W5	CCO	GO:0005739	mitochondrion
+18614015	Q922W5	CCO	GO:0005739	mitochondrion
+18614015	A2ABZ0	CCO	GO:0005739	mitochondrion
+14651853	A2ABZ0	CCO	GO:0005739	mitochondrion
+14651853	A2ABZ2	CCO	GO:0005739	mitochondrion
+18614015	A2ABZ2	CCO	GO:0005739	mitochondrion
+14651853	A2ABZ3	CCO	GO:0005739	mitochondrion
+18614015	A2ABZ3	CCO	GO:0005739	mitochondrion
+14651853	Q3UTR5	CCO	GO:0005739	mitochondrion
+18614015	Q3UTR5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8CBU0	CCO	GO:0005739	mitochondrion
+14651853	Q8CBU0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P56501	CCO	GO:0005739	mitochondrion
+18614015	P56501	CCO	GO:0005739	mitochondrion
+18614015	B2RTM2	CCO	GO:0005739	mitochondrion
+14651853	B2RTM2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q5F2	CCO	GO:0005739	mitochondrion
+14651853	E9Q5F2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P12242	CCO	GO:0005739	mitochondrion
+14651853	P12242	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P97931	CCO	GO:0005739	mitochondrion
+14651853	P97931	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z456	CCO	GO:0005739	mitochondrion
+14651853	D3Z456	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6RAZ3	CCO	GO:0005739	mitochondrion
+14651853	F6RAZ3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QMW1	CCO	GO:0005739	mitochondrion
+14651853	E9QMW1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D7J9	CCO	GO:0005739	mitochondrion
+14651853	Q9D7J9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YYT8	CCO	GO:0005739	mitochondrion
+14651853	D3YYT8	CCO	GO:0005739	mitochondrion
+12865426	D3YYT8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	O35129	CCO	GO:0005739	mitochondrion
+14651853	O35129	CCO	GO:0005739	mitochondrion
+14651853	O35129	CCO	GO:0005739	mitochondrion
+14651853	Q3V235	CCO	GO:0005739	mitochondrion
+18614015	Q3V235	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P23589	CCO	GO:0005739	mitochondrion
+14651853	P23589	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3XA66	CCO	GO:0005739	mitochondrion
+14651853	G3XA66	CCO	GO:0005739	mitochondrion
+12865426	G3XA66	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q545A2	CCO	GO:0005739	mitochondrion
+18614015	Q545A2	CCO	GO:0005739	mitochondrion
+12865426	Q545A2	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P51881	CCO	GO:0005739	mitochondrion
+14651853	P51881	CCO	GO:0005739	mitochondrion
+12865426	P51881	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AKU9	CCO	GO:0005739	mitochondrion
+14651853	A2AKU9	CCO	GO:0005739	mitochondrion
+12865426	A2AKU9	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q91VR2	CCO	GO:0005739	mitochondrion
+18614015	Q91VR2	CCO	GO:0005739	mitochondrion
+12865426	Q91VR2	CCO	GO:0005743	mitochondrial inner membrane
+14651853	A2AKV1	CCO	GO:0005739	mitochondrion
+18614015	A2AKV1	CCO	GO:0005739	mitochondrion
+12865426	A2AKV1	CCO	GO:0005743	mitochondrial inner membrane
+14651853	A2AKV0	CCO	GO:0005739	mitochondrion
+18614015	A2AKV0	CCO	GO:0005739	mitochondrion
+12865426	A2AKV0	CCO	GO:0005743	mitochondrial inner membrane
+14651853	A2AKV3	CCO	GO:0005739	mitochondrion
+18614015	A2AKV3	CCO	GO:0005739	mitochondrion
+12865426	A2AKV3	CCO	GO:0005743	mitochondrial inner membrane
+14651853	A2AKV2	CCO	GO:0005739	mitochondrion
+18614015	A2AKV2	CCO	GO:0005739	mitochondrion
+12865426	A2AKV2	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q3UD06	CCO	GO:0005739	mitochondrion
+18614015	Q3UD06	CCO	GO:0005739	mitochondrion
+12865426	Q3UD06	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q8C2Q8	CCO	GO:0005739	mitochondrion
+18614015	Q8C2Q8	CCO	GO:0005739	mitochondrion
+12865426	Q8C2Q8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q545S0	CCO	GO:0005739	mitochondrion
+18614015	Q545S0	CCO	GO:0005739	mitochondrion
+12865426	Q545S0	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P52196	CCO	GO:0005739	mitochondrion
+14651853	P52196	CCO	GO:0005739	mitochondrion
+12865426	P52196	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UW66	CCO	GO:0005739	mitochondrion
+14651853	Q3UW66	CCO	GO:0005739	mitochondrion
+12865426	Q3UW66	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8CCX9	CCO	GO:0005739	mitochondrion
+14651853	Q8CCX9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YYT7	CCO	GO:0005739	mitochondrion
+14651853	D3YYT7	CCO	GO:0005739	mitochondrion
+12865426	D3YYT7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6U775	CCO	GO:0005739	mitochondrion
+14651853	F6U775	CCO	GO:0005739	mitochondrion
+12865426	F6U775	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q60932	CCO	GO:0005739	mitochondrion
+14651853	Q60932	CCO	GO:0005739	mitochondrion
+12865426	Q60932	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q91XE0	CCO	GO:0005739	mitochondrion
+14651853	Q91XE0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	D3YZT5	CCO	GO:0005739	mitochondrion
+18614015	D3YZT5	CCO	GO:0005739	mitochondrion
+12865426	D3YZT5	CCO	GO:0005743	mitochondrial inner membrane
+18614015	D3YUN8	CCO	GO:0005739	mitochondrion
+14651853	D3YUN8	CCO	GO:0005739	mitochondrion
+12865426	D3YUN8	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q60930	CCO	GO:0005739	mitochondrion
+18614015	Q60930	CCO	GO:0005739	mitochondrion
+12865426	Q60930	CCO	GO:0005743	mitochondrial inner membrane
+14651853	G3UX26	CCO	GO:0005739	mitochondrion
+18614015	G3UX26	CCO	GO:0005739	mitochondrion
+12865426	G3UX26	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q791V7	CCO	GO:0005739	mitochondrion
+18614015	Q791V7	CCO	GO:0005739	mitochondrion
+18614015	D3Z1G1	CCO	GO:0005739	mitochondrion
+14651853	D3Z1G1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CPR5	CCO	GO:0005739	mitochondrion
+14651853	Q9CPR5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCY0	CCO	GO:0005739	mitochondrion
+14651853	Q9DCY0	CCO	GO:0005739	mitochondrion
+14651853	Q9DCY0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RIL6	CCO	GO:0005739	mitochondrion
+14651853	D6RIL6	CCO	GO:0005739	mitochondrion
+12865426	D6RIL6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6TCV0	CCO	GO:0005739	mitochondrion
+14651853	F6TCV0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q3UN47	CCO	GO:0005739	mitochondrion
+18614015	Q3UN47	CCO	GO:0005739	mitochondrion
+18614015	O08600	CCO	GO:0005739	mitochondrion
+14651853	O08600	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8K0Z7	CCO	GO:0005739	mitochondrion
+14651853	Q8K0Z7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BQ99	CCO	GO:0005739	mitochondrion
+14651853	Q8BQ99	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q924T2	CCO	GO:0005739	mitochondrion
+14651853	Q924T2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6RI88	CCO	GO:0005739	mitochondrion
+14651853	F6RI88	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BH95	CCO	GO:0005739	mitochondrion
+14651853	Q8BH95	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8QZV3	CCO	GO:0005739	mitochondrion
+14651853	Q8QZV3	CCO	GO:0005739	mitochondrion
+12865426	Q8QZV3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99KR3	CCO	GO:0005739	mitochondrion
+14651853	Q99KR3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1ATZ4	CCO	GO:0005739	mitochondrion
+14651853	B1ATZ4	CCO	GO:0005739	mitochondrion
+12865426	B1ATZ4	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9QZD8	CCO	GO:0005739	mitochondrion
+18614015	Q9QZD8	CCO	GO:0005739	mitochondrion
+12865426	Q9QZD8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6WI02	CCO	GO:0005739	mitochondrion
+14651853	F6WI02	CCO	GO:0005739	mitochondrion
+12865426	F6WI02	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AG39	CCO	GO:0005739	mitochondrion
+14651853	A2AG39	CCO	GO:0005739	mitochondrion
+12865426	A2AG39	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9QLN8	CCO	GO:0005739	mitochondrion
+14651853	E9QLN8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6SQH7	CCO	GO:0005739	mitochondrion
+14651853	F6SQH7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q5SVF7	CCO	GO:0005739	mitochondrion
+18614015	Q5SVF7	CCO	GO:0005739	mitochondrion
+12865426	Q5SVF7	CCO	GO:0005743	mitochondrial inner membrane
+18614015	O55125	CCO	GO:0005739	mitochondrion
+14651853	O55125	CCO	GO:0005739	mitochondrion
+14651853	O55125	CCO	GO:0005739	mitochondrion
+12865426	O55125	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P51557	CCO	GO:0005739	mitochondrion
+14651853	P51557	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q5EBQ0	CCO	GO:0005739	mitochondrion
+14651853	Q5EBQ0	CCO	GO:0005739	mitochondrion
+12865426	Q5EBQ0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q874	CCO	GO:0005739	mitochondrion
+14651853	E9Q874	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TX38	CCO	GO:0005739	mitochondrion
+14651853	Q3TX38	CCO	GO:0005739	mitochondrion
+12865426	Q3TX38	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q60931	CCO	GO:0005739	mitochondrion
+18614015	Q60931	CCO	GO:0005739	mitochondrion
+12865426	Q60931	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9CQA3	CCO	GO:0005739	mitochondrion
+18614015	Q9CQA3	CCO	GO:0005739	mitochondrion
+12865426	Q9CQA3	CCO	GO:0005743	mitochondrial inner membrane
+18614015	A2AA77	CCO	GO:0005739	mitochondrion
+14651853	A2AA77	CCO	GO:0005739	mitochondrion
+12865426	A2AA77	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q7TMG8	CCO	GO:0005739	mitochondrion
+14651853	Q7TMG8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8R5L1	CCO	GO:0005739	mitochondrion
+14651853	Q8R5L1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1V3	CCO	GO:0005739	mitochondrion
+14651853	E9Q1V3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6UB20	CCO	GO:0005739	mitochondrion
+14651853	F6UB20	CCO	GO:0005739	mitochondrion
+12865426	F6UB20	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q504N4	CCO	GO:0005739	mitochondrion
+14651853	Q504N4	CCO	GO:0005739	mitochondrion
+14651853	Q8CBU2	CCO	GO:0005739	mitochondrion
+18614015	Q8CBU2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q6PD20	CCO	GO:0005739	mitochondrion
+14651853	Q6PD20	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CR68	CCO	GO:0005739	mitochondrion
+14651853	Q9CR68	CCO	GO:0005739	mitochondrion
+12865426	Q9CR68	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q054	CCO	GO:0005739	mitochondrion
+14651853	E9Q054	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O88696	CCO	GO:0005739	mitochondrion
+14651853	O88696	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q5SQG5	CCO	GO:0005739	mitochondrion
+18614015	Q5SQG5	CCO	GO:0005739	mitochondrion
+12865426	Q5SQG5	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P67778	CCO	GO:0005739	mitochondrion
+14651853	P67778	CCO	GO:0005739	mitochondrion
+12865426	P67778	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q6P5G5	CCO	GO:0005739	mitochondrion
+14651853	Q6P5G5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AFQ2	CCO	GO:0005739	mitochondrion
+14651853	A2AFQ2	CCO	GO:0005739	mitochondrion
+12865426	A2AFQ2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BN51	CCO	GO:0005739	mitochondrion
+14651853	Q8BN51	CCO	GO:0005739	mitochondrion
+12865426	Q8BN51	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UK02	CCO	GO:0005739	mitochondrion
+14651853	Q3UK02	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PUP2	CCO	GO:0005739	mitochondrion
+14651853	E9PUP2	CCO	GO:0005739	mitochondrion
+12865426	E9PUP2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D172	CCO	GO:0005739	mitochondrion
+14651853	Q9D172	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2A8E8	CCO	GO:0005739	mitochondrion
+14651853	A2A8E8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1AV13	CCO	GO:0005739	mitochondrion
+14651853	B1AV13	CCO	GO:0005739	mitochondrion
+12865426	B1AV13	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q78IK4	CCO	GO:0005739	mitochondrion
+18614015	Q78IK4	CCO	GO:0005739	mitochondrion
+12865426	Q78IK4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z2Y8	CCO	GO:0005739	mitochondrion
+14651853	D3Z2Y8	CCO	GO:0005739	mitochondrion
+12865426	D3Z2Y8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F7CPY7	CCO	GO:0005739	mitochondrion
+14651853	F7CPY7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q14B21	CCO	GO:0005739	mitochondrion
+14651853	Q14B21	CCO	GO:0005739	mitochondrion
+14651853	Q99N94	CCO	GO:0005739	mitochondrion
+18614015	Q99N94	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TZK4	CCO	GO:0005739	mitochondrion
+14651853	Q3TZK4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	O88441	CCO	GO:0005739	mitochondrion
+18614015	O88441	CCO	GO:0005739	mitochondrion
+18614015	A2AT31	CCO	GO:0005739	mitochondrion
+14651853	A2AT31	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8C454	CCO	GO:0005739	mitochondrion
+14651853	Q8C454	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCT2	CCO	GO:0005739	mitochondrion
+14651853	Q9DCT2	CCO	GO:0005739	mitochondrion
+12865426	Q9DCT2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8K2S8	CCO	GO:0005739	mitochondrion
+14651853	Q8K2S8	CCO	GO:0005739	mitochondrion
+12865426	Q8K2S8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99N15	CCO	GO:0005739	mitochondrion
+14651853	Q99N15	CCO	GO:0005739	mitochondrion
+14651853	Q99N15	CCO	GO:0005739	mitochondrion
+12865426	Q99N15	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P50171	CCO	GO:0005739	mitochondrion
+14651853	P50171	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9DC71	CCO	GO:0005739	mitochondrion
+18614015	Q9DC71	CCO	GO:0005739	mitochondrion
+18614015	A2A8Y4	CCO	GO:0005739	mitochondrion
+14651853	A2A8Y4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P20108	CCO	GO:0005739	mitochondrion
+14651853	P20108	CCO	GO:0005739	mitochondrion
+11591653	P20108	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YZC1	CCO	GO:0005739	mitochondrion
+14651853	D3YZC1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q5I0W0	CCO	GO:0005739	mitochondrion
+14651853	Q5I0W0	CCO	GO:0005739	mitochondrion
+12865426	Q5I0W0	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9CQQ7	CCO	GO:0005739	mitochondrion
+18614015	Q9CQQ7	CCO	GO:0005739	mitochondrion
+12865426	Q9CQQ7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RI29	CCO	GO:0005739	mitochondrion
+14651853	D6RI29	CCO	GO:0005739	mitochondrion
+12865426	D6RI29	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DCW4	CCO	GO:0005739	mitochondrion
+14651853	Q9DCW4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F2Z471	CCO	GO:0005739	mitochondrion
+14651853	F2Z471	CCO	GO:0005739	mitochondrion
+12865426	F2Z471	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DCM0	CCO	GO:0005739	mitochondrion
+14651853	Q9DCM0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6W695	CCO	GO:0005739	mitochondrion
+14651853	F6W695	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q543N5	CCO	GO:0005739	mitochondrion
+14651853	Q543N5	CCO	GO:0005739	mitochondrion
+14651853	Q9QYB1	CCO	GO:0005739	mitochondrion
+18614015	Q9QYB1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q76LV0	CCO	GO:0005739	mitochondrion
+14651853	Q76LV0	CCO	GO:0005739	mitochondrion
+12865426	Q76LV0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q91XR9	CCO	GO:0005739	mitochondrion
+14651853	Q91XR9	CCO	GO:0005739	mitochondrion
+12865426	Q91XR9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6RJ83	CCO	GO:0005739	mitochondrion
+14651853	F6RJ83	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6XUR8	CCO	GO:0005739	mitochondrion
+14651853	F6XUR8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D6J6	CCO	GO:0005739	mitochondrion
+14651853	Q9D6J6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PYC8	CCO	GO:0005739	mitochondrion
+14651853	E9PYC8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6RR02	CCO	GO:0005739	mitochondrion
+14651853	F6RR02	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6SFF5	CCO	GO:0005739	mitochondrion
+14651853	F6SFF5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQE1	CCO	GO:0005739	mitochondrion
+14651853	Q9CQE1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AFM5	CCO	GO:0005739	mitochondrion
+14651853	A2AFM5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P08074	CCO	GO:0005739	mitochondrion
+14651853	P08074	CCO	GO:0005739	mitochondrion
+14651853	Q542P5	CCO	GO:0005739	mitochondrion
+18614015	Q542P5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AK70	CCO	GO:0005739	mitochondrion
+14651853	A2AK70	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P40630	CCO	GO:0005739	mitochondrion
+18614015	P40630	CCO	GO:0005739	mitochondrion
+18614015	D3Z0F3	CCO	GO:0005739	mitochondrion
+14651853	D3Z0F3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q80X85	CCO	GO:0005739	mitochondrion
+18614015	Q80X85	CCO	GO:0005739	mitochondrion
+18614015	A2A9W4	CCO	GO:0005739	mitochondrion
+14651853	A2A9W4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7BP45	CCO	GO:0005739	mitochondrion
+14651853	F7BP45	CCO	GO:0005739	mitochondrion
+12865426	F7BP45	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6RT60	CCO	GO:0005739	mitochondrion
+14651853	F6RT60	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9WTP6	CCO	GO:0005739	mitochondrion
+14651853	Q9WTP6	CCO	GO:0005739	mitochondrion
+12865426	Q9WTP6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q542V8	CCO	GO:0005739	mitochondrion
+14651853	Q542V8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D5H4	CCO	GO:0005739	mitochondrion
+14651853	Q9D5H4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D8S4	CCO	GO:0005739	mitochondrion
+14651853	Q9D8S4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9JIQ3	CCO	GO:0005739	mitochondrion
+14651853	Q9JIQ3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6YLN2	CCO	GO:0005739	mitochondrion
+14651853	F6YLN2	CCO	GO:0005739	mitochondrion
+12865426	F6YLN2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q4VBF6	CCO	GO:0005739	mitochondrion
+14651853	Q4VBF6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BQK4	CCO	GO:0005739	mitochondrion
+14651853	Q8BQK4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UX44	CCO	GO:0005739	mitochondrion
+14651853	G3UX44	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6ZUJ0	CCO	GO:0005739	mitochondrion
+14651853	F6ZUJ0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7C9G3	CCO	GO:0005739	mitochondrion
+14651853	F7C9G3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2APS4	CCO	GO:0005739	mitochondrion
+14651853	A2APS4	CCO	GO:0005739	mitochondrion
+11591653	A2APS4	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q0J9	CCO	GO:0005739	mitochondrion
+14651853	E9Q0J9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q6M6	CCO	GO:0005739	mitochondrion
+14651853	E9Q6M6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z4V9	CCO	GO:0005739	mitochondrion
+14651853	D3Z4V9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2A9V5	CCO	GO:0005739	mitochondrion
+14651853	A2A9V5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UQY4	CCO	GO:0005739	mitochondrion
+14651853	Q3UQY4	CCO	GO:0005739	mitochondrion
+12865426	Q3UQY4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8R0F8	CCO	GO:0005739	mitochondrion
+14651853	Q8R0F8	CCO	GO:0005739	mitochondrion
+12865426	Q8R0F8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	F6QFL0	CCO	GO:0005739	mitochondrion
+18614015	F6QFL0	CCO	GO:0005739	mitochondrion
+12865426	F6QFL0	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9CRB9	CCO	GO:0005739	mitochondrion
+14651853	Q9CRB9	CCO	GO:0005739	mitochondrion
+18614015	Q9CRB9	CCO	GO:0005739	mitochondrion
+12865426	Q9CRB9	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9D9P1	CCO	GO:0005739	mitochondrion
+14651853	Q9D9P1	CCO	GO:0005739	mitochondrion
+18614015	Q9D9P1	CCO	GO:0005739	mitochondrion
+12865426	Q9D9P1	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q91VG6	CCO	GO:0005739	mitochondrion
+18614015	E9Q4H4	CCO	GO:0005739	mitochondrion
+14651853	E9Q4H4	CCO	GO:0005739	mitochondrion
+12865426	E9Q4H4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9WTP7	CCO	GO:0005739	mitochondrion
+14651853	Q9WTP7	CCO	GO:0005739	mitochondrion
+14651853	Q9WTP7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2A9V7	CCO	GO:0005739	mitochondrion
+14651853	A2A9V7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCM2	CCO	GO:0005739	mitochondrion
+14651853	Q9DCM2	CCO	GO:0005739	mitochondrion
+12865426	Q9DCM2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q0VB85	CCO	GO:0005739	mitochondrion
+18614015	Q0VB85	CCO	GO:0005739	mitochondrion
+12865426	Q0VB85	CCO	GO:0005743	mitochondrial inner membrane
+18614015	O88396	CCO	GO:0005739	mitochondrion
+14651853	O88396	CCO	GO:0005739	mitochondrion
+12865426	O88396	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DC70	CCO	GO:0005739	mitochondrion
+14651853	Q9DC70	CCO	GO:0005739	mitochondrion
+12865426	Q9DC70	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2A8E7	CCO	GO:0005739	mitochondrion
+14651853	A2A8E7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z365	CCO	GO:0005739	mitochondrion
+14651853	D3Z365	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2ARF6	CCO	GO:0005739	mitochondrion
+14651853	A2ARF6	CCO	GO:0005739	mitochondrion
+14651853	Q3U489	CCO	GO:0005739	mitochondrion
+18614015	Q3U489	CCO	GO:0005739	mitochondrion
+14651853	Q9WUR9	CCO	GO:0005739	mitochondrion
+18614015	Q9WUR9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCP4	CCO	GO:0005739	mitochondrion
+14651853	Q9DCP4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UWL8	CCO	GO:0005739	mitochondrion
+14651853	G3UWL8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P09671	CCO	GO:0005739	mitochondrion
+14651853	P09671	CCO	GO:0005739	mitochondrion
+12865426	P09671	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q4FJX9	CCO	GO:0005739	mitochondrion
+18614015	Q4FJX9	CCO	GO:0005739	mitochondrion
+12865426	Q4FJX9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z1F5	CCO	GO:0005739	mitochondrion
+14651853	D3Z1F5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AWH8	CCO	GO:0005739	mitochondrion
+14651853	A2AWH8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8VCE6	CCO	GO:0005739	mitochondrion
+14651853	Q8VCE6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6R307	CCO	GO:0005739	mitochondrion
+14651853	F6R307	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2ATW7	CCO	GO:0005739	mitochondrion
+14651853	A2ATW7	CCO	GO:0005739	mitochondrion
+12865426	A2ATW7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AWH7	CCO	GO:0005739	mitochondrion
+14651853	A2AWH7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P97478	CCO	GO:0005739	mitochondrion
+14651853	P97478	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99LP6	CCO	GO:0005739	mitochondrion
+14651853	Q99LP6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1C6	CCO	GO:0005739	mitochondrion
+14651853	E9Q1C6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AG41	CCO	GO:0005739	mitochondrion
+14651853	A2AG41	CCO	GO:0005739	mitochondrion
+12865426	A2AG41	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DB20	CCO	GO:0005739	mitochondrion
+14651853	Q9DB20	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q8K3J1	CCO	GO:0005739	mitochondrion
+18614015	Q8K3J1	CCO	GO:0005739	mitochondrion
+18614015	Q5M9P5	CCO	GO:0005739	mitochondrion
+14651853	Q5M9P5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q9H9	CCO	GO:0005739	mitochondrion
+14651853	E9Q9H9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P99029	CCO	GO:0005739	mitochondrion
+14651853	P99029	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CR24	CCO	GO:0005739	mitochondrion
+14651853	Q9CR24	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCC7	CCO	GO:0005739	mitochondrion
+14651853	Q9DCC7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z7W0	CCO	GO:0005739	mitochondrion
+14651853	D3Z7W0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UX97	CCO	GO:0005739	mitochondrion
+14651853	G3UX97	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CXU4	CCO	GO:0005739	mitochondrion
+14651853	Q9CXU4	CCO	GO:0005739	mitochondrion
+12865426	Q9CXU4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	O35943	CCO	GO:0005739	mitochondrion
+14651853	O35943	CCO	GO:0005739	mitochondrion
+14651853	Q3TV21	CCO	GO:0005739	mitochondrion
+18614015	Q3TV21	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99KR7	CCO	GO:0005739	mitochondrion
+14651853	Q99KR7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1R1	CCO	GO:0005739	mitochondrion
+14651853	E9Q1R1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B0R0F0	CCO	GO:0005739	mitochondrion
+14651853	B0R0F0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TUE8	CCO	GO:0005739	mitochondrion
+14651853	Q3TUE8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6Z2J7	CCO	GO:0005739	mitochondrion
+14651853	F6Z2J7	CCO	GO:0005739	mitochondrion
+12865426	F6Z2J7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F7BF80	CCO	GO:0005739	mitochondrion
+14651853	F7BF80	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q5RJH8	CCO	GO:0005739	mitochondrion
+18614015	Q5RJH8	CCO	GO:0005739	mitochondrion
+18614015	P11352	CCO	GO:0005739	mitochondrion
+14651853	P11352	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8VCG1	CCO	GO:0005739	mitochondrion
+14651853	Q8VCG1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CRA7	CCO	GO:0005739	mitochondrion
+14651853	Q9CRA7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q6NTH7	CCO	GO:0005739	mitochondrion
+14651853	Q6NTH7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P56213	CCO	GO:0005739	mitochondrion
+14651853	P56213	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1AWZ5	CCO	GO:0005739	mitochondrion
+14651853	B1AWZ5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6VVY4	CCO	GO:0005739	mitochondrion
+14651853	F6VVY4	CCO	GO:0005739	mitochondrion
+12865426	F6VVY4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	O70325	CCO	GO:0005739	mitochondrion
+14651853	O70325	CCO	GO:0005739	mitochondrion
+12865426	O70325	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6ZK82	CCO	GO:0005739	mitochondrion
+14651853	F6ZK82	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8K1L7	CCO	GO:0005739	mitochondrion
+14651853	Q8K1L7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1AV14	CCO	GO:0005739	mitochondrion
+14651853	B1AV14	CCO	GO:0005739	mitochondrion
+12865426	B1AV14	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z0L4	CCO	GO:0005739	mitochondrion
+14651853	D3Z0L4	CCO	GO:0005739	mitochondrion
+12865426	D3Z0L4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q8K3J2	CCO	GO:0005739	mitochondrion
+18614015	Q8K3J2	CCO	GO:0005739	mitochondrion
+14651853	Q544Z6	CCO	GO:0005739	mitochondrion
+18614015	Q544Z6	CCO	GO:0005739	mitochondrion
+18614015	Q07813	CCO	GO:0005739	mitochondrion
+14651853	Q07813	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6T930	CCO	GO:0005739	mitochondrion
+14651853	F6T930	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3U8Y1	CCO	GO:0005739	mitochondrion
+14651853	Q3U8Y1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9CQH3	CCO	GO:0005739	mitochondrion
+18614015	Q9CQH3	CCO	GO:0005739	mitochondrion
+12865426	Q9CQH3	CCO	GO:0005743	mitochondrial inner membrane
+18614015	D3Z568	CCO	GO:0005739	mitochondrion
+14651853	D3Z568	CCO	GO:0005739	mitochondrion
+12865426	D3Z568	CCO	GO:0005743	mitochondrial inner membrane
+14651853	F6Y6V5	CCO	GO:0005739	mitochondrion
+18614015	F6Y6V5	CCO	GO:0005739	mitochondrion
+12865426	F6Y6V5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9PVS5	CCO	GO:0005739	mitochondrion
+14651853	E9PVS5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P46656	CCO	GO:0005739	mitochondrion
+14651853	P46656	CCO	GO:0005739	mitochondrion
+14651853	Q545P3	CCO	GO:0005739	mitochondrion
+18614015	Q545P3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9WV84	CCO	GO:0005739	mitochondrion
+14651853	Q9WV84	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YW18	CCO	GO:0005739	mitochondrion
+14651853	D3YW18	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YYF3	CCO	GO:0005739	mitochondrion
+14651853	D3YYF3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6ZNH0	CCO	GO:0005739	mitochondrion
+14651853	F6ZNH0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UXX9	CCO	GO:0005739	mitochondrion
+14651853	G3UXX9	CCO	GO:0005739	mitochondrion
+12865426	G3UXX9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YYR4	CCO	GO:0005739	mitochondrion
+14651853	D3YYR4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z6W9	CCO	GO:0005739	mitochondrion
+14651853	D3Z6W9	CCO	GO:0005739	mitochondrion
+12865426	D3Z6W9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q313	CCO	GO:0005739	mitochondrion
+14651853	E9Q313	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQJ8	CCO	GO:0005739	mitochondrion
+14651853	Q9CQJ8	CCO	GO:0005739	mitochondrion
+12865426	Q9CQJ8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AR43	CCO	GO:0005739	mitochondrion
+14651853	A2AR43	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6W0S5	CCO	GO:0005739	mitochondrion
+14651853	F6W0S5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D1I5	CCO	GO:0005739	mitochondrion
+14651853	Q9D1I5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7B227	CCO	GO:0005739	mitochondrion
+14651853	F7B227	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7D3P8	CCO	GO:0005739	mitochondrion
+14651853	F7D3P8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9DCS9	CCO	GO:0005739	mitochondrion
+14651853	Q9DCS9	CCO	GO:0005739	mitochondrion
+12865426	Q9DCS9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	B0QZI7	CCO	GO:0005739	mitochondrion
+14651853	B0QZI7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QPX3	CCO	GO:0005739	mitochondrion
+14651853	E9QPX3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CXZ1	CCO	GO:0005739	mitochondrion
+14651853	Q9CXZ1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z2Q3	CCO	GO:0005739	mitochondrion
+14651853	D3Z2Q3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z3K5	CCO	GO:0005739	mitochondrion
+14651853	D3Z3K5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6TXD3	CCO	GO:0005739	mitochondrion
+14651853	F6TXD3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YXU1	CCO	GO:0005739	mitochondrion
+14651853	D3YXU1	CCO	GO:0005739	mitochondrion
+12865426	D3YXU1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F7DFG6	CCO	GO:0005739	mitochondrion
+14651853	F7DFG6	CCO	GO:0005739	mitochondrion
+12865426	F7DFG6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AHY2	CCO	GO:0005739	mitochondrion
+14651853	A2AHY2	CCO	GO:0005739	mitochondrion
+14651853	Q91W29	CCO	GO:0005739	mitochondrion
+18614015	Q91W29	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YX99	CCO	GO:0005739	mitochondrion
+14651853	D3YX99	CCO	GO:0005739	mitochondrion
+12865426	D3YX99	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DCJ5	CCO	GO:0005739	mitochondrion
+14651853	Q9DCJ5	CCO	GO:0005739	mitochondrion
+12865426	Q9DCJ5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z1Z0	CCO	GO:0005739	mitochondrion
+14651853	D3Z1Z0	CCO	GO:0005739	mitochondrion
+14651853	Q545U2	CCO	GO:0005739	mitochondrion
+18614015	Q545U2	CCO	GO:0005739	mitochondrion
+14651853	Q9Z0V8	CCO	GO:0005739	mitochondrion
+18614015	Q9Z0V8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D125	CCO	GO:0005739	mitochondrion
+14651853	Q9D125	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6REU1	CCO	GO:0005739	mitochondrion
+14651853	D6REU1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6RCA2	CCO	GO:0005739	mitochondrion
+14651853	F6RCA2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2RSV8	CCO	GO:0005739	mitochondrion
+14651853	A2RSV8	CCO	GO:0005739	mitochondrion
+12865426	A2RSV8	CCO	GO:0005743	mitochondrial inner membrane
+14651853	P19783	CCO	GO:0005739	mitochondrion
+18614015	P19783	CCO	GO:0005739	mitochondrion
+12865426	P19783	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P50637	CCO	GO:0005739	mitochondrion
+14651853	P50637	CCO	GO:0005739	mitochondrion
+14651853	Q541E3	CCO	GO:0005739	mitochondrion
+18614015	Q541E3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z1A8	CCO	GO:0005739	mitochondrion
+14651853	D3Z1A8	CCO	GO:0005739	mitochondrion
+14651853	Q9CZB0	CCO	GO:0005739	mitochondrion
+18614015	Q9CZB0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D7P6	CCO	GO:0005739	mitochondrion
+14651853	Q9D7P6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z5H8	CCO	GO:0005739	mitochondrion
+14651853	D3Z5H8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6TCT7	CCO	GO:0005739	mitochondrion
+14651853	F6TCT7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q8L1	CCO	GO:0005739	mitochondrion
+14651853	E9Q8L1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UZJ4	CCO	GO:0005739	mitochondrion
+14651853	G3UZJ4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P97493	CCO	GO:0005739	mitochondrion
+14651853	P97493	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQ40	CCO	GO:0005739	mitochondrion
+14651853	Q9CQ40	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7CZD1	CCO	GO:0005739	mitochondrion
+14651853	F7CZD1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YZC0	CCO	GO:0005739	mitochondrion
+14651853	D3YZC0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9D0S9	CCO	GO:0005739	mitochondrion
+14651853	Q9D0S9	CCO	GO:0005739	mitochondrion
+18614015	Q9D0S9	CCO	GO:0005739	mitochondrion
+18614015	Q5M9J2	CCO	GO:0005739	mitochondrion
+14651853	Q5M9J2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F2Z482	CCO	GO:0005739	mitochondrion
+14651853	F2Z482	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UYJ5	CCO	GO:0005739	mitochondrion
+14651853	G3UYJ5	CCO	GO:0005739	mitochondrion
+12865426	G3UYJ5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQ43	CCO	GO:0005739	mitochondrion
+14651853	Q9CQ43	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1H3	CCO	GO:0005739	mitochondrion
+14651853	E9Q1H3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1ASE2	CCO	GO:0005739	mitochondrion
+14651853	B1ASE2	CCO	GO:0005739	mitochondrion
+12865426	B1ASE2	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9DCX2	CCO	GO:0005739	mitochondrion
+14651853	Q9DCX2	CCO	GO:0005739	mitochondrion
+18614015	Q9DCX2	CCO	GO:0005739	mitochondrion
+12865426	Q9DCX2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6TBZ5	CCO	GO:0005739	mitochondrion
+14651853	F6TBZ5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q8VDT9	CCO	GO:0005739	mitochondrion
+18614015	Q8VDT9	CCO	GO:0005739	mitochondrion
+18614015	A2AKK8	CCO	GO:0005739	mitochondrion
+14651853	A2AKK8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CXV1	CCO	GO:0005739	mitochondrion
+14651853	Q9CXV1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1R2	CCO	GO:0005739	mitochondrion
+14651853	E9Q1R2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q3V5	CCO	GO:0005739	mitochondrion
+14651853	E9Q3V5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9QMT1	CCO	GO:0005739	mitochondrion
+14651853	E9QMT1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RFD7	CCO	GO:0005739	mitochondrion
+14651853	D6RFD7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6QPR1	CCO	GO:0005739	mitochondrion
+14651853	F6QPR1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q569N0	CCO	GO:0005739	mitochondrion
+18614015	Q569N0	CCO	GO:0005739	mitochondrion
+14651853	Q9CR21	CCO	GO:0005739	mitochondrion
+18614015	Q9CR21	CCO	GO:0005739	mitochondrion
+18614015	F6ZFT1	CCO	GO:0005739	mitochondrion
+14651853	F6ZFT1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6YNX9	CCO	GO:0005739	mitochondrion
+14651853	F6YNX9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P08228	CCO	GO:0005739	mitochondrion
+14651853	P08228	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PYQ8	CCO	GO:0005739	mitochondrion
+14651853	E9PYQ8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D1L0	CCO	GO:0005739	mitochondrion
+14651853	Q9D1L0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q80Y14	CCO	GO:0005739	mitochondrion
+14651853	Q80Y14	CCO	GO:0005739	mitochondrion
+14651853	Q80Y14	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQ92	CCO	GO:0005739	mitochondrion
+14651853	Q9CQ92	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	O09111	CCO	GO:0005739	mitochondrion
+18614015	O09111	CCO	GO:0005739	mitochondrion
+18614015	B1AV40	CCO	GO:0005739	mitochondrion
+14651853	B1AV40	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6QXT4	CCO	GO:0005739	mitochondrion
+14651853	F6QXT4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2A439	CCO	GO:0005739	mitochondrion
+14651853	A2A439	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B1AX77	CCO	GO:0005739	mitochondrion
+14651853	B1AX77	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YUK4	CCO	GO:0005739	mitochondrion
+14651853	D3YUK4	CCO	GO:0005739	mitochondrion
+12865426	D3YUK4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RGT1	CCO	GO:0005739	mitochondrion
+14651853	D6RGT1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A6QRH3	CCO	GO:0005739	mitochondrion
+14651853	A6QRH3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q5SUY2	CCO	GO:0005739	mitochondrion
+14651853	Q5SUY2	CCO	GO:0005739	mitochondrion
+14651853	Q99N92	CCO	GO:0005739	mitochondrion
+18614015	Q99N92	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q7TMF3	CCO	GO:0005739	mitochondrion
+14651853	Q7TMF3	CCO	GO:0005739	mitochondrion
+14651853	Q7TMF3	CCO	GO:0005739	mitochondrion
+14651853	Q8BME2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P12787	CCO	GO:0005739	mitochondrion
+14651853	P12787	CCO	GO:0005739	mitochondrion
+12865426	P12787	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q2P9	CCO	GO:0005739	mitochondrion
+14651853	E9Q2P9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3X9U9	CCO	GO:0005739	mitochondrion
+14651853	G3X9U9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q4KL41	CCO	GO:0005739	mitochondrion
+14651853	Q4KL41	CCO	GO:0005739	mitochondrion
+14651853	Q9DCC8	CCO	GO:0005739	mitochondrion
+18614015	Q9DCC8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D1I6	CCO	GO:0005739	mitochondrion
+14651853	Q9D1I6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z2A5	CCO	GO:0005739	mitochondrion
+14651853	D3Z2A5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7CFA5	CCO	GO:0005739	mitochondrion
+14651853	F7CFA5	CCO	GO:0005739	mitochondrion
+12865426	F7CFA5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9ERS2	CCO	GO:0005739	mitochondrion
+14651853	Q9ERS2	CCO	GO:0005739	mitochondrion
+14651853	Q9ERS2	CCO	GO:0005739	mitochondrion
+12865426	Q9ERS2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6V2A3	CCO	GO:0005739	mitochondrion
+14651853	F6V2A3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6TEU8	CCO	GO:0005739	mitochondrion
+14651853	F6TEU8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9CQR4	CCO	GO:0005739	mitochondrion
+14651853	Q9CQR4	CCO	GO:0005739	mitochondrion
+18614015	Q9CQR4	CCO	GO:0005739	mitochondrion
+18614015	Q4VA32	CCO	GO:0005739	mitochondrion
+14651853	Q4VA32	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B2FDG7	CCO	GO:0005739	mitochondrion
+14651853	B2FDG7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O35680	CCO	GO:0005739	mitochondrion
+14651853	O35680	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CR98	CCO	GO:0005739	mitochondrion
+14651853	Q9CR98	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CR61	CCO	GO:0005739	mitochondrion
+14651853	Q9CR61	CCO	GO:0005739	mitochondrion
+12865426	Q9CR61	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z0K9	CCO	GO:0005739	mitochondrion
+14651853	D3Z0K9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RDT5	CCO	GO:0005739	mitochondrion
+14651853	D6RDT5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q5SVG6	CCO	GO:0005739	mitochondrion
+14651853	Q5SVG6	CCO	GO:0005739	mitochondrion
+12865426	Q5SVG6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CR84	CCO	GO:0005739	mitochondrion
+14651853	Q9CR84	CCO	GO:0005739	mitochondrion
+12865426	Q9CR84	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q3C2	CCO	GO:0005739	mitochondrion
+14651853	E9Q3C2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F8WGB3	CCO	GO:0005739	mitochondrion
+14651853	F8WGB3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CPX7	CCO	GO:0005739	mitochondrion
+14651853	Q9CPX7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PZS8	CCO	GO:0005739	mitochondrion
+14651853	E9PZS8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AWJ5	CCO	GO:0005739	mitochondrion
+14651853	A2AWJ5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YWM4	CCO	GO:0005739	mitochondrion
+14651853	D3YWM4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z096	CCO	GO:0005739	mitochondrion
+14651853	D3Z096	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQZ5	CCO	GO:0005739	mitochondrion
+14651853	Q9CQZ5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UZY2	CCO	GO:0005739	mitochondrion
+14651853	G3UZY2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AP31	CCO	GO:0005739	mitochondrion
+14651853	A2AP31	CCO	GO:0005739	mitochondrion
+14651853	Q3UIU2	CCO	GO:0005739	mitochondrion
+18614015	Q3UIU2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RE23	CCO	GO:0005739	mitochondrion
+14651853	D6RE23	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F8WJ64	CCO	GO:0005739	mitochondrion
+14651853	F8WJ64	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CR88	CCO	GO:0005739	mitochondrion
+14651853	Q9CR88	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9D023	CCO	GO:0005739	mitochondrion
+14651853	Q9D023	CCO	GO:0005739	mitochondrion
+14651853	Q9D023	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RFU3	CCO	GO:0005739	mitochondrion
+14651853	D6RFU3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7C189	CCO	GO:0005739	mitochondrion
+14651853	F7C189	CCO	GO:0005739	mitochondrion
+12865426	F7C189	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9PUY1	CCO	GO:0005739	mitochondrion
+14651853	E9PUY1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P58064	CCO	GO:0005739	mitochondrion
+14651853	P58064	CCO	GO:0005739	mitochondrion
+14651853	Q3TLQ4	CCO	GO:0005739	mitochondrion
+18614015	Q3TLQ4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RE47	CCO	GO:0005739	mitochondrion
+14651853	D6RE47	CCO	GO:0005739	mitochondrion
+14651853	F6ZBG7	CCO	GO:0005739	mitochondrion
+18614015	F6ZBG7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UYJ1	CCO	GO:0005739	mitochondrion
+14651853	G3UYJ1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2ARF5	CCO	GO:0005739	mitochondrion
+14651853	A2ARF5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BTB8	CCO	GO:0005739	mitochondrion
+14651853	Q8BTB8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z2K2	CCO	GO:0005739	mitochondrion
+14651853	D3Z2K2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UZZ9	CCO	GO:0005739	mitochondrion
+14651853	G3UZZ9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1G1	CCO	GO:0005739	mitochondrion
+14651853	E9Q1G1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RG60	CCO	GO:0005739	mitochondrion
+14651853	D6RG60	CCO	GO:0005739	mitochondrion
+12865426	D6RG60	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YWF8	CCO	GO:0005739	mitochondrion
+14651853	D3YWF8	CCO	GO:0005739	mitochondrion
+14651853	D3Z198	CCO	GO:0005739	mitochondrion
+18614015	D3Z198	CCO	GO:0005739	mitochondrion
+14651853	D3YX95	CCO	GO:0005739	mitochondrion
+18614015	D3YX95	CCO	GO:0005739	mitochondrion
+14651853	Q9CQE3	CCO	GO:0005739	mitochondrion
+18614015	Q9CQE3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3TUS3	CCO	GO:0005739	mitochondrion
+14651853	Q3TUS3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6S0J8	CCO	GO:0005739	mitochondrion
+14651853	F6S0J8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CPP6	CCO	GO:0005739	mitochondrion
+14651853	Q9CPP6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RHK7	CCO	GO:0005739	mitochondrion
+14651853	D6RHK7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q6L3	CCO	GO:0005739	mitochondrion
+14651853	E9Q6L3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6W7C7	CCO	GO:0005739	mitochondrion
+14651853	F6W7C7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQN6	CCO	GO:0005739	mitochondrion
+14651853	Q9CQN6	CCO	GO:0005739	mitochondrion
+14651853	Q9CQN6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9Z1P6	CCO	GO:0005739	mitochondrion
+14651853	Q9Z1P6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q9DCW5	CCO	GO:0005739	mitochondrion
+18614015	Q9DCW5	CCO	GO:0005739	mitochondrion
+18614015	P43024	CCO	GO:0005739	mitochondrion
+14651853	P43024	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q3UDK5	CCO	GO:0005739	mitochondrion
+14651853	Q3UDK5	CCO	GO:0005739	mitochondrion
+14651853	Q61387	CCO	GO:0005739	mitochondrion
+18614015	Q61387	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQB4	CCO	GO:0005739	mitochondrion
+14651853	Q9CQB4	CCO	GO:0005739	mitochondrion
+12865426	Q9CQB4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2APS5	CCO	GO:0005739	mitochondrion
+14651853	A2APS5	CCO	GO:0005739	mitochondrion
+11591653	A2APS5	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WI63	CCO	GO:0005739	mitochondrion
+14651853	F8WI63	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YVK4	CCO	GO:0005739	mitochondrion
+14651853	D3YVK4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6RN86	CCO	GO:0005739	mitochondrion
+14651853	F6RN86	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P97450	CCO	GO:0005739	mitochondrion
+18614015	P97450	CCO	GO:0005739	mitochondrion
+12865426	P97450	CCO	GO:0005743	mitochondrial inner membrane
+18614015	E9QAD6	CCO	GO:0005739	mitochondrion
+14651853	E9QAD6	CCO	GO:0005739	mitochondrion
+12865426	E9QAD6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q91WS0	CCO	GO:0005739	mitochondrion
+14651853	Q91WS0	CCO	GO:0005739	mitochondrion
+14651853	Q91WS0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q60945	CCO	GO:0005739	mitochondrion
+14651853	Q60945	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8R0E2	CCO	GO:0005739	mitochondrion
+14651853	Q8R0E2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UX99	CCO	GO:0005739	mitochondrion
+14651853	G3UX99	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q99LY9	CCO	GO:0005739	mitochondrion
+18614015	Q99LY9	CCO	GO:0005739	mitochondrion
+18614015	B1ARW4	CCO	GO:0005739	mitochondrion
+14651853	B1ARW4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PV44	CCO	GO:0005739	mitochondrion
+14651853	E9PV44	CCO	GO:0005739	mitochondrion
+14651853	Q9D879	CCO	GO:0005739	mitochondrion
+18614015	Q9D879	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P10639	CCO	GO:0005739	mitochondrion
+18614015	P10639	CCO	GO:0005739	mitochondrion
+18614015	A2AV97	CCO	GO:0005739	mitochondrion
+14651853	A2AV97	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CPU2	CCO	GO:0005739	mitochondrion
+14651853	Q9CPU2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6Q8V7	CCO	GO:0005739	mitochondrion
+14651853	F6Q8V7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UVT7	CCO	GO:0005739	mitochondrion
+14651853	G3UVT7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q8BK30	CCO	GO:0005739	mitochondrion
+14651853	Q8BK30	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQZ6	CCO	GO:0005739	mitochondrion
+14651853	Q9CQZ6	CCO	GO:0005739	mitochondrion
+12865426	Q9CQZ6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q579	CCO	GO:0005739	mitochondrion
+14651853	E9Q579	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YVK6	CCO	GO:0005739	mitochondrion
+14651853	D3YVK6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YZ32	CCO	GO:0005739	mitochondrion
+14651853	D3YZ32	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q4KL76	CCO	GO:0005739	mitochondrion
+14651853	Q4KL76	CCO	GO:0005739	mitochondrion
+14651853	Q64433	CCO	GO:0005739	mitochondrion
+18614015	Q64433	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQX8	CCO	GO:0005739	mitochondrion
+14651853	Q9CQX8	CCO	GO:0005739	mitochondrion
+14651853	Q9CQX8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PX16	CCO	GO:0005739	mitochondrion
+14651853	E9PX16	CCO	GO:0005739	mitochondrion
+12865426	E9PX16	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D6T9	CCO	GO:0005739	mitochondrion
+14651853	Q9D6T9	CCO	GO:0005739	mitochondrion
+14651853	Q9D6T9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9WV96	CCO	GO:0005739	mitochondrion
+14651853	Q9WV96	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6QD41	CCO	GO:0005739	mitochondrion
+14651853	F6QD41	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQ75	CCO	GO:0005739	mitochondrion
+14651853	Q9CQ75	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AP32	CCO	GO:0005739	mitochondrion
+14651853	A2AP32	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P43023	CCO	GO:0005739	mitochondrion
+14651853	P43023	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6V317	CCO	GO:0005739	mitochondrion
+14651853	F6V317	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6ZQJ5	CCO	GO:0005739	mitochondrion
+14651853	F6ZQJ5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6WNZ2	CCO	GO:0005739	mitochondrion
+14651853	F6WNZ2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P62075	CCO	GO:0005739	mitochondrion
+14651853	P62075	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q1D3	CCO	GO:0005739	mitochondrion
+14651853	E9Q1D3	CCO	GO:0005739	mitochondrion
+12865426	E9Q1D3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YVK5	CCO	GO:0005739	mitochondrion
+14651853	D3YVK5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UXK7	CCO	GO:0005739	mitochondrion
+14651853	G3UXK7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UYA9	CCO	GO:0005739	mitochondrion
+14651853	G3UYA9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q6P910	CCO	GO:0005739	mitochondrion
+14651853	Q6P910	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q99N91	CCO	GO:0005739	mitochondrion
+14651853	Q99N91	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2ATS2	CCO	GO:0005739	mitochondrion
+14651853	A2ATS2	CCO	GO:0005739	mitochondrion
+14651853	P62073	CCO	GO:0005739	mitochondrion
+18614015	P62073	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6VTG4	CCO	GO:0005739	mitochondrion
+14651853	F6VTG4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P99028	CCO	GO:0005739	mitochondrion
+18614015	P99028	CCO	GO:0005739	mitochondrion
+12865426	P99028	CCO	GO:0005743	mitochondrial inner membrane
+18614015	B1ASG5	CCO	GO:0005739	mitochondrion
+14651853	B1ASG5	CCO	GO:0005739	mitochondrion
+12865426	B1ASG5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RJ16	CCO	GO:0005739	mitochondrion
+14651853	D6RJ16	CCO	GO:0005739	mitochondrion
+12865426	D6RJ16	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9WV98	CCO	GO:0005739	mitochondrion
+14651853	Q9WV98	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2A8E9	CCO	GO:0005739	mitochondrion
+14651853	A2A8E9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	P56135	CCO	GO:0005739	mitochondrion
+18614015	P56135	CCO	GO:0005739	mitochondrion
+12865426	P56135	CCO	GO:0005743	mitochondrial inner membrane
+18614015	F8WHP8	CCO	GO:0005739	mitochondrion
+14651853	F8WHP8	CCO	GO:0005739	mitochondrion
+12865426	F8WHP8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YVZ9	CCO	GO:0005739	mitochondrion
+14651853	D3YVZ9	CCO	GO:0005739	mitochondrion
+12865426	D3YVZ9	CCO	GO:0005743	mitochondrial inner membrane
+14651853	P58059	CCO	GO:0005739	mitochondrion
+18614015	P58059	CCO	GO:0005739	mitochondrion
+12865426	P58059	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q059G7	CCO	GO:0005739	mitochondrion
+18614015	Q059G7	CCO	GO:0005739	mitochondrion
+12865426	Q059G7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q0F3	CCO	GO:0005739	mitochondrion
+14651853	E9Q0F3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P56391	CCO	GO:0005739	mitochondrion
+14651853	P56391	CCO	GO:0005739	mitochondrion
+12865426	P56391	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RFE1	CCO	GO:0005739	mitochondrion
+14651853	D6RFE1	CCO	GO:0005739	mitochondrion
+12865426	D6RFE1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6USF4	CCO	GO:0005739	mitochondrion
+14651853	F6USF4	CCO	GO:0005739	mitochondrion
+12865426	F6USF4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P48771	CCO	GO:0005739	mitochondrion
+14651853	P48771	CCO	GO:0005739	mitochondrion
+12865426	P48771	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P62077	CCO	GO:0005739	mitochondrion
+14651853	P62077	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q62425	CCO	GO:0005739	mitochondrion
+14651853	Q62425	CCO	GO:0005739	mitochondrion
+12865426	Q62425	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQ69	CCO	GO:0005739	mitochondrion
+14651853	Q9CQ69	CCO	GO:0005739	mitochondrion
+12865426	Q9CQ69	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z105	CCO	GO:0005739	mitochondrion
+14651853	D3Z105	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P56392	CCO	GO:0005739	mitochondrion
+14651853	P56392	CCO	GO:0005739	mitochondrion
+14651853	Q792A4	CCO	GO:0005739	mitochondrion
+18614015	Q792A4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P56393	CCO	GO:0005739	mitochondrion
+14651853	P56393	CCO	GO:0005739	mitochondrion
+14651853	Q5FW98	CCO	GO:0005739	mitochondrion
+18614015	Q5FW98	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P60603	CCO	GO:0005739	mitochondrion
+14651853	P60603	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9PVF9	CCO	GO:0005739	mitochondrion
+14651853	E9PVF9	CCO	GO:0005739	mitochondrion
+12865426	E9PVF9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CTT7	CCO	GO:0005739	mitochondrion
+14651853	Q9CTT7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3YTQ8	CCO	GO:0005739	mitochondrion
+14651853	D3YTQ8	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	B7ZDD8	CCO	GO:0005739	mitochondrion
+18614015	B7ZDD8	CCO	GO:0005739	mitochondrion
+18614015	B7ZDD7	CCO	GO:0005739	mitochondrion
+14651853	B7ZDD7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RG68	CCO	GO:0005739	mitochondrion
+14651853	D6RG68	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z6E1	CCO	GO:0005739	mitochondrion
+14651853	D3Z6E1	CCO	GO:0005739	mitochondrion
+12865426	D3Z6E1	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q9CPQ1	CCO	GO:0005739	mitochondrion
+18614015	Q9CPQ1	CCO	GO:0005739	mitochondrion
+12865426	Q9CPQ1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQY9	CCO	GO:0005739	mitochondrion
+14651853	Q9CQY9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UY77	CCO	GO:0005739	mitochondrion
+14651853	G3UY77	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7BP55	CCO	GO:0005739	mitochondrion
+14651853	F7BP55	CCO	GO:0005739	mitochondrion
+12865426	F7BP55	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6XVM5	CCO	GO:0005739	mitochondrion
+14651853	F6XVM5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D3Z1K5	CCO	GO:0005739	mitochondrion
+14651853	D3Z1K5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	O35683	CCO	GO:0005739	mitochondrion
+14651853	O35683	CCO	GO:0005739	mitochondrion
+14651853	Q545K0	CCO	GO:0005739	mitochondrion
+18614015	Q545K0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P48772	CCO	GO:0005739	mitochondrion
+14651853	P48772	CCO	GO:0005739	mitochondrion
+14651853	Q545U6	CCO	GO:0005739	mitochondrion
+18614015	Q545U6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q7I3	CCO	GO:0005739	mitochondrion
+14651853	E9Q7I3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q64445	CCO	GO:0005739	mitochondrion
+14651853	Q64445	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A3KGA5	CCO	GO:0005739	mitochondrion
+14651853	A3KGA5	CCO	GO:0005739	mitochondrion
+14651853	A3KGA6	CCO	GO:0005739	mitochondrion
+18614015	A3KGA6	CCO	GO:0005739	mitochondrion
+14651853	Q61908	CCO	GO:0005739	mitochondrion
+18614015	Q61908	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RG99	CCO	GO:0005739	mitochondrion
+14651853	D6RG99	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6U693	CCO	GO:0005739	mitochondrion
+14651853	F6U693	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UXP6	CCO	GO:0005739	mitochondrion
+14651853	G3UXP6	CCO	GO:0005739	mitochondrion
+12865426	G3UXP6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z4I2	CCO	GO:0005739	mitochondrion
+14651853	D3Z4I2	CCO	GO:0005739	mitochondrion
+12865426	D3Z4I2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6RP11	CCO	GO:0005739	mitochondrion
+14651853	F6RP11	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CQP0	CCO	GO:0005739	mitochondrion
+14651853	Q9CQP0	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+14651853	Q8R1I1	CCO	GO:0005739	mitochondrion
+14651853	Q8R1I1	CCO	GO:0005739	mitochondrion
+18614015	Q8R1I1	CCO	GO:0005739	mitochondrion
+12865426	Q8R1I1	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q5NCJ9	CCO	GO:0005739	mitochondrion
+14651853	Q5NCJ9	CCO	GO:0005739	mitochondrion
+12865426	Q5NCJ9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	P17665	CCO	GO:0005739	mitochondrion
+18614015	P17665	CCO	GO:0005739	mitochondrion
+12865426	P17665	CCO	GO:0005743	mitochondrial inner membrane
+14651853	B8JJB0	CCO	GO:0005739	mitochondrion
+18614015	B8JJB0	CCO	GO:0005739	mitochondrion
+12865426	B8JJB0	CCO	GO:0005743	mitochondrial inner membrane
+18614015	B8JJA8	CCO	GO:0005739	mitochondrion
+14651853	B8JJA8	CCO	GO:0005739	mitochondrion
+12865426	B8JJA8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6VXF9	CCO	GO:0005739	mitochondrion
+14651853	F6VXF9	CCO	GO:0005739	mitochondrion
+12865426	F6VXF9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WI84	CCO	GO:0005739	mitochondrion
+14651853	F8WI84	CCO	GO:0005739	mitochondrion
+12865426	F8WI84	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	G3UX46	CCO	GO:0005739	mitochondrion
+14651853	G3UX46	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	A2AWE5	CCO	GO:0005739	mitochondrion
+14651853	A2AWE5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	E9Q3T4	CCO	GO:0005739	mitochondrion
+14651853	E9Q3T4	CCO	GO:0005739	mitochondrion
+12865426	E9Q3T4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F2Z416	CCO	GO:0005739	mitochondrion
+14651853	F2Z416	CCO	GO:0005739	mitochondrion
+12865426	F2Z416	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RET9	CCO	GO:0005739	mitochondrion
+14651853	D6RET9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RGL7	CCO	GO:0005739	mitochondrion
+14651853	D6RGL7	CCO	GO:0005739	mitochondrion
+12865426	D6RGL7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6XUL3	CCO	GO:0005739	mitochondrion
+14651853	F6XUL3	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	B7ZDD9	CCO	GO:0005739	mitochondrion
+14651853	B7ZDD9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CPX8	CCO	GO:0005739	mitochondrion
+14651853	Q9CPX8	CCO	GO:0005739	mitochondrion
+12865426	Q9CPX8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D2Q7	CCO	GO:0005739	mitochondrion
+14651853	Q9D2Q7	CCO	GO:0005739	mitochondrion
+12865426	Q9D2Q7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WHN1	CCO	GO:0005739	mitochondrion
+14651853	F8WHN1	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	P56382	CCO	GO:0005739	mitochondrion
+14651853	P56382	CCO	GO:0005739	mitochondrion
+12865426	P56382	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q545F5	CCO	GO:0005739	mitochondrion
+18614015	Q545F5	CCO	GO:0005739	mitochondrion
+12865426	Q545F5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	B8JJA9	CCO	GO:0005739	mitochondrion
+14651853	B8JJA9	CCO	GO:0005739	mitochondrion
+12865426	B8JJA9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	G3UZ58	CCO	GO:0005739	mitochondrion
+14651853	G3UZ58	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RI16	CCO	GO:0005739	mitochondrion
+14651853	D6RI16	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3UYP8	CCO	GO:0005739	mitochondrion
+14651853	G3UYP8	CCO	GO:0005739	mitochondrion
+12865426	G3UYP8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	G3UXZ4	CCO	GO:0005739	mitochondrion
+14651853	G3UXZ4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RJ48	CCO	GO:0005739	mitochondrion
+14651853	D6RJ48	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6REV7	CCO	GO:0005739	mitochondrion
+14651853	D6REV7	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F2Z407	CCO	GO:0005739	mitochondrion
+14651853	F2Z407	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	G3X8T4	CCO	GO:0005739	mitochondrion
+14651853	G3X8T4	CCO	GO:0005739	mitochondrion
+12865426	G3X8T4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F2Z3Y5	CCO	GO:0005739	mitochondrion
+14651853	F2Z3Y5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	D6RGN4	CCO	GO:0005739	mitochondrion
+14651853	D6RGN4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F6RBR6	CCO	GO:0005739	mitochondrion
+14651853	F6RBR6	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F8WH34	CCO	GO:0005739	mitochondrion
+14651853	F8WH34	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	Q9CTB2	CCO	GO:0005739	mitochondrion
+14651853	Q9CTB2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 True
+#
+18614015	F7BPA5	CCO	GO:0005739	mitochondrion
+14651853	F7BPA5	CCO	GO:0005739	mitochondrion
+12865426	F7BPA5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	G3UZR5	CCO	GO:0005739	mitochondrion
+14651853	G3UZR5	CCO	GO:0005739	mitochondrion
+12865426	G3UZR5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UDQ7	CCO	GO:0005739	mitochondrion
+12865426	Q3UDQ7	CCO	GO:0005743	mitochondrial inner membrane
+12865426	Q8JZQ2	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q8JZQ2	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9JI39	CCO	GO:0005739	mitochondrion
+12865426	Q9JI39	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BH59	CCO	GO:0005739	mitochondrion
+12865426	Q8BH59	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8JZN7	CCO	GO:0005739	mitochondrion
+12865426	Q8JZN7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+12865426	Q9WU79	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q9WU79	CCO	GO:0005739	mitochondrion
+18614015	F6XMC0	CCO	GO:0005739	mitochondrion
+12865426	F6XMC0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3TPY4	CCO	GO:0005739	mitochondrion
+12865426	Q3TPY4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BJ64	CCO	GO:0005739	mitochondrion
+12865426	Q8BJ64	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2A8D1	CCO	GO:0005739	mitochondrion
+12865426	A2A8D1	CCO	GO:0005743	mitochondrial inner membrane
+12865426	Q5U458	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q5U458	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	B1ATI0	CCO	GO:0005739	mitochondrion
+12865426	B1ATI0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BW75	CCO	GO:0005739	mitochondrion
+12865426	Q8BW75	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WIG7	CCO	GO:0005739	mitochondrion
+12865426	F8WIG7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	B1AV77	CCO	GO:0005739	mitochondrion
+12865426	B1AV77	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P47740	CCO	GO:0005739	mitochondrion
+12865426	P47740	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F8WJL2	CCO	GO:0005739	mitochondrion
+12865426	F8WJL2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BGH2	CCO	GO:0005739	mitochondrion
+12865426	Q8BGH2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8VCZ9	CCO	GO:0005739	mitochondrion
+12865426	Q8VCZ9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9DB77	CCO	GO:0005739	mitochondrion
+12865426	Q9DB77	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8C5J1	CCO	GO:0005739	mitochondrion
+12865426	Q8C5J1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BJ03	CCO	GO:0005739	mitochondrion
+12865426	Q8BJ03	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q8B3	CCO	GO:0005739	mitochondrion
+12865426	E9Q8B3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9QPY1	CCO	GO:0005739	mitochondrion
+12865426	E9QPY1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q61694	CCO	GO:0005739	mitochondrion
+12865426	Q61694	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q925N0	CCO	GO:0005739	mitochondrion
+12865426	Q925N0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+12865426	Q3V132	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q3V132	CCO	GO:0005739	mitochondrion
+18614015	B2RTC8	CCO	GO:0005739	mitochondrion
+12865426	B2RTC8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8R0Y8	CCO	GO:0005739	mitochondrion
+12865426	Q8R0Y8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3TVU9	CCO	GO:0005739	mitochondrion
+12865426	Q3TVU9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q99L04	CCO	GO:0005739	mitochondrion
+12865426	Q99L04	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D050	CCO	GO:0005739	mitochondrion
+12865426	Q9D050	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AFW7	CCO	GO:0005739	mitochondrion
+12865426	A2AFW7	CCO	GO:0005743	mitochondrial inner membrane
+12865426	Q791V5	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q791V5	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q8BRQ9	CCO	GO:0005739	mitochondrion
+12865426	Q8BRQ9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+12865426	Q9WVD5	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q9WVD5	CCO	GO:0005739	mitochondrion
+18614015	Q543E2	CCO	GO:0005739	mitochondrion
+12865426	Q543E2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9Z2Z6	CCO	GO:0005739	mitochondrion
+12865426	Q9Z2Z6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	P48962	CCO	GO:0005739	mitochondrion
+12865426	P48962	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AFW6	CCO	GO:0005739	mitochondrion
+12865426	A2AFW6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YV12	CCO	GO:0005739	mitochondrion
+12865426	D3YV12	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F7CED2	CCO	GO:0005739	mitochondrion
+12865426	F7CED2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z5H4	CCO	GO:0005739	mitochondrion
+12865426	D3Z5H4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6PYI8	CCO	GO:0005739	mitochondrion
+12865426	F6PYI8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q3X6	CCO	GO:0005739	mitochondrion
+12865426	E9Q3X6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D8P4	CCO	GO:0005739	mitochondrion
+12865426	Q9D8P4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+12865426	Q9Z0V7	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q9Z0V7	CCO	GO:0005739	mitochondrion
+18614015	Q545H3	CCO	GO:0005739	mitochondrion
+12865426	Q545H3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YXH6	CCO	GO:0005739	mitochondrion
+12865426	D3YXH6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q4FK74	CCO	GO:0005739	mitochondrion
+12865426	Q4FK74	CCO	GO:0005743	mitochondrial inner membrane
+12865426	Q9D3D9	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q9D3D9	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9Q0V4	CCO	GO:0005739	mitochondrion
+12865426	E9Q0V4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6RSP9	CCO	GO:0005739	mitochondrion
+12865426	F6RSP9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	A2AES1	CCO	GO:0005739	mitochondrion
+12865426	A2AES1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQX2	CCO	GO:0005739	mitochondrion
+12865426	Q9CQX2	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RET3	CCO	GO:0005739	mitochondrion
+12865426	D6RET3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CPQ3	CCO	GO:0005739	mitochondrion
+12865426	Q9CPQ3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6ZBU4	CCO	GO:0005739	mitochondrion
+12865426	F6ZBU4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z7S4	CCO	GO:0005739	mitochondrion
+12865426	D3Z7S4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQ54	CCO	GO:0005739	mitochondrion
+12865426	Q9CQ54	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9PVL9	CCO	GO:0005739	mitochondrion
+12865426	E9PVL9	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+12865426	P63030	CCO	GO:0005743	mitochondrial inner membrane
+18614015	P63030	CCO	GO:0005739	mitochondrion
+18614015	D3Z786	CCO	GO:0005739	mitochondrion
+12865426	D3Z786	CCO	GO:0005743	mitochondrial inner membrane
+12865426	Q3UX28	CCO	GO:0005743	mitochondrial inner membrane
+18614015	Q3UX28	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YXH5	CCO	GO:0005739	mitochondrion
+12865426	D3YXH5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9PUR5	CCO	GO:0005739	mitochondrion
+12865426	E9PUR5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z670	CCO	GO:0005739	mitochondrion
+12865426	D3Z670	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3Z5S0	CCO	GO:0005739	mitochondrion
+12865426	D3Z5S0	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D3YWY6	CCO	GO:0005739	mitochondrion
+12865426	D3YWY6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQ91	CCO	GO:0005739	mitochondrion
+12865426	Q9CQ91	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F6YFQ5	CCO	GO:0005739	mitochondrion
+12865426	F6YFQ5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RCZ1	CCO	GO:0005739	mitochondrion
+12865426	D6RCZ1	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	F7BLS8	CCO	GO:0005739	mitochondrion
+12865426	F7BLS8	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	D6RGT3	CCO	GO:0005739	mitochondrion
+12865426	D6RGT3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	G3UZM5	CCO	GO:0005739	mitochondrion
+12865426	G3UZM5	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+11591653	Q3UDB1	MFO	GO:0005515	protein binding
+11591653	Q3UDB1	MFO	GO:0042802	identical protein binding
+18614015	Q3UDB1	CCO	GO:0005739	mitochondrion
+11591653	Q3TIJ7	MFO	GO:0005515	protein binding
+11591653	Q3TIJ7	MFO	GO:0042802	identical protein binding
+18614015	Q3TIJ7	CCO	GO:0005739	mitochondrion
+18614015	P80313	CCO	GO:0005739	mitochondrion
+11591653	P80313	MFO	GO:0005515	protein binding
+11591653	P80313	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q3UIJ0	CCO	GO:0005739	mitochondrion
+11591653	Q3UIJ0	MFO	GO:0005515	protein binding
+11591653	Q3UIJ0	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9D009	CCO	GO:0005739	mitochondrion
+11591653	Q9D009	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9CQ85	CCO	GO:0005739	mitochondrion
+11591653	Q9CQ85	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	Q9R1Z7	CCO	GO:0005739	mitochondrion
+11591653	Q9R1Z7	MFO	GO:0005515	protein binding
+11591653	Q9R1Z7	MFO	GO:0005515	protein binding
+11591653	Q9R1Z7	MFO	GO:0005515	protein binding
+11591653	Q9R1Z7	MFO	GO:0042802	identical protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	B0QZS8	CCO	GO:0005739	mitochondrion
+11591653	B0QZS8	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+18614015	E9PXB9	CCO	GO:0005739	mitochondrion
+11591653	E9PXB9	MFO	GO:0005515	protein binding
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q61102	CCO	GO:0005739	mitochondrion
+12865426	Q61102	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q91WN4	CCO	GO:0005739	mitochondrion
+12865426	Q91WN4	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q3V0K6	CCO	GO:0005739	mitochondrion
+12865426	Q3V0K6	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	E9QJW0	CCO	GO:0005739	mitochondrion
+12865426	E9QJW0	CCO	GO:0005743	mitochondrial inner membrane
+12865426	Q91VS7	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q91VS7	CCO	GO:0005739	mitochondrion
+12865426	Q53ZD4	CCO	GO:0005743	mitochondrial inner membrane
+14651853	Q53ZD4	CCO	GO:0005739	mitochondrion
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	Q9D8W7	CCO	GO:0005739	mitochondrion
+12865426	Q9D8W7	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	D3YU60	CCO	GO:0005739	mitochondrion
+12865426	D3YU60	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
+14651853	D3YVR3	CCO	GO:0005739	mitochondrion
+12865426	D3YVR3	CCO	GO:0005743	mitochondrial inner membrane
+ 	 	 	 	This group has identical annotations:	 False
+#
