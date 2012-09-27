@@ -51,7 +51,16 @@ def graph_pmid_eco(pmid_eco,eco_name_count):
         print i, eco_numbering_name[i]
     nx.draw(G)
     plt.show()
-    return G
+    return G,eco_numbering_name
+
+def n_neighbors(G, eco_numbering_name):
+    foo = open("foo","w")
+    for n in G.nodes():
+        print >> foo, "%d\t%s\t%d" % (n, eco_numbering_name[n], len(G.neighbors(n)))
+    foo.close() 
+
+
+    
 
 
 

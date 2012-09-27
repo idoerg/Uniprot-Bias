@@ -1,0 +1,41 @@
+0	protein expression evidence	4
+1	GFP fusion protein localization evidence	11
+2	yeast 2-hybrid evidence	2
+3	imaging assay evidence	2
+4	cell fractionation evidence	16
+5	Western blot evidence	15
+6	affinity chromatography evidence	2
+7	computational combinatorial evidence	16
+8	targeting sequence prediction evidence	13
+9	motif similarity evidence	20
+10	microarray RNA expression level evidence	1
+11	in vitro assay evidence	3
+12	sequence alignment evidence used in automatic assertion	6
+13	protein localization evidence	3
+14	mutant visible phenotype evidence	2
+15	co-purification evidence	2
+16	YFP localization	3
+17	RFP fusion protein localization	1
+18	reverse transcription polymerase chain reaction transcription evidence	3
+19	immunofluorescence evidence	6
+20	Mass spec	23
+21	sequence similarity evidence used in manual assertion	10
+22	hybrid interaction evidence	1
+23	epitope-tagged protein immunolocalization evidence	6
+24	mutant phenotype	12
+25	protein BLAST evidence used in manual assertion	8
+26	combinatorial evidence	20
+27	sequence similarity evidence used in automatic assertion	19
+28	mutant phenotype evidence used in manual assertion	4
+29	transmembrane domain prediction evidence	12
+30	sequence similarity evidence	8
+31	qRT-PCR	3
+32	protein BLAST evidence	3
+33	RNAi experimental evidence	13
+34	sequence orthology evidence used in manual assertion	1
+35	computational combinatorial evidence used in manual assertion	10
+36	cDNA microarray evidence	3
+37	Northern assay evidence	3
+38	mRNA microarray	10
+39	YFP fusion protein localization evidence	4
+40	transposon integration	8
