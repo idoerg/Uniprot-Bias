@@ -51,15 +51,33 @@ def graph_pmid_eco(pmid_eco,eco_name_count):
         print i, eco_numbering_name[i]
     nx.draw(G)
     plt.show()
-    return G,eco_numbering_name
+    return G,eco_numbering_name, eco_name_numbering
 
 def n_neighbors(G, eco_numbering_name):
+    # Number of neighbors per node. Also weighted by the number of papers a node (assertion
+    # code) appears in.
+
     foo = open("foo","w")
+    bar = open("bar","w")
     for n in G.nodes():
         print >> foo, "%d\t%s\t%d" % (n, eco_numbering_name[n], len(G.neighbors(n)))
     foo.close() 
 
+def term_count_in_papers(pmid_eco):
+    papers_per_term = defaultdict(int)
+    for pmid in pmid_eco:
+        for term in pmid_eco[pmid]:
+            term_id, term_name = term
+            papers_per_term[term_name] += 1
+    return papers_per_term
+         
+        
 
+if __name__ == '__main__':
+    eco_id_count, eco_name_count, eco_id_meaning, pmid_eco = \
+        parse_eco_pmid(open(sys.argv[1]))
+
+    
     
 
 
