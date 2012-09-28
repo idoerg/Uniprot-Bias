@@ -1,5 +1,7 @@
 
 from collections import defaultdict
+import networkx as nx
+import matplotlib.pyplot as plt
 def parse_eco_pmid(infile):
     eco_id_count = defaultdict(int)
     eco_name_count = defaultdict(int)
@@ -30,8 +32,6 @@ def amat_pmid_eco(pmid_eco):
 
     return adj_mat
 
-import networkx as nx
-import matplotlib.pyplot as plt
 def graph_pmid_eco(pmid_eco,eco_name_count):
     eco_name_numbering = {}
     eco_numbering_name = {}
@@ -53,14 +53,18 @@ def graph_pmid_eco(pmid_eco,eco_name_count):
     plt.show()
     return G,eco_numbering_name, eco_name_numbering
 
-def n_neighbors(G, eco_numbering_name):
+def get_n_neighbors(G, eco_numbering_name, pmid_eco):
     # Number of neighbors per node. Also weighted by the number of papers a node (assertion
     # code) appears in.
 
+    papers_per_term = term_count_in_papers(pmid_eco)
     foo = open("foo","w")
-    bar = open("bar","w")
     for n in G.nodes():
-        print >> foo, "%d\t%s\t%d" % (n, eco_numbering_name[n], len(G.neighbors(n)))
+        cur_name = eco_numbering_name[n]
+        n_papers = float(papers_per_term[cur_name])
+        num_neighbors = len(G.neighbors(n))
+        print >> foo, "%d\t%s\t%d\t%d\t%.2f" % (
+                       n, eco_numbering_name[n], num_neighbors, n_papers, num_neighbors/n_papers)
     foo.close() 
 
 def term_count_in_papers(pmid_eco):
@@ -78,8 +82,11 @@ if __name__ == '__main__':
         parse_eco_pmid(open(sys.argv[1]))
 
     
+    G,eco_numbering_name, eco_name_numbering = \
+        graph_pmid_eco(pmid_eco,eco_name_count)
     
 
+    papers_per_term = term_count_in_papers(pmid_eco)
 
 
 
