@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python
+import sys
 from collections import defaultdict
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -32,39 +33,28 @@ def amat_pmid_eco(pmid_eco):
 
     return adj_mat
 
-def graph_pmid_eco(pmid_eco,eco_name_count):
-    eco_name_numbering = {}
-    eco_numbering_name = {}
-    for i,eco_name in enumerate(eco_name_count):
-        eco_name_numbering[eco_name] = i
-        eco_numbering_name[i] = eco_name
+def graph_pmid_eco(pmid_eco,eco_id_count):
         
     # Draw a graph (should I weight edges?)
     G = nx.Graph()
     for eco_list in pmid_eco.values():
-        eco_name_list = [i[1] for i in eco_list]
-        for eco_pair in combinations(eco_name_list,2):
-            eco1 = eco_name_numbering[eco_pair[0]]
-            eco2 = eco_name_numbering[eco_pair[1]]
-            G.add_edge(eco1, eco2) 
-    for i in range(len(eco_numbering_name)):
-        print i, eco_numbering_name[i]
-    nx.draw(G)
-    plt.show()
-    return G,eco_numbering_name, eco_name_numbering
+        eco_id_list = [i[0] for i in eco_list]
+        for eco_pair in combinations(eco_id_list,2):
+            G.add_edge(*eco_pair)
+    return G
 
-def get_n_neighbors(G, eco_numbering_name, pmid_eco):
+def get_n_neighbors(G, pmid_eco, eco_id_meaning):
     # Number of neighbors per node. Also weighted by the number of papers a node (assertion
     # code) appears in.
 
     papers_per_term = term_count_in_papers(pmid_eco)
-    foo = open("foo","w")
-    for n in G.nodes():
-        cur_name = eco_numbering_name[n]
-        n_papers = float(papers_per_term[cur_name])
-        num_neighbors = len(G.neighbors(n))
-        print >> foo, "%d\t%s\t%d\t%d\t%.2f" % (
-                       n, eco_numbering_name[n], num_neighbors, n_papers, num_neighbors/n_papers)
+    foo = open("papers_per_term.csv","w")
+    for eco_id in G.nodes():
+        cur_name = eco_id_meaning[eco_id]
+        n_papers = float(papers_per_term[eco_id])
+        num_neighbors = len(G.neighbors(eco_id))
+        print >> foo, "%s\t%s\t%d\t%d\t%.2f" % (
+                       eco_id, cur_name, num_neighbors, n_papers, num_neighbors/n_papers)
     foo.close() 
 
 def term_count_in_papers(pmid_eco):
@@ -72,7 +62,7 @@ def term_count_in_papers(pmid_eco):
     for pmid in pmid_eco:
         for term in pmid_eco[pmid]:
             term_id, term_name = term
-            papers_per_term[term_name] += 1
+            papers_per_term[term_id] += 1
     return papers_per_term
          
         
@@ -82,12 +72,10 @@ if __name__ == '__main__':
         parse_eco_pmid(open(sys.argv[1]))
 
     
-    G,eco_numbering_name, eco_name_numbering = \
-        graph_pmid_eco(pmid_eco,eco_name_count)
+    G = graph_pmid_eco(pmid_eco,eco_id_count)
     
 
-    papers_per_term = term_count_in_papers(pmid_eco)
-
+    get_n_neighbors(G, pmid_eco, eco_id_meaning)
 
 
             
