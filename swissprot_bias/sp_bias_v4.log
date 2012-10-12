@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.8.15)  20 AUG 2012 12:59
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.8.15)  9 OCT 2012 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,8 +9,8 @@ Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, lo
 aded.
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -132,7 +132,11 @@ Package color Info: Driver file: dvips.def on input line 130.
 (/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
-(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
@@ -148,178 +152,121 @@ Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
 ) (./sp_bias_v4.aux)
 \openout1 = `sp_bias_v4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 105.
 
-! Undefined control sequence.
-l.87 \address
-             {%
-? 
-! Undefined control sequence.
-l.88     \iid
-             (1)Department of Bioengineering and Therapeutic Sciences, Unive...
-
-? 
-! Undefined control sequence.
-<recently read> \iid 
-                     
-l.89     \iid
-             (2)Department of Microbiology, Miami University, Oxford, OH USA\\
-? 
-! Undefined control sequence.
-<recently read> \iid 
-                     
-l.90     \iid
-             (3)Department of Computer Science and Software Engineering , Mi...
-
-? 
-LaTeX Font Info:    Try loading font information for U+msa on input line 99.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 99.
+LaTeX Font Info:    Try loading font information for U+msb on input line 105.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-
-! LaTeX Error: \begin{document} ended by \end{abstract}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.130 \end{abstract}
-                    
-? 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.130 \end{abstract}
-                    
-? 
-
-LaTeX Warning: Citation `Friedberg' on page 1 undefined on input line 139.
-
-
-LaTeX Warning: Citation `Orengo' on page 1 undefined on input line 139.
-
-
-LaTeX Warning: Citation `PMID22443932' on page 1 undefined on input line 141.
-
-
-LaTeX Warning: Citation `gersteinpaperPMID21867570' on page 1 undefined on inpu
-t line 145.
-
-
-LaTeX Warning: Citation `schnoespaper?cafapaper?Friedberg2006Orengo2011' on pag
-e 1 undefined on input line 147.
-
-
-LaTeX Warning: Citation `U-GOAref' on page 1 undefined on input line 149.
-
-
-LaTeX Warning: Citation `GOref' on page 1 undefined on input line 152.
-
-
-LaTeX Warning: Citation `swissprotref' on page 1 undefined on input line 157.
-
-
-LaTeX Warning: Citation `Schnoes2009' on page 1 undefined on input line 157.
+Overfull \hbox (24.36562pt too wide) in paragraph at lines 111--121
+ \OT1/cmr/bx/n/12 Back-ground: \OT1/cmr/m/n/12 Com-pu-ta-tional pro-tein func-t
+ion pre-dic-tion pro-grams rely upon well-annotated
+ []
 
 [1
 
 ]
 
-LaTeX Warning: Citation `Uniprot-GOA' on page 2 undefined on input line 189.
+LaTeX Warning: Citation `PMIDStahl2012Toward' on page 2 undefined on input line
+ 146.
+
+[2] [3] [4]
+
+LaTeX Warning: Reference `fig:papers-prots' on page 5 undefined on input line 2
+25.
 
 
-LaTeX Warning: Citation `BLAST' on page 2 undefined on input line 191.
+LaTeX Warning: Reference `fig:papers-prots' on page 5 undefined on input line 2
+27.
+
+[5]
+
+LaTeX Warning: Reference `table:top-papers' on page 6 undefined on input line 2
+53.
+
+[6]
+
+LaTeX Warning: Reference `tab:prop-bias' on page 7 undefined on input line 304.
 
 
-LaTeX Warning: Reference `fig:papers-prots' on page 2 undefined on input line 2
-19.
+[7]
 
-[2]
-
-LaTeX Warning: Reference `fig:papers-prots' on page 3 undefined on input line 2
-21.
+LaTeX Warning: Citation `CD_HIT' on page 8 undefined on input line 313.
 
 
-LaTeX Warning: Reference `tab:cohorts' on page 3 undefined on input line 231.
+LaTeX Warning: Reference `fig:dreamcatcher1' on page 8 undefined on input line 
+318.
 
 
-LaTeX Warning: Reference `table:top-papers' on page 3 undefined on input line 2
-44.
+LaTeX Warning: Reference `tab:dreamcatcher1' on page 8 undefined on input line 
+319.
 
 
-LaTeX Warning: Reference `fig:rel-contrib' on page 3 undefined on input line 25
-8.
+LaTeX Warning: Reference `fig:dreamcatcher2' on page 8 undefined on input line 
+332.
+
+[8]
+
+LaTeX Warning: Citation `lord-semsim' on page 9 undefined on input line 364.
+
+[9]
+
+LaTeX Warning: Reference `fig:go-depth' on page 10 undefined on input line 373.
 
 
-LaTeX Warning: Reference `tab:prop-bias' on page 3 undefined on input line 272.
+
+LaTeX Warning: Reference `tab:go-depth' on page 10 undefined on input line 374.
 
 
 
-LaTeX Warning: Citation `CD_HIT' on page 3 undefined on input line 282.
+LaTeX Warning: Reference `fig:assertion' on page 10 undefined on input line 408
+.
 
 
-LaTeX Warning: Reference `fig:dreamcatcher' on page 3 undefined on input line 2
-87.
+LaTeX Warning: Reference `tab:assertion' on page 10 undefined on input line 408
+.
 
+[10] [11]
 
-LaTeX Warning: Reference `tab:dreamcatcher' on page 3 undefined on input line 2
-88.
+LaTeX Warning: Citation `cafa_paper' on page 12 undefined on input line 486.
 
-[3]
+[12] [13] (./sp_bias_v4.bbl [14])
+File: rel-contrib.eps Graphic file (type eps)
+ <rel-contrib.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 607--608
+[]\OT1/cmr/m/n/12 table in-for-ma-
+ []
 
-LaTeX Warning: Citation `lord-semsim' on page 4 undefined on input line 311.
-
-
-LaTeX Warning: Reference `fig:go-depth' on page 4 undefined on input line 319.
-
-
-LaTeX Warning: Reference `tab:go-depth' on page 4 undefined on input line 320.
-
-
-LaTeX Warning: Reference `tab:cohorts' on page 4 undefined on input line 326.
-
-
-LaTeX Warning: Reference `fig:annotation-ratio' on page 4 undefined on input li
-ne 340.
-
-
-LaTeX Warning: Citation `PMID:11121744' on page 4 undefined on input line 355.
-
-[4]
-
-LaTeX Warning: Citation `PMID:17417969' on page 5 undefined on input line 360.
-
-No file sp_bias_v4.bbl.
-[5] (./sp_bias_v4.aux)
+[15] [16] [17] (./sp_bias_v4.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2650 strings out of 50071
- 37159 string characters out of 432827
- 103930 words of memory out of 1100000
- 5835 multiletter control sequences out of 15000+15000
- 7915 words of font info for 30 fonts, out of 400000 for 9000
+ 2721 strings out of 50071
+ 38198 string characters out of 432827
+ 115348 words of memory out of 1100000
+ 5885 multiletter control sequences out of 15000+15000
+ 10502 words of font info for 39 fonts, out of 400000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,5n,38p,222b,151s stack positions out of 1500i,500n,1500p,200000b,5000s
+ 36i,10n,38p,264b,318s stack positions out of 1500i,500n,1500p,200000b,5000s
 
-Output written on sp_bias_v4.dvi (5 pages, 24528 bytes).
+Output written on sp_bias_v4.dvi (17 pages, 45712 bytes).

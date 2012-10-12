@@ -48,7 +48,7 @@ def get_n_neighbors(G, pmid_eco, eco_id_meaning):
     # code) appears in.
 
     papers_per_term = term_count_in_papers(pmid_eco)
-    foo = open("papers_per_term.csv","w")
+    foo = open("papers_per_term_2-OCT-2012.csv","w")
     for eco_id in G.nodes():
         cur_name = eco_id_meaning[eco_id]
         n_papers = float(papers_per_term[eco_id])

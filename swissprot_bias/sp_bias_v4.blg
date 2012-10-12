@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sp_bias_v4.aux
+The style file: plos2009.bst
+Database file #1: sp_bias.bib.bib
+Warning--I didn't find a database entry for "PMIDStahl2012Toward"
+Warning--I didn't find a database entry for "CD_HIT"
+Warning--I didn't find a database entry for "lord-semsim"
+Warning--I didn't find a database entry for "cafa_paper"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 8 entries,
+            2441 wiz_defined-function locations,
+            626 strings with 8349 characters,
+and the built_in function-call counts, 7635 in all, are:
+= -- 710
+> -- 132
+< -- 0
++ -- 66
+- -- 33
+* -- 672
+:= -- 920
+add.period$ -- 16
+call.type$ -- 8
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 741
+empty$ -- 784
+format.name$ -- 40
+if$ -- 1684
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 89
+newline$ -- 55
+num.names$ -- 8
+pop$ -- 90
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 1147
+swap$ -- 178
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 57
+width$ -- 9
+write$ -- 102
+(There were 4 warnings)

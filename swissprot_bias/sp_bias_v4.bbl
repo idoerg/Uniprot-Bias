@@ -1,0 +1,64 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Friedberg2006Automated}
+Friedberg I (2006) Automated protein function prediction--the genomic
+  challenge.
+\newblock Brief Bioinform 7: 225--242.
+\bibAnnoteFile{Friedberg2006Automated}
+
+\bibitem{Erdin2011180}
+Erdin S, Lisewski AM, Lichtarge O (2011) Protein function prediction: towards
+  integration of similarity metrics.
+\newblock Current Opinion in Structural Biology 21: 180 - 188.
+\bibAnnoteFile{Erdin2011180}
+
+\bibitem{Rentzsch2009210}
+Rentzsch R, Orengo CA (2009) Protein function prediction the power of
+  multiplicity.
+\newblock Trends in Biotechnology 27: 210 - 219.
+\bibAnnoteFile{Rentzsch2009210}
+
+\bibitem{Sboner2011Real}
+Sboner A, Mu X, Greenbaum D, Auerbach R, Gerstein M (2011) The real cost of
+  sequencing: higher than you think!
+\newblock Genome Biology 12: 125+.
+\bibAnnoteFile{Sboner2011Real}
+
+\bibitem{Schnoes2009Annotation}
+Schnoes AM, Brown SD, Dodevski I, Babbitt PC (2009) Annotation error in public
+  databases: Misannotation of molecular function in enzyme superfamilies.
+\newblock PLoS Comput Biol 5: e1000605+.
+\bibAnnoteFile{Schnoes2009Annotation}
+
+\bibitem{Dimmer2012UniProtGO}
+Dimmer EC, Huntley RP, Alam-Faruque Y, Sawford T, O'Donovan C, et~al. (2012)
+  The uniprot-go annotation database in 2011.
+\newblock Nucleic Acids Research 40: D565--D570.
+\bibAnnoteFile{Dimmer2012UniProtGO}
+
+\bibitem{Ashburner2000Gene}
+Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, et~al. (2000) Gene
+  ontology: tool for the unification of biology.
+\newblock Nature Genetics 25: 25--29.
+\bibAnnoteFile{Ashburner2000Gene}
+
+\bibitem{Altschul1997Gapped}
+Altschul SF, Madden TL, Sch\"{a}ffer AA, Zhang J, Zhang Z, et~al. (1997) Gapped
+  blast and psi-blast: a new generation of protein database search programs.
+\newblock Nucleic acids research 25: 3389--3402.
+\bibAnnoteFile{Altschul1997Gapped}
+
+\end{thebibliography}

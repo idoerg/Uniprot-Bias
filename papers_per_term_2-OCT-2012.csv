@@ -1,0 +1,38 @@
+ECO-0000068	yeast 2-hybrid evidence	2	1	2.00
+ECO:0000083	transmembrane domain prediction evidence	12	5	2.40
+ECO:0000250	sequence similarity evidence used in manual assertion	11	4	2.75
+ECO:0000231	qRT-PCR evidence	3	1	3.00
+ECO:0000092	epitope-tagged protein immunolocalization evidence	6	2	3.00
+ECO:0000176	mutant visible phenotype evidence	2	1	2.00
+ECO:0000053	computational combinatorial evidence	27	18	1.50
+ECO:0000315	mutant mutant phenotype evidence used in manual assertion	11	16	0.69
+ECO:0000324	imaging assay evidence	2	1	2.00
+ECO:0000019	RNAi experimental evidence	11	15	0.73
+ECO:0000015	transposon integration	7	2	3.50
+ECO:0000112	Western blot evidence	15	9	1.67
+ECO:0000010	protein expression evidence	4	1	4.00
+ECO:0000079	affinity chromatography evidence	2	1	2.00
+ECO:0000128	YFP fusion protein localization evidence	7	2	3.50
+ECO:0000004	cell fractionation evidence	15	21	0.71
+ECO:0000266	sequence orthology evidence used in manual assertion	1	1	1.00
+ECO:0000248	sequence alignment evidence used in automatic assertion	6	1	6.00
+ECO:0000249	sequence similarity evidence used in automatic assertion	18	18	1.00
+ECO:0000245	computational combinatorial evidence used in manual assertion	10	3	3.33
+ECO:0000081	targeting sequence prediction evidence	12	7	1.71
+ECO:0000031	protein BLAST evidence used in manual assertion	8	4	2.00
+ECO:0000122	protein localization evidence	3	1	3.00
+ECO:0000181	in vitro assay evidence	3	1	3.00
+ECO:0000208	protein BLAST evidence	3	1	3.00
+ECO:0000160	protein separation followed by fragment identification evidence	20	25	0.80
+ECO:0000044	sequence similarity evidence	8	4	2.00
+ECO:0000025	hybrid interaction evidence	1	1	1.00
+ECO:0000028	motif similarity evidence	19	14	1.36
+ECO:0000108	reverse transcription polymerase chain reaction transcription evidence	3	1	3.00
+ECO:0000007	immunofluorescence evidence	6	2	3.00
+ECO:0000062	genomic microarray evidence	3	1	3.00
+ECO:0000124	RFP fusion protein localization	1	1	1.00
+ECO:0000022	co-purification evidence	2	1	2.00
+ECO:0000126	GFP fusion protein localization evidence	11	5	2.20
+ECO:0000106	Northern assay evidence	3	1	3.00
+ECO:0000026	nucleic acid hybridization evidence	3	1	3.00
+ECO:0000104	microarray RNA expression level evidence	11	3	3.67
