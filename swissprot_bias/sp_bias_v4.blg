@@ -3,14 +3,19 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: sp_bias_v4.aux
 The style file: plos2009.bst
 Database file #1: sp_bias.bib.bib
+Warning--I didn't find a database entry for "Fetrow2012"
 Warning--I didn't find a database entry for "PMIDStahl2012Toward"
 Warning--I didn't find a database entry for "CD_HIT"
 Warning--I didn't find a database entry for "lord-semsim"
-Warning--I didn't find a database entry for "cafa_paper"
+Warning--I didn't find a database entry for "MS-papers"
+Warning--I didn't find a database entry for "18029348"
+Warning--I didn't find a database entry for "relevantpapers"
+Warning--I didn't find a database entry for "17412918"
+Warning--I didn't find a database entry for "18433294"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 8 entries,
             2441 wiz_defined-function locations,
-            626 strings with 8349 characters,
+            633 strings with 8415 characters,
 and the built_in function-call counts, 7635 in all, are:
 = -- 710
 > -- 132
@@ -49,4 +54,4 @@ warning$ -- 0
 while$ -- 57
 width$ -- 9
 write$ -- 102
-(There were 4 warnings)
+(There were 9 warnings)

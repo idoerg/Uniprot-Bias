@@ -141,13 +141,14 @@ anyone who uses protein function annotation data to plan experiments.
 \section*{Introduction}
 
 Functional annotation of proteins is a primary challenge in molecular biology
-today\cite{Friedberg2006Automated,Erdin2011180,Rentzsch2009210}. The continuing revolution
-in sequencing technology means that the conversation has shifted from realizing the \$1000
-genome to the one-hour genome \cite{PMID Stahl2012Toward}. The ability to rapidly and
+today\cite{Friedberg2006Automated,Erdin2011180,Rentzsch2009210,Fetrow2012}. The ongoing
+improvements
+in sequencing technology had the emphasis shifting from realizing the \$1000
+genome to the 1-hour genome \cite{PMID Stahl2012Toward}. The ability to rapidly and
 cheaply sequence genomes is creating a flood of sequence data, which require extensive
-analysis and characterization before they can be useful.  A large proportion of this work
+analysis and characterization before they can be useful. A large proportion of this work
 involves assigning biological function to these newly determined gene sequences, a process
-that is both complex and costly \cite{Sboner2011Real}.  Furthermore,  the ability to
+that is both complex and costly \cite{Sboner2011Real}. Furthermore,  the ability to
 accurately assign function through computational means is challenging and open problem
 \cite{Schnoes2009Annotation}. To aid current annotation procedures and improve computational
 function prediction algorithms, sources of high-quality, experimentally derived functional
@@ -170,7 +171,7 @@ any biases would impact function prediction algorithms development and training.
 
 One concern surrounding the capture of functional data from papers is the propensity for
 high-throughput experimental work to become a large fraction of the data in UniProt-GOA,
-this having few experiments dominate the protein function landscape.  In this work we
+thus having few experiments dominate the protein function landscape. In this work we
 analyzed the relative contribution of papers to the experimental annotations in UniProt-GOA.
 We found some striking biases, stemming from the fact that a small fraction of papers that
 describe high-throughput experiments, disproportionately contribute to the pool of
@@ -193,8 +194,8 @@ become possible to conduct large-scale studies of protein functions.  Consequent
 studies reveal very specific functional aspects of a large amount of proteins as a result of
 the particular type of assay or assays used. To understand the impact of large-scale studies
 on the corpus of experimentally annotated proteins, we looked at the UniprotKB Gene Ontology
-annotation files, or UniProt-GOA. UniProt-GOA proteins are individually annotated by one or
-more GO terms.  using a procedure described in \cite{Dimmer2012UniProtGO}. Briefly, this
+(GO) annotation files, or UniProt-GOA. UniProt-GOA proteins are individually annotated by one or
+more GO terms using a procedure described in \cite{Dimmer2012UniProtGO}. Briefly, this
 procedure consists of six steps which include sequence curation, sequence motif analyses,
 literature-based curation, reciprocal BLAST\cite{Altschul1997Gapped} searches, attribution
 of all resources leading to the included findings, and quality assurance. If the annotation
@@ -214,10 +215,10 @@ automated transfer of annotations from a database''. IEA evidence means that the
 was not made or checked by a person.  Different degrees of reliability are associated with
 the evidence codes, with experimental codes generally considered to be of higher reliability
 than non-experimental codes. However, the increase in the number of high-throughput
-experiments used to determine protein functions may introduce biases into protein
+experiments used to determine protein functions may introduce biases into experimental protein
 annotations, due to the inherent capabilities and limitations of high-throughput assays.  
 
-To test the hypothesis that such biases exist, and to assess their extent if they
+To test the hypothesis that such biases exist, and to study their extent if they
 do, we compiled the details of all experimentally-annotated
 proteins in UniProtKB. This included all proteins whose GO annotations have
 the GO experimental evidence codes EXP, IDA, IPI, IMP, IGI, IEP. We first examined
@@ -232,16 +233,17 @@ We therefore conclude that there is indeed a substantial bias in
 experimental annotations, in which there are few papers that annotate a large
 number of proteins.
 
-To better understand the consequences of such a distribution, we divided the annotating
-articles into four cohorts, based on the number of proteins each article annotates.
-\textit{Single-throughput} papers are those papers that annotate only a single protein;
-\textit{low throughput} papers annotate 2-9 proteins; \textit{moderate throughput} papers
-annotate 10-99 proteins and \textit{high throughput} papers annotate over 99 proteins. The
-results are shown in Table~\ref{tab:cohorts}. High throughput papers are responsible for
-25\% of the annotations in Uniprot-GOA, even though they comprise 0.08\% of the papers. 96\%
-of the papers are single-throughput and low throughput, however those annotate 53\% of the
-proteins in Uniprot-GOA. So while moderate throughput and high-throughput experiments
-aCCOunt for almost half of the annotations in Uniprot-GOA, they comprise only 4\% of the experiments published.
+To better understand the consequences of such a distribution, we divided the annotating articles
+into four cohorts, based on the number of proteins each article annotates.
+\textit{Single-throughput} papers are those papers that annotate only one protein; \textit{low
+throughput} papers annotate 2-9 proteins; \textit{moderate throughput} papers annotate 10-99
+proteins and \textit{high throughput} papers annotate over 99 proteins. The results are shown in
+Table~\ref{tab:cohorts}. The most striking finding is that high throughput papers are responsible
+for 25\% of the annotations in Uniprot-GOA, even though they comprise 0.08\% of the papers. 96\%
+of the papers are single-throughput and low throughput, however those annotate only 53\% of the
+proteins in Uniprot-GOA. So while moderate throughput and high-throughput experiments account for
+almost half of the annotations in Uniprot-GOA, they comprise only 4\% of the experiments
+published.
 
 What typifies high-throughput papers? Also, how may the log-odds distribution bias what we
 understand of the protein function universe? To answer these questions, we examined
@@ -258,7 +260,7 @@ or CCO) was used for annotation. For some species this means that a single funct
 
 \subsection*{Term frequency bias}
 
-To see how much a single species-- and method-- specific large-scale assay affects the entire
+To see how much a single species-- and method-- specific high-throughput assay affects the entire
 annotation of a species, we examined the relative contribution of the top-50 papers to the
 entire corpus of experimentally annotated protein in each species.  All the species we
 examined were model organisms or human, as all the top annotation-contributing papers dealt with model
@@ -280,7 +282,7 @@ binding'' and ``identical protein binding'' are from the Molecular Function Onto
 by the top-50 papers. 
 
 The term frequency bias described here can be viewed more broadly within the ontology bias. The proteins
-annotated by single-protein papers, low-throughput papers, and moderate throughput papers (less than 100)
+annotated by single-protein papers, low-throughput papers, and moderate throughput papers 
 have similar ratios of the fraction of proteins annotated.  Twenty-two to twenty-six percent of assigned
 terms are in the Molecular Function Ontology, and 51-57\% are in the Biological Process Ontology and the
 remaining 17-25\% are in the Cellular Component ontology. This ratio changes dramatically with
@@ -291,17 +293,18 @@ generating annotations using the Molecular Function Ontology.
 
 % The next paragraph should be should be moved to Methods. We'll just write that we removed the
 % propagation bias. This is not a finding, it's a technical clean-up.
-Another type of annotation bias may result due to GO-structure derived redundancy: the annotation of
-a single term using a given GO-term and one or more of its parents. However, this type of
-annotation may not necessarily be wholly redundant. For example, a protein may localize to
-the nucleolus and the nucleus itself. In the Cellular Compartment ontology, ``nucleus'' is
-a parent term for ``nucleolus''. In the case of this hypothetical protein, annotating with
-``nucleolus'' and ``nucleus'' is not an error. However, if the protein was found to
-localize to the nucleolus only, then annotating with both terms is a redundancy. We termed
-such a redundancy \textit{propagation bias}. We examined all proteins for possible propagation
-bias. If a protein was annotated with a GO term and one or more parent terms, the parent
-terms were removed. We found possible propagation biases in 17 of the 50 papers. The results
-are summarized in Table\ref{tab:prop-bias}. 
+% EDIT EDIT: probably can do without this finding.
+%Another type of annotation bias may result due to GO-structure derived redundancy: the annotation of
+%a single term using a given GO-term and one or more of its parents. However, this type of
+%annotation may not necessarily be wholly redundant. For example, a protein may localize to
+%the nucleolus and the nucleus itself. In the Cellular Compartment ontology, ``nucleus'' is
+%a parent term for ``nucleolus''. In the case of this hypothetical protein, annotating with
+%``nucleolus'' and ``nucleus'' is not an error. However, if the protein was found to
+%localize to the nucleolus only, then annotating with both terms is a redundancy. We termed
+%such a redundancy \textit{propagation bias}. We examined all proteins for possible propagation
+%bias. If a protein was annotated with a GO term and one or more parent terms, the parent
+%terms were removed. We found possible propagation biases in 17 of the 50 papers. The results
+%are summarized in Table\ref{tab:prop-bias}. 
 
 \subsection*{Reannotation Bias}
 
@@ -357,20 +360,19 @@ split into groups by the number of proteins each paper annotates.
 
 Edge counting provides a measure of term-specificity. It is, however, imperfect. The reason is
 that different areas of the GO DAG have different connectivities, and terms may have different
-depths unrelated to the intuitive specificity of a term. For example ``high-affinity
-Tryptophan transporter'', (GO:0005300) is 14 terms deep, while ``anticoagulant'', (GO:0008435)
-is only three terms deep.  For this reason, information content, the logarithm of the inverse
-of the GO term frequency in the corpus is generally accepted as a measure of GO-term
-information content\cite{lord-semsim}. Therefore, to aCCOunt for the possible bias created by
-the GO-DAG structure, we also used the log frequency of the terms in the experimentally
-annotated proteins in Uniprot-GOA. However, it should be noted that the log-frequency measure
-is also imperfect because, as we see throughout this study, a GO-term's frequency may be
-heavily influenced  by the top annotating papers, injecting a circularity problem into the use
-of this metric in the first place.
-Since no single metric for measuring the information
-conveyed by a GO term is wholly satisfactory, we used both in this study.
+depths unrelated to the intuitive specificity of a term. For example ``high-affinity Tryptophan
+transporter'', (GO:0005300) is 14 terms deep, while ``anticoagulant'', (GO:0008435) is only three
+terms deep.  For this reason, information content, the logarithm of the inverse of the GO term
+frequency in the corpus is generally accepted as a measure of GO-term information
+content\cite{lord-semsim}. To account for the possible bias created by the GO-DAG structure, we
+also used the log-frequency of the terms in the experimentally annotated proteins in Uniprot-GOA.
+However, it should be noted that the log-frequency measure is also imperfect because, as we see
+throughout this study, a GO-term's frequency may be heavily influenced  by the top annotating
+papers, injecting a circularity problem into the use of this metric. Since no
+single metric for measuring the information conveyed by a GO term is wholly satisfactory, we used
+both in this study.
 
-The results of both analyses are shown in Figure~\ref{fig:go-depth} and the aCCOmpanying
+The results of both analyses are shown in Figure~\ref{fig:go-depth} and the accompanying
 Table~\ref{tab:go-depth}. In general, the results from the depth-based analysis and the
 log-frequency based analysis are in agreement, when compared across groupings based on the
 number of proteins annotated by the papers. For the Molecular Function ontology, the
@@ -388,25 +390,33 @@ Another interesting question was how consistent were the annotations between dif
 
 \subsection*{Evidence and Assertion}
 
-There are two complementary ways by which we come to knowledge about a protein's function.
-The approximately 20 GO evidence codes, discussed above, encapsulate the type results by
-which the function was inferred, but they do not capture all the necessary information. For
-example, ``Inferred by Direct Assay (IDA)'' informs that experimental evidence was used, but
-does not say which type of experiment was performed. This information is often needed for
-several reasons. Knowing which experiments were performed can help the researcher establish
-the reliability and scope of the data. For example, RNA for RNAi experiment does not
-traverse the blood-brain-barrier, meaning that no data from the central nervous system
-can be drawn from an RNAi experiment.
- In addition to evidence terms, the ECO ontology provides \textit{assertion terms} in
-in which the nature of the assay is given. For example, an
-enzyme-linked immunosorbent assay (ELISA) provides quantitative protein data \textit{in
-vitro} while an immunogold assay may provide the same information, and cellular localization
-information \textit{in vivo}. It is therefore important to know both the assertion and the
-evidence to understand what sort of information may be gleaned from the assay.  However, to
-understand which types of assertions are made in the top-50 high throughput papers, we
-performed manually assigned ECO assertion terms to the top-50 papers. The results are shown
-in Figure~\ref{fig:assertion} and in Table~\ref{tab:assertion}.
+There are two complementary ways by which we come to knowledge about a protein's function. The
+approximately 20 GO evidence codes, discussed above, encapsulate the type results by which the
+function was inferred, but they do not capture all the necessary information. For example,
+``Inferred by Direct Assay (IDA)'' informs that experimental evidence was used, but does not say
+which type of experiment was performed. This information is often needed for several reasons.
+Knowing which experiments were performed can help the researcher establish the reliability and
+scope of the data. For example, RNA for RNAi experiment does not traverse the
+blood-brain-barrier, meaning that no data from the central nervous system can be drawn from an
+RNAi experiment. The Evidence Code Ontology, or ECO, seeks to improve upon the GO-attached
+evidence codes. ECO provides more elaborate terms than ``Inferred by Direct Assay'': ECO also
+conveys which assay was used, i.e.  ``microscopy''.  In addition to evidence terms, the ECO
+ontology provides \textit{assertion terms} in in which the nature of the assay is given. For
+example, an enzyme-linked immunosorbent assay (ELISA) provides quantitative protein data
+\textit{in vitro} while an immunogold assay may provide the same information, and cellular
+localization information \textit{in vivo}. It is therefore important to know both the assertion
+and the evidence to understand what sort of information may be gleaned from the assay.  However,
+to understand which types of assertions are made in the top-50 high throughput papers, we
+performed manually assigned Evidence Codes Ontology (ECO) assertion and evidence terms to the
+top-50 papers. The ECO ontology is more elaborate than the evidence codes used by Uniprot-GOA
+now. Although there are plans to insert ECO terms into Uniprot GOA in the near future, those will
+probably not be done manually for proteins already existing in Uniprot-GOA, but by automatic
+mapping EC terms to ECO ontology terms using a preset table (Rachael Huntley, Chris Mungall  and
+Tony Sawford, personal communication). Thus, the ECO-based annotations we provide here to the top
+50 papers is probably more informative than a future annotation may provide.
 
+The results are shown in Figure~\ref{fig:assertion} and in
+Table~\ref{tab:assertion}.
 
 Interestingly, the most frequently used assertion in the top experimental papers was not an
 experimental assertion, but rather a computational one: the term ECO:00053 ``computational
@@ -499,7 +509,7 @@ microscopy for subcellular localization. The only MS experiment in the top-50 pa
 whose proteins were not annotated with cellular localization was ``Proteome survey reveals
 modularity of the yeast cell machinery''\cite{18029348}. The resulting annotation was ``protein
 binding'' form the Molecular Function ontology. A more detailed discussion on this study follows in
-the section \em{Information Capture} below.
+the section \textbf{Information Capture} below.
 
 The second most frequent type of experiments used RNA Interference (RNAi) whole-genome gene
 knockdowns in \textit{C. elegans}, \textit{D. melanogaster} and one in \textit{C. albicans}.  RNAi
@@ -510,39 +520,61 @@ phenotypes searched for were mostly associated with embryonic and post-embryonic
 storage\cite{17412918} and endocytic traffic\cite{17412918}. One study used RNAi and MP to identify
 mitochondrial protein localization \cite{18433294}.
 
-These two types of assays (mass-spectrometry and RNAi)  were strongly linked to the other frequently
-used experimental ECO terms, by the nature of the methodology used. Thus, ``protein separation
-followed by fragment identification evidence'' is usually accompanied with ``cell fractionation
-evidence'', ``Western blot evidence''.  ``RNAi experimental evidence'' is generally associated with
-``mutant mutant phenotype evidence used in manual assertion''. All experiments are associated with
-computational ECO terms, which describe sequence similarity and motif recognition techniques used to
-identify the sequences found. Thus, a strong reliance on computational annotation 
+These two types of assays (mass-spectrometry and RNAi)  were strongly linked to the other
+frequently used experimental ECO terms, by the nature of the methodology used. Thus, ``protein
+separation followed by fragment identification evidence'' is usually accompanied with ``cell
+fractionation evidence'' and ``Western blot evidence''. ``RNAi experimental evidence'' is
+generally associated with ``mutant phenotype evidence used in manual assertion''. All experiments
+are associated with computational ECO terms, which describe sequence similarity and motif
+recognition techniques used to identify the sequences found. Thus, a strong reliance on
+computational annotation is an integral part of high throughput experiments. It should be noted
+that computational annotation here is not necessarily used for functional annotation, but rather
+for identifying the protein by a sequence or motif similarity search.
 
+\subsection*{Information Capture and Scope of GO}
 
-\subsection*{Information Capture and Scope}
-
-the top-50 papers which was MS and whose proteins were not annotated with cellular localization was
-In this study, the information produced was primarily of protein  complexes and the only
-GO-term captured in the curation was ``protein binding''.  However, the experiment does provide more
-information than simply which proteins bind others, as the experiment provides a catalog of specific
-binding partners. Some, but not all of this information can be captured by the children of the term
-``protein binding''. However, such a process is arguably laborious by manual curation. Furthermore,
-the main information conveyed by this paper, namely the types of protein complexes discovered and
-how they relate to cellular networks, is outside the scope of GO.
-
+So far we have discussed the information loss that is characteristic of high-throughput
+experiments, due to the nature of these experiments. However, another reason for information loss
+is the inability to capture information using the Gene Ontology. GO is knowingly limited to three
+aspects (MF, BP and CC) of biological function, which are assigned per protein. However, other
+aspects of function may emerge from 
+Of note
+is the study mentioned earlier, ``Proteome survey reveals modularity of the yeast cell
+machinery''\cite{18029348}.  In this study, the information produced was primarily of protein
+complexes and the only GO-term captured in the curation was ``protein binding''.  However, the
+study does provide more information than simply which proteins bind others, as  a lengthy catalog
+of specific binding partners. Some, but not all of this information can be captured by the
+children of the term ``protein binding''. Such a process is arguably laborious by manual
+curation. Furthermore, the main information conveyed by this paper, namely the types of protein
+complexes discovered and how they relate to cellular networks, is outside the scope of GO. It is
+important to realize that while high-throughput experiments do convey less information per
+protein within the functional scope as defined by GO, they still convey other, valuable
+information which needs to be captured into annotation databases by means other than GO. In the
+example above, the information can be captured by a protein interaction database, but not by GO
+annotation.
 
 \section*{Conclusions}
 
 Taken together, the annotation biases noted in this study affect our understanding of protein
 function space. This, in turn, affects out ability to properly understand the connection between
 predictors of protein function and the actual function -- the hallmark of computational function
-annotation. As a dramatic example, during the Critical Assessment of Function Annotation experiment
-(Radivojac \textit{et al} in review) we have noticed that about 20\% of the proteins participating
-in the challenge were annotated as ``protein binding''. This particular This GO-term is not an
-informative one. Furthermore, it was shown that the major contribution of this term  to the CAFA
-challenge data set was due to high-throughput assays. (Over 100 annotated proteins annotated per
-experiment). Obviously, such a large bias in prior probabilities is can adversely affect programs
-employing prior probabilities in their algorithms, as most machine-learning programs do. 
+annotation. As a dramatic example, during the Critical Assessment of Function Annotation
+experiment (Radivojac \textit{et al} in review) we have noticed that about 20\% of the proteins
+participating in the challenge were annotated as ``protein binding''. This particular This
+GO-term is not an informative one. Furthermore, it was shown that the major contribution of this
+term  to the CAFA challenge data set was due to high-throughput assays. (Over 100 annotated
+proteins annotated per experiment). The concentration of a large number of annotations in a small
+number of studies provides only a partial picture of the function of these proteins. As we have
+seen, the picture provided is mainly of: 1. subcellular localization cell fractionation and MS
+based localization and 2. developmental phenotypes. While these data are important, we should be
+mindful of this bias when examining protein function in the database, even those annotations
+deemed to be of high quality, i.e. with experimental verification. Furthermore, such a large
+bias in prior probabilities is can adversely affect programs employing prior probabilities in
+their algorithms, as most machine-learning programs do. Many researchers use programs based on
+machine learning algorithm to predict the function of unknown proteins. If the training set for
+these programs has included a disproportional number of annotations by thigh-throughput
+experiments, the results these programs provide will be strongly biased towards a few frequent and
+shallow GO-terms.
 
 Several steps can be taken to remedy this situation. Annotations are derived from
 high-throughput experiments can be flagged as such in the database. The flagging can then be
@@ -562,7 +594,10 @@ reannotation with assertion terms undertaken. \hilite{(Any other ideas?)}
 % "Models" is not a valid title for PLoS ONE authors. However, PLoS ONE
 % authors may use "Analysis" 
 \section*{Materials and Methods}
-We used the Uniprot-GOA database from December 2011. Analyses were done using Python scripts.
+We used the Uniprot-GOA database from December 2011. Data analyses were performed using Python scripts.
+ECO terms classifying the proteins in the top 50 experiments were assigned to the proteins
+manually after reading the articles. All data and scripts are available on
+http://github.com/FriedbergLab
 
 % Do NOT remove this, even if you are not including acknowledgments
 \section*{Acknowledgments}

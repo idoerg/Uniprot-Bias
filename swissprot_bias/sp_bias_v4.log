@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.8.15)  9 OCT 2012 15:19
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.8.15)  13 OCT 2012 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**sp_bias_v4
+**sp_bias_v4.tex
 (./sp_bias_v4.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, lo
@@ -185,88 +185,107 @@ ion pre-dic-tion pro-grams rely upon well-annotated
 
 ]
 
+LaTeX Warning: Citation `Fetrow2012' on page 2 undefined on input line 144.
+
+
 LaTeX Warning: Citation `PMIDStahl2012Toward' on page 2 undefined on input line
- 146.
+ 147.
 
 [2] [3] [4]
 
 LaTeX Warning: Reference `fig:papers-prots' on page 5 undefined on input line 2
-25.
+26.
 
 
 LaTeX Warning: Reference `fig:papers-prots' on page 5 undefined on input line 2
-27.
+28.
 
 [5]
 
 LaTeX Warning: Reference `table:top-papers' on page 6 undefined on input line 2
-53.
+55.
 
 [6]
 
-LaTeX Warning: Reference `tab:prop-bias' on page 7 undefined on input line 304.
+LaTeX Warning: Citation `CD_HIT' on page 7 undefined on input line 316.
 
+
+LaTeX Warning: Reference `fig:dreamcatcher1' on page 7 undefined on input line 
+321.
+
+
+LaTeX Warning: Reference `tab:dreamcatcher1' on page 7 undefined on input line 
+322.
 
 [7]
 
-LaTeX Warning: Citation `CD_HIT' on page 8 undefined on input line 313.
-
-
-LaTeX Warning: Reference `fig:dreamcatcher1' on page 8 undefined on input line 
-318.
-
-
-LaTeX Warning: Reference `tab:dreamcatcher1' on page 8 undefined on input line 
-319.
-
-
 LaTeX Warning: Reference `fig:dreamcatcher2' on page 8 undefined on input line 
-332.
+335.
 
 [8]
 
-LaTeX Warning: Citation `lord-semsim' on page 9 undefined on input line 364.
-
-[9]
-
-LaTeX Warning: Reference `fig:go-depth' on page 10 undefined on input line 373.
+LaTeX Warning: Citation `lord-semsim' on page 9 undefined on input line 367.
 
 
-
-LaTeX Warning: Reference `tab:go-depth' on page 10 undefined on input line 374.
-
+LaTeX Warning: Reference `fig:go-depth' on page 9 undefined on input line 375.
 
 
-LaTeX Warning: Reference `fig:assertion' on page 10 undefined on input line 408
+LaTeX Warning: Reference `tab:go-depth' on page 9 undefined on input line 376.
+
+[9] [10]
+
+LaTeX Warning: Reference `fig:assertion' on page 11 undefined on input line 418
 .
 
 
-LaTeX Warning: Reference `tab:assertion' on page 10 undefined on input line 408
+LaTeX Warning: Reference `tab:assertion' on page 11 undefined on input line 419
 .
 
-[10] [11]
+[11] [12]
 
-LaTeX Warning: Citation `cafa_paper' on page 12 undefined on input line 486.
+LaTeX Warning: Citation `MS-papers' on page 13 undefined on input line 505.
 
-[12] [13] (./sp_bias_v4.bbl [14])
+
+LaTeX Warning: Citation `18029348' on page 13 undefined on input line 507.
+
+
+LaTeX Warning: Citation `18029348' on page 13 undefined on input line 510.
+
+
+LaTeX Warning: Citation `relevantpapers' on page 13 undefined on input line 519
+.
+
+
+LaTeX Warning: Citation `17412918' on page 13 undefined on input line 519.
+
+
+LaTeX Warning: Citation `17412918' on page 13 undefined on input line 520.
+
+
+LaTeX Warning: Citation `17412918' on page 13 undefined on input line 520.
+
+
+LaTeX Warning: Citation `18433294' on page 13 undefined on input line 521.
+
+[13]
+
+LaTeX Warning: Citation `18029348' on page 14 undefined on input line 543.
+
+[14] [15] [16] (./sp_bias_v4.bbl [17])
 File: rel-contrib.eps Graphic file (type eps)
- <rel-contrib.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 607--608
-[]\OT1/cmr/m/n/12 table in-for-ma-
- []
-
-[15] [16] [17] (./sp_bias_v4.aux)
+ <rel-contrib.eps> [18] [19] [20]
+(./sp_bias_v4.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2721 strings out of 50071
- 38198 string characters out of 432827
+ 2725 strings out of 50071
+ 38240 string characters out of 432827
  115348 words of memory out of 1100000
- 5885 multiletter control sequences out of 15000+15000
+ 5889 multiletter control sequences out of 15000+15000
  10502 words of font info for 39 fonts, out of 400000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,10n,38p,264b,318s stack positions out of 1500i,500n,1500p,200000b,5000s
+ 36i,10n,38p,268b,320s stack positions out of 1500i,500n,1500p,200000b,5000s
 
-Output written on sp_bias_v4.dvi (17 pages, 45712 bytes).
+Output written on sp_bias_v4.dvi (20 pages, 54160 bytes).
