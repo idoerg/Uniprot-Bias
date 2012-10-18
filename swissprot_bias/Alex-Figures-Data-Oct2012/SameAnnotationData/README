@@ -1,0 +1,22 @@
+README
+
+1. .cys files
+The cytoscape dreamcatcher network files
+
+2. .txt files
+The groupings of 100% Identical sequences and their annotations. Also a notation
+stating whether the annotations are identical or not.
+
+3. .sif files
+The files the networks are built from 
+
+Format
+
+PMID|Uniprot_ID  'connector id' PMID|Uniprot_id
+
+'sp'  :  just a connector so that the id's make a circle
+
+'id' : this connector means that the two id's have an identical annotation (100% seq ID)
+
+'df' : this connector means that the two id's have a different annotation (100% seq ID)
+

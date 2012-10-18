@@ -8,50 +8,47 @@ Warning--I didn't find a database entry for "PMIDStahl2012Toward"
 Warning--I didn't find a database entry for "CD_HIT"
 Warning--I didn't find a database entry for "lord-semsim"
 Warning--I didn't find a database entry for "MS-papers"
-Warning--I didn't find a database entry for "18029348"
 Warning--I didn't find a database entry for "relevantpapers"
-Warning--I didn't find a database entry for "17412918"
-Warning--I didn't find a database entry for "18433294"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 8 entries,
+You've used 58 entries,
             2441 wiz_defined-function locations,
-            633 strings with 8415 characters,
-and the built_in function-call counts, 7635 in all, are:
-= -- 710
-> -- 132
+            905 strings with 23007 characters,
+and the built_in function-call counts, 60100 in all, are:
+= -- 5522
+> -- 1264
 < -- 0
-+ -- 66
-- -- 33
-* -- 672
-:= -- 920
-add.period$ -- 16
-call.type$ -- 8
-change.case$ -- 8
++ -- 632
+- -- 316
+* -- 5219
+:= -- 7227
+add.period$ -- 116
+call.type$ -- 58
+change.case$ -- 58
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 741
-empty$ -- 784
-format.name$ -- 40
-if$ -- 1684
+cite$ -- 116
+duplicate$ -- 5787
+empty$ -- 6091
+format.name$ -- 373
+if$ -- 13323
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 89
-newline$ -- 55
-num.names$ -- 8
-pop$ -- 90
+int.to.str$ -- 58
+missing$ -- 722
+newline$ -- 305
+num.names$ -- 58
+pop$ -- 761
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 61
+skip$ -- 607
 stack$ -- 0
-substring$ -- 1147
-swap$ -- 178
+substring$ -- 8840
+swap$ -- 1444
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 57
-width$ -- 9
-write$ -- 102
-(There were 9 warnings)
+while$ -- 490
+width$ -- 60
+write$ -- 652
+(There were 6 warnings)
