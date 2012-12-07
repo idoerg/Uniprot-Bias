@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.8.15)  18 OCT 2012 19:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.10.27)  30 OCT 2012 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -154,54 +154,75 @@ File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
-) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+) (/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count104
+\output=\toks21
+\linenoprevgraf=\count105
+\linenumbersep=\dimen115
+\linenumberwidth=\dimen116
+\c@linenumber=\count106
+\c@pagewiselinenumber=\count107
+\c@LN@truepage=\count108
+\c@internallinenumber=\count109
+\c@internallinenumbers=\count110
+\quotelinenumbersep=\dimen117
+\bframerule=\dimen118
+\bframesep=\dimen119
+\bframebox=\box32
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
-\captionmargin=\dimen115
-\captionmargin@=\dimen116
-\captionwidth=\dimen117
-\caption@indent=\dimen118
-\caption@parindent=\dimen119
-\caption@hangindent=\dimen120
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
 )
-\c@ContinuedFloat=\count104
+\c@ContinuedFloat=\count111
 Package caption Info: longtable package is loaded.
 
 (/usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
 )) (./sp_bias_v4.aux
 
+LaTeX Warning: Label `fig:rel-contrib' multiply defined.
+
+
 LaTeX Warning: Label `tab:top50' multiply defined.
 
 )
 \openout1 = `sp_bias_v4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 106.
+LaTeX Font Info:    Try loading font information for U+msa on input line 117.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 106.
+LaTeX Font Info:    Try loading font information for U+msb on input line 117.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Overfull \hbox (24.36562pt too wide) in paragraph at lines 112--122
+Overfull \hbox (24.36562pt too wide) in paragraph at lines 123--133
  \OT1/cmr/bx/n/12 Back-ground: \OT1/cmr/m/n/12 Com-pu-ta-tional pro-tein func-t
 ion pre-dic-tion pro-grams rely upon well-annotated
  []
@@ -210,82 +231,114 @@ ion pre-dic-tion pro-grams rely upon well-annotated
 
 ]
 
-LaTeX Warning: Citation `Fetrow2012' on page 2 undefined on input line 145.
+LaTeX Warning: Citation `Fetrow2012' on page 2 undefined on input line 156.
 
 
 LaTeX Warning: Citation `PMIDStahl2012Toward' on page 2 undefined on input line
- 148.
+ 158.
 
 [2] [3] [4] [5]
 
-LaTeX Warning: Reference `table:top-papers' on page 6 undefined on input line 2
-54.
+LaTeX Warning: Reference `table:top-articles' on page 6 undefined on input line
+ 258.
 
-[6]
+[6] [7]
 
-LaTeX Warning: Citation `CD_HIT' on page 7 undefined on input line 315.
+LaTeX Warning: Citation `CD_HIT' on page 8 undefined on input line 318.
 
-[7]
+[8] [9]
 
-LaTeX Warning: Reference `fig:dreamcatcher2' on page 8 undefined on input line 
-334.
+LaTeX Warning: Citation `lord-semsim' on page 10 undefined on input line 403.
 
-[8]
+[10]
 
-LaTeX Warning: Citation `lord-semsim' on page 9 undefined on input line 366.
+LaTeX Warning: Reference `fig:go-depth' on page 11 undefined on input line 411.
 
 
-LaTeX Warning: Reference `fig:go-depth' on page 9 undefined on input line 374.
+[11]
 
-[9] [10]
-
-LaTeX Warning: Reference `fig:assertion' on page 11 undefined on input line 418
+LaTeX Warning: Reference `fig:assertion' on page 12 undefined on input line 453
 .
 
+[12] [13]
 
-LaTeX Warning: Reference `tab:assertion' on page 11 undefined on input line 419
-.
-
-[11] [12]
-
-LaTeX Warning: Citation `MS-papers' on page 13 undefined on input line 507.
+LaTeX Warning: Citation `MS-articles' on page 14 undefined on input line 544.
 
 
-LaTeX Warning: Citation `relevantpapers' on page 13 undefined on input line 521
-.
+LaTeX Warning: Citation `relevantarticles' on page 14 undefined on input line 5
+59.
 
-[13] [14] [15] [16] (./sp_bias_v4.bbl [17] [18] [19] [20] [21] [22] [23]
-[24])
-File: papers-prots.eps Graphic file (type eps)
- <papers-prots.eps>
+[14] [15] [16] [17] (./sp_bias_v4.bbl [18] [19] [20] [21] [22] [23] [24]
+[25]) [26]
+File: articles-prots.eps Graphic file (type eps)
+ <articles-prots.eps> [27]
 File: dreamcatcher1.eps Graphic file (type eps)
  <dreamcatcher1.eps>
-Overfull \hbox (50.64592pt too wide) in paragraph at lines 643--643
+Overfull \hbox (50.64592pt too wide) in paragraph at lines 686--687
  [] 
  []
 
+[28]
 File: rel-contrib.eps Graphic file (type eps)
-<rel-contrib.eps> (./table-top50.tex [25] [26])
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-[]\OT1/cmr/bx/n/12 num
+ <rel-contrib.eps> [29]
+File: boxplots-IC.eps Graphic file (type eps)
+ <boxplots-IC.eps>
+File: boxplots-GOdepth.eps Graphic file (type eps)
+ <boxplots-GOdepth.eps>
+
+LaTeX Warning: Float too large for page by 120.08052pt on input line 727.
+
+[30]
+Underfull \hbox (badness 1281) in paragraph at lines 750--750
+[]\OT1/cmr/bx/n/12 Number of an-no-tat-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-[]\OT1/cmr/bx/n/12 num se-
+Underfull \hbox (badness 2980) in paragraph at lines 752--752
+[]\OT1/cmr/bx/n/12 Percent of an-no-tat-ing
+ []
+
+[31
+
+] (./table-top50-withspecies.tex [32] [33]) [34]
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]\OT1/cmr/bx/n/12 num.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]\OT1/cmr/bx/n/12 num.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
 []\OT1/cmr/bx/n/12 Clusters
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 735--737
-\OT1/cmr/bx/n/12 dancy,
+Underfull \hbox (badness 10000) in paragraph at lines 771--773
+[]\OT1/cmr/bx/n/12 Mean
  []
 
-[27] [28] [29] [30] [31] [32] (./sp_bias_v4.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 771--773
+\OT1/cmr/bx/n/12 genes/
+ []
+
+[35]
+Overfull \hbox (90.58719pt too wide) in paragraph at lines 809--832
+[][] 
+ []
+
+[36] (./table-assertion.tex
+Overfull \hbox (36.0896pt too wide) in paragraph at lines 4--47
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 114.6579pt on input line 50.
+
+) [37] (./sp_bias_v4.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -294,12 +347,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2954 strings out of 50071
- 41278 string characters out of 432827
- 141137 words of memory out of 1100000
- 6056 multiletter control sequences out of 15000+15000
- 10502 words of font info for 39 fonts, out of 400000 for 9000
+ 3165 strings out of 50071
+ 44483 string characters out of 432826
+ 149373 words of memory out of 1100000
+ 6257 multiletter control sequences out of 15000+15000
+ 10802 words of font info for 40 fonts, out of 400000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,10n,42p,898b,354s stack positions out of 1500i,500n,1500p,200000b,5000s
+ 36i,10n,42p,912b,356s stack positions out of 1500i,500n,1500p,200000b,5000s
 
-Output written on sp_bias_v4.dvi (32 pages, 89912 bytes).
+Output written on sp_bias_v4.dvi (37 pages, 130476 bytes).

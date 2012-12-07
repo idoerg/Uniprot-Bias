@@ -3353,4 +3353,3 @@
 16429126	P43569	MFO	GO:0005515	protein binding
 11914276	P43569	CCO	GO:0005737	cytoplasm
  	 	 	 	This group has identical annotations:	 False
-#

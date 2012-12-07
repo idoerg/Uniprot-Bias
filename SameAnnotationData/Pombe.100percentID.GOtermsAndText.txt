@@ -1058,4 +1058,3 @@
 16823372	Q9UTC0	CCO	GO:0005829	cytosol
 12529438	Q9UTC0	BPO	GO:0033554	cellular response to stress
  	 	 	 	This group has identical annotations:	 False
-#

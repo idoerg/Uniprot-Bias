@@ -1,0 +1,430 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Friedberg2006Automated}
+Friedberg I (2006) Automated protein function prediction--the genomic
+  challenge.
+\newblock Brief Bioinform 7: 225--242.
+\bibAnnoteFile{Friedberg2006Automated}
+
+\bibitem{Schnoes2009Annotation}
+Schnoes AM, Brown SD, Dodevski I, Babbitt PC (2009) Annotation error in public
+  databases: Misannotation of molecular function in enzyme superfamilies.
+\newblock PLoS Comput Biol 5: e1000605+.
+\bibAnnoteFile{Schnoes2009Annotation}
+
+\bibitem{Erdin2011180}
+Erdin S, Lisewski AM, Lichtarge O (2011) Protein function prediction: towards
+  integration of similarity metrics.
+\newblock Current Opinion in Structural Biology 21: 180 - 188.
+\bibAnnoteFile{Erdin2011180}
+
+\bibitem{Rentzsch2009210}
+Rentzsch R, Orengo CA (2009) Protein function prediction the power of
+  multiplicity.
+\newblock Trends in Biotechnology 27: 210 - 219.
+\bibAnnoteFile{Rentzsch2009210}
+
+\bibitem{Stahl2012Toward}
+Ståhl PL, Lundeberg J (2012) Toward the single-hour high-quality genome.
+\newblock Annual Review of Biochemistry 81: 359-378.
+\bibAnnoteFile{Stahl2012Toward}
+
+\bibitem{Sboner2011Real}
+Sboner A, Mu X, Greenbaum D, Auerbach R, Gerstein M (2011) The real cost of
+  sequencing: higher than you think!
+\newblock Genome Biology 12: 125+.
+\bibAnnoteFile{Sboner2011Real}
+
+\bibitem{Dimmer2012UniProtGO}
+Dimmer EC, Huntley RP, Alam-Faruque Y, Sawford T, O'Donovan C, et~al. (2012)
+  The uniprot-go annotation database in 2011.
+\newblock Nucleic Acids Research 40: D565--D570.
+\bibAnnoteFile{Dimmer2012UniProtGO}
+
+\bibitem{Ashburner2000Gene}
+Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, et~al. (2000) Gene
+  ontology: tool for the unification of biology.
+\newblock Nature Genetics 25: 25--29.
+\bibAnnoteFile{Ashburner2000Gene}
+
+\bibitem{Altschul1997Gapped}
+Altschul SF, Madden TL, Sch\"{a}ffer AA, Zhang J, Zhang Z, et~al. (1997) Gapped
+  blast and psi-blast: a new generation of protein database search programs.
+\newblock Nucleic acids research 25: 3389--3402.
+\bibAnnoteFile{Altschul1997Gapped}
+
+\bibitem{cd-hit3}
+Li W, Godzik A (2006) Cd-hit: a fast program for clustering and comparing large
+  sets of protein or nucleotide sequences.
+\newblock Bioinformatics 22: 1658--1659.
+\bibAnnoteFile{cd-hit3}
+
+\bibitem{Lord2003Investigating}
+Lord PW, Stevens RD, Brass A, Goble CA (2003) Investigating semantic similarity
+  measures across the gene ontology: the relationship between sequence and
+  annotation.
+\newblock Bioinformatics 19: 1275--1283.
+\bibAnnoteFile{Lord2003Investigating}
+
+\bibitem{Pesquita2009Semantic}
+Pesquita C, Faria D, Falc\~{a}o AO, Lord P, Couto FM (2009) Semantic similarity
+  in biomedical ontologies.
+\newblock PLoS Comput Biol 5: e1000443+.
+\bibAnnoteFile{Pesquita2009Semantic}
+
+\bibitem{pmid18029348}
+Barbe L, Lundberg E, Oksvold P, Stenius A, Lewin E, et~al. (2008) {{T}oward a
+  confocal subcellular atlas of the human proteome}.
+\newblock Mol Cell Proteomics 7: 499--508.
+\bibAnnoteFile{pmid18029348}
+
+\bibitem{pmid17412918}
+Goshima G, Wollman R, Goodwin SS, Zhang N, Scholey JM, et~al. (2007) {{G}enes
+  required for mitotic spindle assembly in {D}rosophila {S}2 cells}.
+\newblock Science 316: 417--421.
+\bibAnnoteFile{pmid17412918}
+
+\bibitem{pmid18433294}
+Hughes JR, Meireles AM, Fisher KH, Garcia A, Antrobus PR, et~al. (2008) {{A}
+  microtubule interactome: complexes with roles in cell cycle and mitosis}.
+\newblock PLoS Biol 6: e98.
+\bibAnnoteFile{pmid18433294}
+
+\bibitem{Skunca2012Quality}
+\v{S}kunca N, Altenhoff A, Dessimoz C (2012) Quality of computationally
+  inferred gene ontology annotations.
+\newblock PLoS Comput Biol 8: e1002533+.
+\bibAnnoteFile{Skunca2012Quality}
+
+\bibitem{pmid16823372}
+Matsuyama A, Arai R, Yashiroda Y, Shirai A, Kamata A, et~al. (2006)
+  {{O}{R}{F}eome cloning and global analysis of protein localization in the
+  fission yeast {S}chizosaccharomyces pombe}.
+\newblock Nat Biotechnol 24: 841--847.
+\bibAnnoteFile{pmid16823372}
+
+\bibitem{pmid18614015}
+Pagliarini DJ, Calvo SE, Chang B, Sheth SA, Vafai SB, et~al. (2008) {{A}
+  mitochondrial protein compendium elucidates complex {I} disease biology}.
+\newblock Cell 134: 112--123.
+\bibAnnoteFile{pmid18614015}
+
+\bibitem{pmid14551910}
+Simmer F, Moorman C, van~der Linden AM, Kuijk E, van~den Berghe PV, et~al.
+  (2003) {{G}enome-wide {R}{N}{A}i of {C}. elegans using the hypersensitive
+  rrf-3 strain reveals novel gene functions}.
+\newblock PLoS Biol 1: E12.
+\bibAnnoteFile{pmid14551910}
+
+\bibitem{pmid14562095}
+Huh WK, Falvo JV, Gerke LC, Carroll AS, Howson RW, et~al. (2003) {{G}lobal
+  analysis of protein localization in budding yeast}.
+\newblock Nature 425: 686--691.
+\bibAnnoteFile{pmid14562095}
+
+\bibitem{pmid18431481}
+Zybailov B, Rutschow H, Friso G, Rudella A, Emanuelsson O, et~al. (2008)
+  {{S}orting signals, {N}-terminal modifications and abundance of the
+  chloroplast proteome}.
+\newblock PLoS ONE 3: e1994.
+\bibAnnoteFile{pmid18431481}
+
+\bibitem{pmid15791247}
+Sonnichsen B, Koski LB, Walsh A, Marschall P, Neumann B, et~al. (2005)
+  {{F}ull-genome {R}{N}{A}i profiling of early embryogenesis in
+  {C}aenorhabditis elegans}.
+\newblock Nature 434: 462--469.
+\bibAnnoteFile{pmid15791247}
+
+\bibitem{pmid14651853}
+Mootha VK, Bunkenborg J, Olsen JV, Hjerrild M, Wisniewski JR, et~al. (2003)
+  {{I}ntegrated analysis of protein composition, tissue diversity, and gene
+  regulation in mouse mitochondria}.
+\newblock Cell 115: 629--640.
+\bibAnnoteFile{pmid14651853}
+
+\bibitem{pmid17317660}
+Benschop JJ, Mohammed S, O'Flaherty M, Heck AJ, Slijper M, et~al. (2007)
+  {{Q}uantitative phosphoproteomics of early elicitor signaling in
+  {A}rabidopsis}.
+\newblock Mol Cell Proteomics 6: 1198--1214.
+\bibAnnoteFile{pmid17317660}
+
+\bibitem{pmid12529635}
+Kamath RS, Fraser AG, Dong Y, Poulin G, Durbin R, et~al. (2003) {{S}ystematic
+  functional analysis of the {C}aenorhabditis elegans genome using {R}{N}{A}i}.
+\newblock Nature 421: 231--237.
+\bibAnnoteFile{pmid12529635}
+
+\bibitem{pmid15525680}
+Mawuenyega KG, Forst CV, Dobos KM, Belisle JT, Chen J, et~al. (2005)
+  {{M}ycobacterium tuberculosis functional network analysis by global
+  subcellular protein profiling}.
+\newblock Mol Biol Cell 16: 396--404.
+\bibAnnoteFile{pmid15525680}
+
+\bibitem{pmid21166475}
+Ito J, Batth TS, Petzold CJ, Redding-Johanson AM, Mukhopadhyay A, et~al. (2011)
+  {{A}nalysis of the {A}rabidopsis cytosolic proteome highlights subcellular
+  partitioning of central plant metabolism}.
+\newblock J Proteome Res 10: 1571--1582.
+\bibAnnoteFile{pmid21166475}
+
+\bibitem{pmid15489339}
+Rual JF, Ceron J, Koreth J, Hao T, Nicot AS, et~al. (2004) {{T}oward improving
+  {C}aenorhabditis elegans phenome mapping with an {O}{R}{F}eome-based
+  {R}{N}{A}i library}.
+\newblock Genome Res 14: 2162--2168.
+\bibAnnoteFile{pmid15489339}
+
+\bibitem{pmid16823961}
+Reinders J, Zahedi RP, Pfanner N, Meisinger C, Sickmann A (2006) {{T}oward the
+  complete yeast mitochondrial proteome: multidimensional separation techniques
+  for mitochondrial proteomics}.
+\newblock J Proteome Res 5: 1543--1554.
+\bibAnnoteFile{pmid16823961}
+
+\bibitem{pmid21533090}
+Fernandez-Calvino L, Faulkner C, Walshaw J, Saalbach G, Bayer E, et~al. (2011)
+  {{A}rabidopsis plasmodesmal proteome}.
+\newblock PLoS ONE 6: e18880.
+\bibAnnoteFile{pmid21533090}
+
+\bibitem{pmid14532352}
+Gu S, Chen J, Dobos KM, Bradbury EM, Belisle JT, et~al. (2003) {{C}omprehensive
+  proteomic profiling of the membrane constituents of a {M}ycobacterium
+  tuberculosis strain}.
+\newblock Mol Cell Proteomics 2: 1284--1296.
+\bibAnnoteFile{pmid14532352}
+
+\bibitem{pmid20061580}
+Ferro M, Brugiere S, Salvi D, Seigneurin-Berny D, Court M, et~al. (2010)
+  {ATCHLORO, a comprehensive chloroplast proteome database with subplastidial
+  localization and curated information on envelope proteins}.
+\newblock Mol Cell Proteomics 9: 1063--1084.
+\bibAnnoteFile{pmid20061580}
+
+\bibitem{pmid15028209}
+Kleffmann T, Russenberger D, von Zychlinski A, Christopher W, Sjolander K,
+  et~al. (2004) {{T}he {A}rabidopsis thaliana chloroplast proteome reveals
+  pathway abundance and novel protein functions}.
+\newblock Curr Biol 14: 354--362.
+\bibAnnoteFile{pmid15028209}
+
+\bibitem{pmid12657046}
+Sassetti CM, Boyd DH, Rubin EJ (2003) {{G}enes required for mycobacterial
+  growth defined by high density mutagenesis}.
+\newblock Mol Microbiol 48: 77--84.
+\bibAnnoteFile{pmid12657046}
+
+\bibitem{pmid17704769}
+Balklava Z, Pant S, Fares H, Grant BD (2007) {{G}enome-wide analysis identifies
+  a general requirement for polarity proteins in endocytic traffic}.
+\newblock Nat Cell Biol 9: 1066--1073.
+\bibAnnoteFile{pmid17704769}
+
+\bibitem{pmid17432890}
+Mitra SK, Gantt JA, Ruby JF, Clouse SD, Goshe MB (2007) {{M}embrane proteomic
+  analysis of {A}rabidopsis thaliana using alternative solubilization
+  techniques}.
+\newblock J Proteome Res 6: 1933--1950.
+\bibAnnoteFile{pmid17432890}
+
+\bibitem{pmid11231151}
+Maeda I, Kohara Y, Yamamoto M, Sugimoto A (2001) {{L}arge-scale analysis of
+  gene function in {C}aenorhabditis elegans by high-throughput {R}{N}{A}i}.
+\newblock Curr Biol 11: 171--176.
+\bibAnnoteFile{pmid11231151}
+
+\bibitem{pmid17417969}
+Ceron J, Rual JF, Chandra A, Dupuy D, Vidal M, et~al. (2007) {{L}arge-scale
+  {R}{N}{A}i screens identify novel genes that interact with the {C}. elegans
+  retinoblastoma pathway as well as splicing-related components with syn{M}uv
+  {B} activity}.
+\newblock BMC Dev Biol 7: 30.
+\bibAnnoteFile{pmid17417969}
+
+\bibitem{pmid14576278}
+Sickmann A, Reinders J, Wagner Y, Joppich C, Zahedi R, et~al. (2003) {{T}he
+  proteome of {S}accharomyces cerevisiae mitochondria}.
+\newblock Proc Natl Acad Sci USA 100: 13207--13212.
+\bibAnnoteFile{pmid14576278}
+
+\bibitem{pmid16429126}
+Gavin AC, Aloy P, Grandi P, Krause R, Boesche M, et~al. (2006) {{P}roteome
+  survey reveals modularity of the yeast cell machinery}.
+\newblock Nature 440: 631--636.
+\bibAnnoteFile{pmid16429126}
+
+\bibitem{pmid21529718}
+Green RA, Kao HL, Audhya A, Arur S, Mayers JR, et~al. (2011) {{A}
+  high-resolution {C}. elegans essential gene network based on phenotypic
+  profiling of a complex tissue}.
+\newblock Cell 145: 470--482.
+\bibAnnoteFile{pmid21529718}
+
+\bibitem{pmid11256614}
+Simpson JC, Wellenreuther R, Poustka A, Pepperkok R, Wiemann S (2000)
+  {{S}ystematic subcellular localization of novel proteins identified by
+  large-scale c{D}{N}{A} sequencing}.
+\newblock EMBO Rep 1: 287--292.
+\bibAnnoteFile{pmid11256614}
+
+\bibitem{pmid17644812}
+Marmagne A, Ferro M, Meinnel T, Bruley C, Kuhn L, et~al. (2007) {{A} high
+  content in lipid-modified peripheral proteins and integral receptor kinases
+  features in the arabidopsis plasma membrane proteome}.
+\newblock Mol Cell Proteomics 6: 1980--1996.
+\bibAnnoteFile{pmid17644812}
+
+\bibitem{pmid16618929}
+Dunkley TP, Hester S, Shadforth IP, Runions J, Weimar T, et~al. (2006)
+  {{M}apping the {A}rabidopsis organelle proteome}.
+\newblock Proc Natl Acad Sci USA 103: 6518--6523.
+\bibAnnoteFile{pmid16618929}
+
+\bibitem{pmid17151019}
+Jaquinod M, Villiers F, Kieffer-Jaquinod S, Hugouvieux V, Bruley C, et~al.
+  (2007) {{A} proteomics dissection of {A}rabidopsis thaliana vacuoles isolated
+  from cell culture}.
+\newblock Mol Cell Proteomics 6: 394--412.
+\bibAnnoteFile{pmid17151019}
+
+\bibitem{pmid14671022}
+Heazlewood JL, Tonti-Filippini JS, Gout AM, Day DA, Whelan J, et~al. (2004)
+  {{E}xperimental analysis of the {A}rabidopsis mitochondrial proteome
+  highlights signaling and regulatory components, provides assessment of
+  targeting prediction programs, and indicates plant-specific mitochondrial
+  proteins}.
+\newblock Plant Cell 16: 241--256.
+\bibAnnoteFile{pmid14671022}
+
+\bibitem{pmid12529643}
+Ashrafi K, Chang FY, Watts JL, Fraser AG, Kamath RS, et~al. (2003)
+  {{G}enome-wide {R}{N}{A}i analysis of {C}aenorhabditis elegans fat regulatory
+  genes}.
+\newblock Nature 421: 268--272.
+\bibAnnoteFile{pmid12529643}
+
+\bibitem{pmid12445391}
+Piano F, Schetter AJ, Morton DG, Gunsalus KC, Reinke V, et~al. (2002) {{G}ene
+  clustering based on {R}{N}{A}i phenotypes of ovary-enriched genes in {C}.
+  elegans}.
+\newblock Curr Biol 12: 1959--1964.
+\bibAnnoteFile{pmid12445391}
+
+\bibitem{pmid15539469}
+Carter C, Pan S, Zouhar J, Avila EL, Girke T, et~al. (2004) {{T}he vegetative
+  vacuole proteome of {A}rabidopsis thaliana reveals predicted and unexpected
+  proteins}.
+\newblock Plant Cell 16: 3285--3303.
+\bibAnnoteFile{pmid15539469}
+
+\bibitem{pmid12865426}
+Da~Cruz S, Xenarios I, Langridge J, Vilbois F, Parone PA, et~al. (2003)
+  {{P}roteomic analysis of the mouse liver mitochondrial inner membrane}.
+\newblock J Biol Chem 278: 41566--41571.
+\bibAnnoteFile{pmid12865426}
+
+\bibitem{pmid16189514}
+Rual JF, Venkatesan K, Hao T, Hirozane-Kishikawa T, Dricot A, et~al. (2005)
+  {{T}owards a proteome-scale map of the human protein-protein interaction
+  network}.
+\newblock Nature 437: 1173--1178.
+\bibAnnoteFile{pmid16189514}
+
+\bibitem{pmid20422638}
+Bakthavatsalam D, Gomer RH (2010) {{T}he secreted proteome profile of
+  developing {D}ictyostelium discoideum cells}.
+\newblock Proteomics 10: 2556--2559.
+\bibAnnoteFile{pmid20422638}
+
+\bibitem{pmid12938931}
+Froehlich JE, Wilkerson CG, Ray WK, McAndrew RS, Osteryoung KW, et~al. (2003)
+  {{P}roteomic study of the {A}rabidopsis thaliana chloroplastic envelope
+  membrane utilizing alternatives to traditional two-dimensional
+  electrophoresis}.
+\newblock J Proteome Res 2: 413--425.
+\bibAnnoteFile{pmid12938931}
+
+\bibitem{pmid16336044}
+Stroschein-Stevenson SL, Foley E, O'Farrell PH, Johnson AD (2006)
+  {{I}dentification of {D}rosophila gene products required for phagocytosis of
+  {C}andida albicans}.
+\newblock PLoS Biol 4: e4.
+\bibAnnoteFile{pmid16336044}
+
+\bibitem{pmid18633119}
+Rutschow H, Ytterberg AJ, Friso G, Nilsson R, van Wijk KJ (2008)
+  {{Q}uantitative proteomics of a chloroplast {S}{R}{P}54 sorting mutant and
+  its genetic interactions with {C}{L}{P}{C}1 in {A}rabidopsis}.
+\newblock Plant Physiol 148: 156--175.
+\bibAnnoteFile{pmid18633119}
+
+\bibitem{pmid11914276}
+Kumar A, Agarwal S, Heyman JA, Matson S, Heidtman M, et~al. (2002)
+  {{S}ubcellular localization of the yeast proteome}.
+\newblock Genes Dev 16: 707--719.
+\bibAnnoteFile{pmid11914276}
+
+\bibitem{pmid11099033}
+Fraser AG, Kamath RS, Zipperlen P, Martinez-Campos M, Sohrmann M, et~al. (2000)
+  {{F}unctional genomic analysis of {C}. elegans chromosome {I} by systematic
+  RNA interference}.
+\newblock Nature 408: 325--330.
+\bibAnnoteFile{pmid11099033}
+
+\bibitem{pmid11099034}
+Gonczy P, Echeverri C, Oegema K, Coulson A, Jones SJ, et~al. (2000)
+  {{F}unctional genomic analysis of cell division in {C}. elegans using
+  {R}{N}{A}i of genes on chromosome {I}{I}{I}}.
+\newblock Nature 408: 331--336.
+\bibAnnoteFile{pmid11099034}
+
+\bibitem{pmid11591653}
+Suzuki H, Fukunishi Y, Kagawa I, Saito R, Oda H, et~al. (2001)
+  {{P}rotein-protein interaction panel using mouse full-length c{D}{N}{A}s}.
+\newblock Genome Res 11: 1758--1765.
+\bibAnnoteFile{pmid11591653}
+
+\bibitem{pmid16502469}
+Sarry JE, Kuhn L, Ducruix C, Lafaye A, Junot C, et~al. (2006) {{T}he early
+  responses of {A}rabidopsis thaliana cells to cadmium exposure explored by
+  protein and metabolite profiling analyses}.
+\newblock Proteomics 6: 2180--2198.
+\bibAnnoteFile{pmid16502469}
+
+\bibitem{pmid12529438}
+Chen D, Toone WM, Mata J, Lyne R, Burns G, et~al. (2003) {{G}lobal
+  transcriptional responses of fission yeast to environmental stress}.
+\newblock Mol Biol Cell 14: 214--229.
+\bibAnnoteFile{pmid12529438}
+
+\bibitem{pmid18981222}
+Herold N, Will CL, Wolf E, Kastner B, Urlaub H, et~al. (2009) {{C}onservation
+  of the protein composition and electron microscopy structure of {D}rosophila
+  melanogaster and human spliceosomal complexes}.
+\newblock Mol Cell Biol 29: 281--301.
+\bibAnnoteFile{pmid18981222}
+
+\bibitem{pmid16287169}
+Bayer EM, Bottrill AR, Walshaw J, Vigouroux M, Naldrett MJ, et~al. (2006)
+  {{A}rabidopsis cell wall proteome defined using multidimensional protein
+  identification technology}.
+\newblock Proteomics 6: 301--311.
+\bibAnnoteFile{pmid16287169}
+
+\end{thebibliography}

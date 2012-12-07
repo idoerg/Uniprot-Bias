@@ -1,0 +1,25 @@
+Species	Ontology	Nannot	mean	stdv	stderr	Npapers	Nterms
+A. thaliana	mfo	0	0	0	0	0	0
+A. thaliana	bpo	207	0	0	0	1	1
+A. thaliana	cco	1941	0.251	0.328	0.007	15	18
+C. elegans	mfo	0	0	0	0	0	0
+C. elegans	bpo	1847	0.388	0.239	0.006	12	41
+C. elegans	cco	2	0	0	0	1	1
+D. melanogaster	mfo	0	0	0	0	0	0
+D. melanogaster	bpo	76	0.086	0.22	0.025	3	8
+D. melanogaster	cco	81	0.068	0.234	0.026	3	5
+H. sapiens	mfo	89	0.17	0.367	0.039	1	2
+H. sapiens	bpo	0	0	0	0	0	0
+H. sapiens	cco	167	0.285	0.365	0.028	2	20
+M. musculus	mfo	11	0.114	0.247	0.074	1	2
+M. musculus	bpo	0	0	0	0	0	0
+M. musculus	cco	807	0.832	0.291	0.01	3	2
+S. pombe	mfo	0	0	0	0		
+S. pombe	bpo	221	0	0	0	1	4
+S. pombe	cco	221	0	0	0	1	12
+S. cerevisiae	mfo	163	0.123	0.328	0.026	1	1
+S. cerevisiae	bpo	0	0	0	0	0	0
+S. cerevisiae	cco	744	0.759	0.379	0.014	4	15
+B. tuberculosis	mfo	0	0	0	0	0	0
+B. tuberculosis	bpo	328	0	0	0	1	1
+B. tuberculosis	cco	532	0.309	0.41	0.018	2	3

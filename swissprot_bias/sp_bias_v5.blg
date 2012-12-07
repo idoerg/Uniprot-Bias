@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sp_bias_v5.aux
+The style file: plos2009.bst
+Database file #1: sp_bias.bib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 63 entries,
+            2441 wiz_defined-function locations,
+            934 strings with 24281 characters,
+and the built_in function-call counts, 64114 in all, are:
+= -- 5897
+> -- 1328
+< -- 0
++ -- 664
+- -- 332
+* -- 5565
+:= -- 7710
+add.period$ -- 126
+call.type$ -- 63
+change.case$ -- 63
+chr.to.int$ -- 0
+cite$ -- 126
+duplicate$ -- 6173
+empty$ -- 6507
+format.name$ -- 394
+if$ -- 14213
+int.to.chr$ -- 0
+int.to.str$ -- 63
+missing$ -- 773
+newline$ -- 330
+num.names$ -- 63
+pop$ -- 818
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 633
+stack$ -- 0
+substring$ -- 9433
+swap$ -- 1546
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 521
+width$ -- 65
+write$ -- 707

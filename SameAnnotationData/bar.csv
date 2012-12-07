@@ -1,0 +1,25 @@
+file	ontology	n	mean	stdv	stderr	Npapers	Nterms
+AThaliana	mfo	0	0	0	0	0	0
+AThaliana	bpo	207	0	0	0	1	1
+AThaliana	cco	1941	0.251	0.328	0.007	15	18
+Celegans	mfo	0	0	0	0	0	0
+Celegans	bpo	1847	0.388	0.239	0.006	12	41
+Celegans	cco	2	0	0	0	1	1
+Drosophila	mfo	0	0	0	0	0	0
+Drosophila	bpo	76	0.086	0.22	0.025	3	8
+Drosophila	cco	81	0.068	0.234	0.026	3	5
+Human	mfo	89	0.17	0.367	0.039	1	2
+Human	bpo	0	0	0	0	0	0
+Human	cco	167	0.285	0.365	0.028	2	20
+Mouse	mfo	11	0.114	0.247	0.074	1	2
+Mouse	bpo	0	0	0	0	0	0
+Mouse	cco	807	0.832	0.291	0.01	3	2
+Pombe	mfo	0	0	0	0		
+Pombe	bpo	221	0	0	0	1	4
+Pombe	cco	221	0	0	0	1	12
+SacC	mfo	163	0.123	0.328	0.026	1	1
+SacC	bpo	0	0	0	0	0	0
+SacC	cco	744	0.759	0.379	0.014	4	15
+TB	mfo	0	0	0	0	0	0
+TB	bpo	328	0	0	0	1	1
+TB	cco	532	0.309	0.41	0.018	2	3

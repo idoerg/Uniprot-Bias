@@ -7,12 +7,12 @@ Warning--I didn't find a database entry for "Fetrow2012"
 Warning--I didn't find a database entry for "PMIDStahl2012Toward"
 Warning--I didn't find a database entry for "CD_HIT"
 Warning--I didn't find a database entry for "lord-semsim"
-Warning--I didn't find a database entry for "MS-papers"
-Warning--I didn't find a database entry for "relevantpapers"
+Warning--I didn't find a database entry for "MS-articles"
+Warning--I didn't find a database entry for "relevantarticles"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 58 entries,
             2441 wiz_defined-function locations,
-            905 strings with 23007 characters,
+            905 strings with 23013 characters,
 and the built_in function-call counts, 60100 in all, are:
 = -- 5522
 > -- 1264

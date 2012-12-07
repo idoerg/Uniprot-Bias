@@ -533,6 +533,15 @@ from scipy import stats
 import numpy as np
 
 def go_info_content_stats_all(inpath_list):
+    # Get a list of files. Each file has data in the following format:
+    # First file: (papers_go_info_content.txt)
+    #GO_ID   Information_content TERM_TYPE
+
+    # Next files: (top_papers_go_depth_pp.txt)
+    # GO_ID   TERM_TYPE     DEPTH    PROT_ID
+
+    # Caller script: go_ic_stats.py
+
     fignum=  0
     colors = ('b','g','r','c','m','o')
     titles = []
